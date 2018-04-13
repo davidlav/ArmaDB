@@ -58,7 +58,8 @@
   },
   "scripts": {
     "start": "nps",
-    "test": "nps test"
+    "test": "nps test",
+    "build": "au build --env prod"
   },
   "main": "dist/app.bundle.js"
 }
