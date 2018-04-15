@@ -1,12 +1,11 @@
 {
   "name": "armadb",
   "version": "0.1.0",
-  "description": "An Aurelia client application.",
+  "description": "An online, searchable database of official and 3rd party Arma assets",
   "license": "MIT",
-  "main": "dist/app.bundle.js",
   "repository": {
-    "type": "???",
-    "url": "???"
+    "type": "git",
+    "url": "github:davidlav/ArmaDB"
   },
   "scripts": {
     "build": "au build --env prod",
@@ -58,7 +57,6 @@
     "webpack-cli": "^2.0.12",
     "webpack-dev-server": "^3.1.1"
   },
-  "peerDependencies": {},
   "engines": {
     "node": ">= 6.0.0"
   }
