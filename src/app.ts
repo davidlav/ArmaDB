@@ -1,6 +1,7 @@
+import {VehicleProxy, WeaponsEntity2Proxy} from './models/proxies';
+
 export class App {
   message = 'Hello World!';
-  data;
 
   constructor() {
     this.getData();
@@ -8,8 +9,12 @@ export class App {
 
   async getData() {
     const resp = await fetch('data/vehicles.json');
-    this.data = await resp.json();
-    console.log(this.data);
+
+		const vehicleProxy:VehicleProxy = VehicleProxy.Create(await resp.json());
+    const gun2:WeaponsEntity2Proxy = vehicleProxy.vehicles.Motorcycle[0].weapons[0];
+    // gun2.position = 'woopy!'; // Can't overwrite, readonly
+
+    debugger;
   }
 
 }
