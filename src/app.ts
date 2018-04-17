@@ -1,20 +1,16 @@
-import {VehicleProxy, WeaponsEntity2Proxy} from './models/proxies';
+import '../node_modules/materialize-css/dist/css/materialize.min.css';
+import {DataApi} from './data-api';
+import {autoinject} from 'aurelia-framework';
 
+@autoinject
 export class App {
-  message = 'Hello World!';
 
-  constructor() {
-    this.getData();
+  constructor(private data:DataApi) {
+    this.showData();
   }
 
-  async getData() {
-    const resp = await fetch('data/vehicles.json');
-
-		const vehicleProxy:VehicleProxy = VehicleProxy.Create(await resp.json());
-    const gun2:WeaponsEntity2Proxy = vehicleProxy.vehicles.Motorcycle[0].weapons[0];
-    // gun2.position = 'woopy!'; // Can't overwrite, readonly
-
+  async showData() {
+    const vehData = await this.data.vehicleData();
     debugger;
   }
-
 }
