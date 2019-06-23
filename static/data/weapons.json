@@ -1,0 +1,6030 @@
+{
+  "weapons": [
+    {
+      "author": "Bohemia Interactive",
+      "className": "launch_NLAW_F",
+      "descriptionShort": "PCML Rocket Launcher",
+      "displayName": "PCML",
+      "dlc": "",
+      "side": 0,
+      "type": 4,
+      "PARENTS": [
+        "launch_NLAW_F",
+        "Launcher_Base_F",
+        "Launcher",
+        "LauncherCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "launch_RPG32_F",
+      "descriptionShort": "Rocket Launcher",
+      "displayName": "RPG-42 Alamut",
+      "dlc": "",
+      "side": 0,
+      "type": 4,
+      "PARENTS": [
+        "launch_RPG32_F",
+        "Launcher_Base_F",
+        "Launcher",
+        "LauncherCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "launch_B_Titan_F",
+      "descriptionShort": "Rocket Launcher<br />Ammo: 127 mm Titan Rocket",
+      "displayName": "Titan MPRL (Sand)",
+      "dlc": "",
+      "side": 0,
+      "type": 4,
+      "PARENTS": [
+        "launch_B_Titan_F",
+        "launch_Titan_base",
+        "Launcher_Base_F",
+        "Launcher",
+        "LauncherCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "launch_I_Titan_F",
+      "descriptionShort": "Rocket Launcher<br />Ammo: 127 mm Titan Rocket",
+      "displayName": "Titan MPRL (Digital)",
+      "dlc": "",
+      "side": 0,
+      "type": 4,
+      "PARENTS": [
+        "launch_I_Titan_F",
+        "launch_Titan_base",
+        "Launcher_Base_F",
+        "Launcher",
+        "LauncherCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "launch_O_Titan_F",
+      "descriptionShort": "Rocket Launcher<br />Ammo: 127 mm Titan Rocket",
+      "displayName": "Titan MPRL (Hex)",
+      "dlc": "",
+      "side": 0,
+      "type": 4,
+      "PARENTS": [
+        "launch_O_Titan_F",
+        "launch_Titan_base",
+        "Launcher_Base_F",
+        "Launcher",
+        "LauncherCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "launch_B_Titan_short_F",
+      "descriptionShort": "Rocket Launcher<br />Ammo: 127 mm Titan Rocket",
+      "displayName": "Titan MPRL Compact (Sand)",
+      "dlc": "",
+      "side": 0,
+      "type": 4,
+      "PARENTS": [
+        "launch_B_Titan_short_F",
+        "launch_Titan_short_base",
+        "launch_Titan_base",
+        "Launcher_Base_F",
+        "Launcher",
+        "LauncherCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "launch_I_Titan_short_F",
+      "descriptionShort": "Rocket Launcher<br />Ammo: 127 mm Titan Rocket",
+      "displayName": "Titan MPRL Compact (Olive)",
+      "dlc": "",
+      "side": 0,
+      "type": 4,
+      "PARENTS": [
+        "launch_I_Titan_short_F",
+        "launch_Titan_short_base",
+        "launch_Titan_base",
+        "Launcher_Base_F",
+        "Launcher",
+        "LauncherCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "launch_O_Titan_short_F",
+      "descriptionShort": "Rocket Launcher<br />Ammo: 127 mm Titan Rocket",
+      "displayName": "Titan MPRL Compact (Coyote)",
+      "dlc": "",
+      "side": 0,
+      "type": 4,
+      "PARENTS": [
+        "launch_O_Titan_short_F",
+        "launch_Titan_short_base",
+        "launch_Titan_base",
+        "Launcher_Base_F",
+        "Launcher",
+        "LauncherCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_01_F",
+      "descriptionShort": "Assault rifle <br/>Caliber: 7.62x54 mm",
+      "displayName": "Rahim 7.62 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_01_F",
+        "DMR_01_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_01_ACO_F",
+      "descriptionShort": "Assault rifle <br/>Caliber: 7.62x54 mm",
+      "displayName": "Rahim 7.62 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_01_ACO_F",
+        "srifle_DMR_01_F",
+        "DMR_01_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_01_MRCO_F",
+      "descriptionShort": "Assault rifle <br/>Caliber: 7.62x54 mm",
+      "displayName": "Rahim 7.62 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_01_MRCO_F",
+        "srifle_DMR_01_F",
+        "DMR_01_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_01_SOS_F",
+      "descriptionShort": "Assault rifle <br/>Caliber: 7.62x54 mm",
+      "displayName": "Rahim 7.62 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_01_SOS_F",
+        "srifle_DMR_01_F",
+        "DMR_01_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_01_DMS_F",
+      "descriptionShort": "Assault rifle <br/>Caliber: 7.62x54 mm",
+      "displayName": "Rahim 7.62 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_01_DMS_F",
+        "srifle_DMR_01_F",
+        "DMR_01_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_01_DMS_snds_F",
+      "descriptionShort": "Assault rifle <br/>Caliber: 7.62x54 mm",
+      "displayName": "Rahim 7.62 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_01_DMS_snds_F",
+        "srifle_DMR_01_F",
+        "DMR_01_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_01_ARCO_F",
+      "descriptionShort": "Assault rifle <br/>Caliber: 7.62x54 mm",
+      "displayName": "Rahim 7.62 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_01_ARCO_F",
+        "srifle_DMR_01_F",
+        "DMR_01_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_EBR_F",
+      "descriptionShort": "Assault rifle <br/>Caliber: 7.62x51 mm NATO",
+      "displayName": "Mk18 ABR 7.62 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_EBR_F",
+        "EBR_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_EBR_ACO_F",
+      "descriptionShort": "Assault rifle <br/>Caliber: 7.62x51 mm NATO",
+      "displayName": "Mk18 ABR 7.62 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_EBR_ACO_F",
+        "srifle_EBR_F",
+        "EBR_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_EBR_MRCO_pointer_F",
+      "descriptionShort": "Assault rifle <br/>Caliber: 7.62x51 mm NATO",
+      "displayName": "Mk18 ABR 7.62 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_EBR_MRCO_pointer_F",
+        "srifle_EBR_F",
+        "EBR_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_EBR_ARCO_pointer_F",
+      "descriptionShort": "Assault rifle <br/>Caliber: 7.62x51 mm NATO",
+      "displayName": "Mk18 ABR 7.62 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_EBR_ARCO_pointer_F",
+        "srifle_EBR_F",
+        "EBR_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_EBR_SOS_F",
+      "descriptionShort": "Assault rifle <br/>Caliber: 7.62x51 mm NATO",
+      "displayName": "Mk18 ABR 7.62 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_EBR_SOS_F",
+        "srifle_EBR_F",
+        "EBR_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_EBR_ARCO_pointer_snds_F",
+      "descriptionShort": "Assault rifle <br/>Caliber: 7.62x51 mm NATO",
+      "displayName": "Mk18 ABR 7.62 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_EBR_ARCO_pointer_snds_F",
+        "srifle_EBR_F",
+        "EBR_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_EBR_DMS_F",
+      "descriptionShort": "Assault rifle <br/>Caliber: 7.62x51 mm NATO",
+      "displayName": "Mk18 ABR 7.62 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_EBR_DMS_F",
+        "srifle_EBR_F",
+        "EBR_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_EBR_Hamr_pointer_F",
+      "descriptionShort": "Assault rifle <br/>Caliber: 7.62x51 mm NATO",
+      "displayName": "Mk18 ABR 7.62 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_EBR_Hamr_pointer_F",
+        "srifle_EBR_F",
+        "EBR_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_EBR_DMS_pointer_snds_F",
+      "descriptionShort": "Assault rifle <br/>Caliber: 7.62x51 mm NATO",
+      "displayName": "Mk18 ABR 7.62 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_EBR_DMS_pointer_snds_F",
+        "srifle_EBR_F",
+        "EBR_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_GM6_F",
+      "descriptionShort": "Sniper Rifle<br />Caliber: 12.7x108 mm Russian",
+      "displayName": "GM6 Lynx 12.7 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_GM6_F",
+        "GM6_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_GM6_SOS_F",
+      "descriptionShort": "Sniper Rifle<br />Caliber: 12.7x108 mm Russian",
+      "displayName": "GM6 Lynx 12.7 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_GM6_SOS_F",
+        "srifle_GM6_F",
+        "GM6_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_GM6_LRPS_F",
+      "descriptionShort": "Sniper Rifle<br />Caliber: 12.7x108 mm Russian",
+      "displayName": "GM6 Lynx 12.7 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_GM6_LRPS_F",
+        "srifle_GM6_F",
+        "GM6_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_GM6_camo_F",
+      "descriptionShort": "Sniper Rifle<br />Caliber: 12.7x108 mm Russian",
+      "displayName": "GM6 Lynx 12.7 mm (Camo)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_GM6_camo_F",
+        "srifle_GM6_F",
+        "GM6_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_GM6_camo_SOS_F",
+      "descriptionShort": "Sniper Rifle<br />Caliber: 12.7x108 mm Russian",
+      "displayName": "GM6 Lynx 12.7 mm (Camo)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_GM6_camo_SOS_F",
+        "srifle_GM6_camo_F",
+        "srifle_GM6_F",
+        "GM6_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_GM6_camo_LRPS_F",
+      "descriptionShort": "Sniper Rifle<br />Caliber: 12.7x108 mm Russian",
+      "displayName": "GM6 Lynx 12.7 mm (Camo)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_GM6_camo_LRPS_F",
+        "srifle_GM6_camo_F",
+        "srifle_GM6_F",
+        "GM6_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_LRR_F",
+      "descriptionShort": "Sniper Rifle<br />Caliber: .408",
+      "displayName": "M320 LRR .408",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_LRR_F",
+        "LRR_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_LRR_SOS_F",
+      "descriptionShort": "Sniper Rifle<br />Caliber: .408",
+      "displayName": "M320 LRR .408",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_LRR_SOS_F",
+        "srifle_LRR_F",
+        "LRR_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_LRR_LRPS_F",
+      "descriptionShort": "Sniper Rifle<br />Caliber: .408",
+      "displayName": "M320 LRR .408",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_LRR_LRPS_F",
+        "srifle_LRR_F",
+        "LRR_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_LRR_camo_F",
+      "descriptionShort": "Sniper Rifle<br />Caliber: .408",
+      "displayName": "M320 LRR .408 (Camo)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_LRR_camo_F",
+        "srifle_LRR_F",
+        "LRR_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_LRR_camo_SOS_F",
+      "descriptionShort": "Sniper Rifle<br />Caliber: .408",
+      "displayName": "M320 LRR .408 (Camo)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_LRR_camo_SOS_F",
+        "srifle_LRR_camo_F",
+        "srifle_LRR_F",
+        "LRR_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_LRR_camo_LRPS_F",
+      "descriptionShort": "Sniper Rifle<br />Caliber: .408",
+      "displayName": "M320 LRR .408 (Camo)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_LRR_camo_LRPS_F",
+        "srifle_LRR_camo_F",
+        "srifle_LRR_F",
+        "LRR_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "LMG_Mk200_F",
+      "descriptionShort": "Light Machine Gun<br />Caliber: 6.5x39 mm",
+      "displayName": "Mk200 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "LMG_Mk200_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "LMG_Mk200_MRCO_F",
+      "descriptionShort": "Light Machine Gun<br />Caliber: 6.5x39 mm",
+      "displayName": "Mk200 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "LMG_Mk200_MRCO_F",
+        "LMG_Mk200_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "LMG_Mk200_pointer_F",
+      "descriptionShort": "Light Machine Gun<br />Caliber: 6.5x39 mm",
+      "displayName": "Mk200 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "LMG_Mk200_pointer_F",
+        "LMG_Mk200_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "LMG_Zafir_F",
+      "descriptionShort": "Light Machine Gun<br />Caliber: 7.62x54 mm",
+      "displayName": "Zafir 7.62 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "LMG_Zafir_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "LMG_Zafir_pointer_F",
+      "descriptionShort": "Light Machine Gun<br />Caliber: 7.62x54 mm",
+      "displayName": "Zafir 7.62 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "LMG_Zafir_pointer_F",
+        "LMG_Zafir_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "LMG_Zafir_ARCO_F",
+      "descriptionShort": "Light Machine Gun<br />Caliber: 7.62x54 mm",
+      "displayName": "Zafir 7.62 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "LMG_Zafir_ARCO_F",
+        "LMG_Zafir_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "hgun_ACPC2_F",
+      "descriptionShort": "Handgun<br />Caliber: .45 ACP",
+      "displayName": "ACP-C2 .45 ACP",
+      "dlc": "",
+      "side": 0,
+      "type": 2,
+      "PARENTS": [
+        "hgun_ACPC2_F",
+        "Pistol_Base_F",
+        "Pistol",
+        "PistolCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "hgun_ACPC2_snds_F",
+      "descriptionShort": "Handgun<br />Caliber: .45 ACP",
+      "displayName": "ACP-C2 .45 ACP",
+      "dlc": "",
+      "side": 0,
+      "type": 2,
+      "PARENTS": [
+        "hgun_ACPC2_snds_F",
+        "hgun_ACPC2_F",
+        "Pistol_Base_F",
+        "Pistol",
+        "PistolCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "hgun_P07_F",
+      "descriptionShort": "Handgun<br />Caliber: 9x21 mm",
+      "displayName": "P07 9 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 2,
+      "PARENTS": [
+        "hgun_P07_F",
+        "Pistol_Base_F",
+        "Pistol",
+        "PistolCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "hgun_P07_snds_F",
+      "descriptionShort": "Handgun<br />Caliber: 9x21 mm",
+      "displayName": "P07 9 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 2,
+      "PARENTS": [
+        "hgun_P07_snds_F",
+        "hgun_P07_F",
+        "Pistol_Base_F",
+        "Pistol",
+        "PistolCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "hgun_Pistol_heavy_01_F",
+      "descriptionShort": "Handgun<br />Caliber: .45 ACP",
+      "displayName": "4-five .45 ACP",
+      "dlc": "",
+      "side": 0,
+      "type": 2,
+      "PARENTS": [
+        "hgun_Pistol_heavy_01_F",
+        "Pistol_Base_F",
+        "Pistol",
+        "PistolCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "hgun_Pistol_heavy_01_snds_F",
+      "descriptionShort": "Handgun<br />Caliber: .45 ACP",
+      "displayName": "4-five .45 ACP",
+      "dlc": "",
+      "side": 0,
+      "type": 2,
+      "PARENTS": [
+        "hgun_Pistol_heavy_01_snds_F",
+        "hgun_Pistol_heavy_01_F",
+        "Pistol_Base_F",
+        "Pistol",
+        "PistolCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "hgun_Pistol_heavy_01_MRD_F",
+      "descriptionShort": "Handgun<br />Caliber: .45 ACP",
+      "displayName": "4-five .45 ACP",
+      "dlc": "",
+      "side": 0,
+      "type": 2,
+      "PARENTS": [
+        "hgun_Pistol_heavy_01_MRD_F",
+        "hgun_Pistol_heavy_01_F",
+        "Pistol_Base_F",
+        "Pistol",
+        "PistolCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "hgun_Pistol_heavy_02_F",
+      "descriptionShort": "Handgun<br />Caliber: .45 ACP",
+      "displayName": "Zubr .45 ACP",
+      "dlc": "",
+      "side": 0,
+      "type": 2,
+      "PARENTS": [
+        "hgun_Pistol_heavy_02_F",
+        "Pistol_Base_F",
+        "Pistol",
+        "PistolCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "hgun_Pistol_heavy_02_Yorris_F",
+      "descriptionShort": "Handgun<br />Caliber: .45 ACP",
+      "displayName": "Zubr .45 ACP",
+      "dlc": "",
+      "side": 0,
+      "type": 2,
+      "PARENTS": [
+        "hgun_Pistol_heavy_02_Yorris_F",
+        "hgun_Pistol_heavy_02_F",
+        "Pistol_Base_F",
+        "Pistol",
+        "PistolCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "hgun_Rook40_F",
+      "descriptionShort": "Handgun<br />Caliber: 9x21 mm",
+      "displayName": "Rook-40 9 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 2,
+      "PARENTS": [
+        "hgun_Rook40_F",
+        "Pistol_Base_F",
+        "Pistol",
+        "PistolCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "hgun_Rook40_snds_F",
+      "descriptionShort": "Handgun<br />Caliber: 9x21 mm",
+      "displayName": "Rook-40 9 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 2,
+      "PARENTS": [
+        "hgun_Rook40_snds_F",
+        "hgun_Rook40_F",
+        "Pistol_Base_F",
+        "Pistol",
+        "PistolCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Katiba_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "Katiba 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Katiba_F",
+        "arifle_Katiba_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Katiba_C_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "Katiba Carbine 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Katiba_C_F",
+        "arifle_Katiba_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Katiba_GL_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm<br />Grenade Launcher<br />Caliber: 40 mm",
+      "displayName": "Katiba GL 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Katiba_GL_F",
+        "arifle_Katiba_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Katiba_C_ACO_pointer_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "Katiba Carbine 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Katiba_C_ACO_pointer_F",
+        "arifle_Katiba_C_F",
+        "arifle_Katiba_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Katiba_C_ACO_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "Katiba Carbine 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Katiba_C_ACO_F",
+        "arifle_Katiba_C_F",
+        "arifle_Katiba_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Katiba_ACO_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "Katiba 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Katiba_ACO_F",
+        "arifle_Katiba_F",
+        "arifle_Katiba_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Katiba_pointer_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "Katiba 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Katiba_pointer_F",
+        "arifle_Katiba_F",
+        "arifle_Katiba_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Katiba_ACO_pointer_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "Katiba 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Katiba_ACO_pointer_F",
+        "arifle_Katiba_F",
+        "arifle_Katiba_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Katiba_ARCO_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "Katiba 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Katiba_ARCO_F",
+        "arifle_Katiba_F",
+        "arifle_Katiba_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Katiba_ARCO_pointer_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "Katiba 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Katiba_ARCO_pointer_F",
+        "arifle_Katiba_F",
+        "arifle_Katiba_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Katiba_GL_ACO_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm<br />Grenade Launcher<br />Caliber: 40 mm",
+      "displayName": "Katiba GL 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Katiba_GL_ACO_F",
+        "arifle_Katiba_GL_F",
+        "arifle_Katiba_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Katiba_GL_ARCO_pointer_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm<br />Grenade Launcher<br />Caliber: 40 mm",
+      "displayName": "Katiba GL 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Katiba_GL_ARCO_pointer_F",
+        "arifle_Katiba_GL_F",
+        "arifle_Katiba_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Katiba_GL_ACO_pointer_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm<br />Grenade Launcher<br />Caliber: 40 mm",
+      "displayName": "Katiba GL 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Katiba_GL_ACO_pointer_F",
+        "arifle_Katiba_GL_F",
+        "arifle_Katiba_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Katiba_GL_Nstalker_pointer_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm<br />Grenade Launcher<br />Caliber: 40 mm",
+      "displayName": "Katiba GL 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Katiba_GL_Nstalker_pointer_F",
+        "arifle_Katiba_GL_F",
+        "arifle_Katiba_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Katiba_GL_ACO_pointer_snds_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm<br />Grenade Launcher<br />Caliber: 40 mm",
+      "displayName": "Katiba GL 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Katiba_GL_ACO_pointer_snds_F",
+        "arifle_Katiba_GL_F",
+        "arifle_Katiba_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Katiba_C_ACO_pointer_snds_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "Katiba Carbine 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Katiba_C_ACO_pointer_snds_F",
+        "arifle_Katiba_C_F",
+        "arifle_Katiba_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Katiba_ACO_pointer_snds_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "Katiba 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Katiba_ACO_pointer_snds_F",
+        "arifle_Katiba_F",
+        "arifle_Katiba_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Katiba_ARCO_pointer_snds_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "Katiba 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Katiba_ARCO_pointer_snds_F",
+        "arifle_Katiba_F",
+        "arifle_Katiba_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Mk20_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.56x45 mm",
+      "displayName": "Mk20 5.56 mm (Camo)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Mk20_F",
+        "mk20_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Mk20_plain_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.56x45 mm",
+      "displayName": "Mk20 5.56 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Mk20_plain_F",
+        "arifle_Mk20_F",
+        "mk20_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Mk20C_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.56x45 mm",
+      "displayName": "Mk20C 5.56 mm (Camo)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Mk20C_F",
+        "mk20_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Mk20C_plain_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.56x45 mm",
+      "displayName": "Mk20C 5.56 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Mk20C_plain_F",
+        "arifle_Mk20C_F",
+        "mk20_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Mk20_GL_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.56x45 mm",
+      "displayName": "Mk20 EGLM 5.56 mm (Camo)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Mk20_GL_F",
+        "mk20_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Mk20_GL_plain_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.56x45 mm",
+      "displayName": "Mk20 EGLM 5.56 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Mk20_GL_plain_F",
+        "arifle_Mk20_GL_F",
+        "mk20_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Mk20C_ACO_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.56x45 mm",
+      "displayName": "Mk20C 5.56 mm (Camo)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Mk20C_ACO_F",
+        "arifle_Mk20C_F",
+        "mk20_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Mk20C_ACO_pointer_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.56x45 mm",
+      "displayName": "Mk20C 5.56 mm (Camo)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Mk20C_ACO_pointer_F",
+        "arifle_Mk20C_F",
+        "mk20_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Mk20_pointer_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.56x45 mm",
+      "displayName": "Mk20 5.56 mm (Camo)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Mk20_pointer_F",
+        "arifle_Mk20_F",
+        "mk20_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Mk20_Holo_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.56x45 mm",
+      "displayName": "Mk20 5.56 mm (Camo)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Mk20_Holo_F",
+        "arifle_Mk20_F",
+        "mk20_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Mk20_ACO_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.56x45 mm",
+      "displayName": "Mk20 5.56 mm (Camo)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Mk20_ACO_F",
+        "arifle_Mk20_F",
+        "mk20_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Mk20_ACO_pointer_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.56x45 mm",
+      "displayName": "Mk20 5.56 mm (Camo)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Mk20_ACO_pointer_F",
+        "arifle_Mk20_F",
+        "mk20_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Mk20_MRCO_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.56x45 mm",
+      "displayName": "Mk20 5.56 mm (Camo)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Mk20_MRCO_F",
+        "arifle_Mk20_F",
+        "mk20_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Mk20_MRCO_plain_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.56x45 mm",
+      "displayName": "Mk20 5.56 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Mk20_MRCO_plain_F",
+        "arifle_Mk20_plain_F",
+        "arifle_Mk20_F",
+        "mk20_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Mk20_MRCO_pointer_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.56x45 mm",
+      "displayName": "Mk20 5.56 mm (Camo)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Mk20_MRCO_pointer_F",
+        "arifle_Mk20_F",
+        "mk20_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Mk20_GL_MRCO_pointer_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.56x45 mm",
+      "displayName": "Mk20 EGLM 5.56 mm (Camo)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Mk20_GL_MRCO_pointer_F",
+        "arifle_Mk20_GL_F",
+        "mk20_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_Mk20_GL_ACO_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.56x45 mm",
+      "displayName": "Mk20 EGLM 5.56 mm (Camo)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_Mk20_GL_ACO_F",
+        "arifle_Mk20_GL_F",
+        "mk20_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MXC_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MXC 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MXC_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MX 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_GL_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm<br />Grenade Launcher<br />Caliber: 40 mm",
+      "displayName": "MX 3GL 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_GL_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_SW_F",
+      "descriptionShort": "Light Machine Gun<br />Caliber: 6.5x39 mm",
+      "displayName": "MX SW 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_SW_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MXM_F",
+      "descriptionShort": "Marksman rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MXM 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MXM_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_pointer_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MX 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_pointer_F",
+        "arifle_MX_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_Holo_pointer_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MX 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_Holo_pointer_F",
+        "arifle_MX_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_Hamr_pointer_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MX 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_Hamr_pointer_F",
+        "arifle_MX_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_ACO_pointer_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MX 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_ACO_pointer_F",
+        "arifle_MX_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_ACO_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MX 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_ACO_F",
+        "arifle_MX_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_GL_ACO_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm<br />Grenade Launcher<br />Caliber: 40 mm",
+      "displayName": "MX 3GL 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_GL_ACO_F",
+        "arifle_MX_GL_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_GL_ACO_pointer_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm<br />Grenade Launcher<br />Caliber: 40 mm",
+      "displayName": "MX 3GL 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_GL_ACO_pointer_F",
+        "arifle_MX_GL_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_GL_Hamr_pointer_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm<br />Grenade Launcher<br />Caliber: 40 mm",
+      "displayName": "MX 3GL 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_GL_Hamr_pointer_F",
+        "arifle_MX_GL_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MXC_Holo_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MXC 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MXC_Holo_F",
+        "arifle_MXC_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MXC_Holo_pointer_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MXC 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MXC_Holo_pointer_F",
+        "arifle_MXC_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_SW_pointer_F",
+      "descriptionShort": "Light Machine Gun<br />Caliber: 6.5x39 mm",
+      "displayName": "MX SW 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_SW_pointer_F",
+        "arifle_MX_SW_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_SW_Hamr_pointer_F",
+      "descriptionShort": "Light Machine Gun<br />Caliber: 6.5x39 mm",
+      "displayName": "MX SW 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_SW_Hamr_pointer_F",
+        "arifle_MX_SW_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MXM_Hamr_pointer_F",
+      "descriptionShort": "Marksman rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MXM 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MXM_Hamr_pointer_F",
+        "arifle_MXM_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MXC_ACO_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MXC 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MXC_ACO_F",
+        "arifle_MXC_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MXC_Holo_pointer_snds_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MXC 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MXC_Holo_pointer_snds_F",
+        "arifle_MXC_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MXC_SOS_point_snds_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MXC 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MXC_SOS_point_snds_F",
+        "arifle_MXC_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MXC_ACO_pointer_snds_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MXC 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MXC_ACO_pointer_snds_F",
+        "arifle_MXC_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MXC_ACO_pointer_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MXC 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MXC_ACO_pointer_F",
+        "arifle_MXC_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_ACO_pointer_snds_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MX 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_ACO_pointer_snds_F",
+        "arifle_MX_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_RCO_pointer_snds_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MX 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_RCO_pointer_snds_F",
+        "arifle_MX_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_GL_Holo_pointer_snds_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm<br />Grenade Launcher<br />Caliber: 40 mm",
+      "displayName": "MX 3GL 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_GL_Holo_pointer_snds_F",
+        "arifle_MX_GL_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MXM_SOS_pointer_F",
+      "descriptionShort": "Marksman rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MXM 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MXM_SOS_pointer_F",
+        "arifle_MXM_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MXM_RCO_pointer_snds_F",
+      "descriptionShort": "Marksman rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MXM 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MXM_RCO_pointer_snds_F",
+        "arifle_MXM_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MXM_DMS_F",
+      "descriptionShort": "Marksman rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MXM 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MXM_DMS_F",
+        "arifle_MXM_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MXC_Black_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MXC 6.5 mm (Black)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MXC_Black_F",
+        "arifle_MXC_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_Black_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MX 6.5 mm (Black)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_Black_F",
+        "arifle_MX_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_GL_Black_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm<br />Grenade Launcher<br />Caliber: 40 mm",
+      "displayName": "MX 3GL 6.5 mm (Black)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_GL_Black_F",
+        "arifle_MX_GL_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_SW_Black_F",
+      "descriptionShort": "Light Machine Gun<br />Caliber: 6.5x39 mm",
+      "displayName": "MX SW 6.5 mm (Black)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_SW_Black_F",
+        "arifle_MX_SW_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MXM_Black_F",
+      "descriptionShort": "Marksman rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MXM 6.5 mm (Black)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MXM_Black_F",
+        "arifle_MXM_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_GL_Black_Hamr_pointer_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm<br />Grenade Launcher<br />Caliber: 40 mm",
+      "displayName": "MX 3GL 6.5 mm (Black)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_GL_Black_Hamr_pointer_F",
+        "arifle_MX_GL_Black_F",
+        "arifle_MX_GL_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_Black_Hamr_pointer_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MX 6.5 mm (Black)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_Black_Hamr_pointer_F",
+        "arifle_MX_Black_F",
+        "arifle_MX_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_SW_Black_Hamr_pointer_F",
+      "descriptionShort": "Light Machine Gun<br />Caliber: 6.5x39 mm",
+      "displayName": "MX SW 6.5 mm (Black)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_SW_Black_Hamr_pointer_F",
+        "arifle_MX_SW_Black_F",
+        "arifle_MX_SW_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_SDAR_F",
+      "descriptionShort": "Underwater Gun<br />Caliber: 5.56x45 mm UW",
+      "displayName": "SDAR 5.56 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_SDAR_F",
+        "SDAR_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_TRG21_F",
+      "descriptionShort": "Assault rifle  <br/>Caliber: 5.56x45 mm NATO",
+      "displayName": "TRG-21 5.56 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_TRG21_F",
+        "Tavor_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_TRG20_F",
+      "descriptionShort": "Assault rifle  <br/>Caliber: 5.56x45 mm NATO",
+      "displayName": "TRG-20 5.56 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_TRG20_F",
+        "Tavor_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_TRG21_GL_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.56x45 mm<br />Grenade Launcher<br />Caliber: 40 mm",
+      "displayName": "TRG-21 EGLM 5.56 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_TRG21_GL_F",
+        "arifle_TRG21_F",
+        "Tavor_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_TRG20_Holo_F",
+      "descriptionShort": "Assault rifle  <br/>Caliber: 5.56x45 mm NATO",
+      "displayName": "TRG-20 5.56 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_TRG20_Holo_F",
+        "arifle_TRG20_F",
+        "Tavor_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_TRG20_ACO_pointer_F",
+      "descriptionShort": "Assault rifle  <br/>Caliber: 5.56x45 mm NATO",
+      "displayName": "TRG-20 5.56 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_TRG20_ACO_pointer_F",
+        "arifle_TRG20_F",
+        "Tavor_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_TRG20_ACO_Flash_F",
+      "descriptionShort": "Assault rifle  <br/>Caliber: 5.56x45 mm NATO",
+      "displayName": "TRG-20 5.56 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_TRG20_ACO_Flash_F",
+        "arifle_TRG20_F",
+        "Tavor_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_TRG20_ACO_F",
+      "descriptionShort": "Assault rifle  <br/>Caliber: 5.56x45 mm NATO",
+      "displayName": "TRG-20 5.56 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_TRG20_ACO_F",
+        "arifle_TRG20_F",
+        "Tavor_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_TRG21_ACO_pointer_F",
+      "descriptionShort": "Assault rifle  <br/>Caliber: 5.56x45 mm NATO",
+      "displayName": "TRG-21 5.56 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_TRG21_ACO_pointer_F",
+        "arifle_TRG21_F",
+        "Tavor_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_TRG21_ARCO_pointer_F",
+      "descriptionShort": "Assault rifle  <br/>Caliber: 5.56x45 mm NATO",
+      "displayName": "TRG-21 5.56 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_TRG21_ARCO_pointer_F",
+        "arifle_TRG21_F",
+        "Tavor_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_TRG21_MRCO_F",
+      "descriptionShort": "Assault rifle  <br/>Caliber: 5.56x45 mm NATO",
+      "displayName": "TRG-21 5.56 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_TRG21_MRCO_F",
+        "arifle_TRG21_F",
+        "Tavor_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_TRG21_GL_MRCO_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.56x45 mm<br />Grenade Launcher<br />Caliber: 40 mm",
+      "displayName": "TRG-21 EGLM 5.56 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_TRG21_GL_MRCO_F",
+        "arifle_TRG21_GL_F",
+        "arifle_TRG21_F",
+        "Tavor_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_TRG21_GL_ACO_pointer_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.56x45 mm<br />Grenade Launcher<br />Caliber: 40 mm",
+      "displayName": "TRG-21 EGLM 5.56 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_TRG21_GL_ACO_pointer_F",
+        "arifle_TRG21_GL_F",
+        "arifle_TRG21_F",
+        "Tavor_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "hgun_PDW2000_F",
+      "descriptionShort": "Submachine Gun<br/>Caliber: 9x21 mm",
+      "displayName": "PDW2000 9 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "hgun_PDW2000_F",
+        "pdw2000_base_F",
+        "Rifle_Short_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "hgun_PDW2000_snds_F",
+      "descriptionShort": "Submachine Gun<br/>Caliber: 9x21 mm",
+      "displayName": "PDW2000 9 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "hgun_PDW2000_snds_F",
+        "hgun_PDW2000_F",
+        "pdw2000_base_F",
+        "Rifle_Short_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "hgun_PDW2000_Holo_F",
+      "descriptionShort": "Submachine Gun<br/>Caliber: 9x21 mm",
+      "displayName": "PDW2000 9 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "hgun_PDW2000_Holo_F",
+        "hgun_PDW2000_F",
+        "pdw2000_base_F",
+        "Rifle_Short_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "hgun_PDW2000_Holo_snds_F",
+      "descriptionShort": "Submachine Gun<br/>Caliber: 9x21 mm",
+      "displayName": "PDW2000 9 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "hgun_PDW2000_Holo_snds_F",
+        "hgun_PDW2000_F",
+        "pdw2000_base_F",
+        "Rifle_Short_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "SMG_01_F",
+      "descriptionShort": "Submachine Gun<br />Caliber: .45 ACP",
+      "displayName": "Vermin SMG .45 ACP",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "SMG_01_F",
+        "SMG_01_Base",
+        "Rifle_Short_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "SMG_01_Holo_F",
+      "descriptionShort": "Submachine Gun<br />Caliber: .45 ACP",
+      "displayName": "Vermin SMG .45 ACP",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "SMG_01_Holo_F",
+        "SMG_01_F",
+        "SMG_01_Base",
+        "Rifle_Short_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "SMG_01_Holo_pointer_snds_F",
+      "descriptionShort": "Submachine Gun<br />Caliber: .45 ACP",
+      "displayName": "Vermin SMG .45 ACP",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "SMG_01_Holo_pointer_snds_F",
+        "SMG_01_F",
+        "SMG_01_Base",
+        "Rifle_Short_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "SMG_01_ACO_F",
+      "descriptionShort": "Submachine Gun<br />Caliber: .45 ACP",
+      "displayName": "Vermin SMG .45 ACP",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "SMG_01_ACO_F",
+        "SMG_01_F",
+        "SMG_01_Base",
+        "Rifle_Short_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "SMG_02_F",
+      "descriptionShort": "Submachine Gun<br />Caliber: 9x21 mm",
+      "displayName": "Sting 9 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "SMG_02_F",
+        "SMG_02_base_F",
+        "Rifle_Short_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "SMG_02_ACO_F",
+      "descriptionShort": "Submachine Gun<br />Caliber: 9x21 mm",
+      "displayName": "Sting 9 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "SMG_02_ACO_F",
+        "SMG_02_F",
+        "SMG_02_base_F",
+        "Rifle_Short_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "SMG_02_ARCO_pointg_F",
+      "descriptionShort": "Submachine Gun<br />Caliber: 9x21 mm",
+      "displayName": "Sting 9 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "SMG_02_ARCO_pointg_F",
+        "SMG_02_F",
+        "SMG_02_base_F",
+        "Rifle_Short_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "hgun_Pistol_Signal_F",
+      "descriptionShort": "Non-combat gun<br />Caliber: 10 mm Signal Slugs",
+      "displayName": "Starter Pistol",
+      "dlc": "Kart",
+      "side": 0,
+      "type": 2,
+      "PARENTS": [
+        "hgun_Pistol_Signal_F",
+        "Pistol_Base_F",
+        "Pistol",
+        "PistolCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_01_DMS_BI_F",
+      "descriptionShort": "Assault rifle <br/>Caliber: 7.62x54 mm",
+      "displayName": "Rahim 7.62 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_01_DMS_BI_F",
+        "srifle_DMR_01_DMS_F",
+        "srifle_DMR_01_F",
+        "DMR_01_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_01_DMS_snds_BI_F",
+      "descriptionShort": "Assault rifle <br/>Caliber: 7.62x54 mm",
+      "displayName": "Rahim 7.62 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_01_DMS_snds_BI_F",
+        "srifle_DMR_01_DMS_snds_F",
+        "srifle_DMR_01_F",
+        "DMR_01_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_02_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: .338 Lapua Magnum",
+      "displayName": "MAR-10 .338 (Black)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_02_F",
+        "DMR_02_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_02_camo_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: .338 Lapua Magnum",
+      "displayName": "MAR-10 .338 (Camo)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_02_camo_F",
+        "srifle_DMR_02_F",
+        "DMR_02_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_02_sniper_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: .338 Lapua Magnum",
+      "displayName": "MAR-10 .338 (Sand)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_02_sniper_F",
+        "srifle_DMR_02_F",
+        "DMR_02_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_02_ACO_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: .338 Lapua Magnum",
+      "displayName": "MAR-10 .338 (Black)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_02_ACO_F",
+        "srifle_DMR_02_F",
+        "DMR_02_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_02_MRCO_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: .338 Lapua Magnum",
+      "displayName": "MAR-10 .338 (Black)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_02_MRCO_F",
+        "srifle_DMR_02_F",
+        "DMR_02_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_02_SOS_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: .338 Lapua Magnum",
+      "displayName": "MAR-10 .338 (Black)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_02_SOS_F",
+        "srifle_DMR_02_F",
+        "DMR_02_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_02_DMS_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: .338 Lapua Magnum",
+      "displayName": "MAR-10 .338 (Black)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_02_DMS_F",
+        "srifle_DMR_02_F",
+        "DMR_02_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_02_sniper_AMS_LP_S_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: .338 Lapua Magnum",
+      "displayName": "MAR-10 .338 (Sand)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_02_sniper_AMS_LP_S_F",
+        "srifle_DMR_02_sniper_F",
+        "srifle_DMR_02_F",
+        "DMR_02_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_02_camo_AMS_LP_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: .338 Lapua Magnum",
+      "displayName": "MAR-10 .338 (Camo)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_02_camo_AMS_LP_F",
+        "srifle_DMR_02_camo_F",
+        "srifle_DMR_02_F",
+        "DMR_02_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_02_ARCO_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: .338 Lapua Magnum",
+      "displayName": "MAR-10 .338 (Black)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_02_ARCO_F",
+        "srifle_DMR_02_F",
+        "DMR_02_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_03_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 7.62x51 mm NATO",
+      "displayName": "Mk-I EMR 7.62 mm (Black)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_03_F",
+        "DMR_03_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_03_khaki_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 7.62x51 mm NATO",
+      "displayName": "Mk-I EMR 7.62 mm (Khaki)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_03_khaki_F",
+        "srifle_DMR_03_F",
+        "DMR_03_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_03_tan_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 7.62x51 mm NATO",
+      "displayName": "Mk-I EMR 7.62 mm (Sand)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_03_tan_F",
+        "srifle_DMR_03_F",
+        "DMR_03_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_03_multicam_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 7.62x51 mm NATO",
+      "displayName": "Mk-I EMR 7.62 mm (Camo)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_03_multicam_F",
+        "srifle_DMR_03_F",
+        "DMR_03_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_03_woodland_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 7.62x51 mm NATO",
+      "displayName": "Mk-I EMR 7.62 mm (Woodland)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_03_woodland_F",
+        "srifle_DMR_03_F",
+        "DMR_03_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_03_ACO_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 7.62x51 mm NATO",
+      "displayName": "Mk-I EMR 7.62 mm (Black)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_03_ACO_F",
+        "srifle_DMR_03_F",
+        "DMR_03_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_03_MRCO_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 7.62x51 mm NATO",
+      "displayName": "Mk-I EMR 7.62 mm (Black)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_03_MRCO_F",
+        "srifle_DMR_03_F",
+        "DMR_03_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_03_SOS_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 7.62x51 mm NATO",
+      "displayName": "Mk-I EMR 7.62 mm (Black)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_03_SOS_F",
+        "srifle_DMR_03_F",
+        "DMR_03_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_03_DMS_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 7.62x51 mm NATO",
+      "displayName": "Mk-I EMR 7.62 mm (Black)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_03_DMS_F",
+        "srifle_DMR_03_F",
+        "DMR_03_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_03_tan_AMS_LP_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 7.62x51 mm NATO",
+      "displayName": "Mk-I EMR 7.62 mm (Sand)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_03_tan_AMS_LP_F",
+        "srifle_DMR_03_tan_F",
+        "srifle_DMR_03_F",
+        "DMR_03_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_03_DMS_snds_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 7.62x51 mm NATO",
+      "displayName": "Mk-I EMR 7.62 mm (Black)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_03_DMS_snds_F",
+        "srifle_DMR_03_F",
+        "DMR_03_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_03_ARCO_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 7.62x51 mm NATO",
+      "displayName": "Mk-I EMR 7.62 mm (Black)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_03_ARCO_F",
+        "srifle_DMR_03_F",
+        "DMR_03_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_03_AMS_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 7.62x51 mm NATO",
+      "displayName": "Mk-I EMR 7.62 mm (Black)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_03_AMS_F",
+        "srifle_DMR_03_F",
+        "DMR_03_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_04_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 12.7x54 mm",
+      "displayName": "ASP-1 Kir 12.7 mm (Black)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_04_F",
+        "DMR_04_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_04_Tan_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 12.7x54 mm",
+      "displayName": "ASP-1 Kir 12.7 mm (Tan)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_04_Tan_F",
+        "srifle_DMR_04_F",
+        "DMR_04_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_04_ACO_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 12.7x54 mm",
+      "displayName": "ASP-1 Kir 12.7 mm (Black)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_04_ACO_F",
+        "srifle_DMR_04_F",
+        "DMR_04_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_04_MRCO_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 12.7x54 mm",
+      "displayName": "ASP-1 Kir 12.7 mm (Black)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_04_MRCO_F",
+        "srifle_DMR_04_F",
+        "DMR_04_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_04_SOS_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 12.7x54 mm",
+      "displayName": "ASP-1 Kir 12.7 mm (Black)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_04_SOS_F",
+        "srifle_DMR_04_F",
+        "DMR_04_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_04_DMS_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 12.7x54 mm",
+      "displayName": "ASP-1 Kir 12.7 mm (Black)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_04_DMS_F",
+        "srifle_DMR_04_F",
+        "DMR_04_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_04_ARCO_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 12.7x54 mm",
+      "displayName": "ASP-1 Kir 12.7 mm (Black)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_04_ARCO_F",
+        "srifle_DMR_04_F",
+        "DMR_04_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_04_NS_LP_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 12.7x54 mm",
+      "displayName": "ASP-1 Kir 12.7 mm (Black)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_04_NS_LP_F",
+        "srifle_DMR_04_F",
+        "DMR_04_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_05_blk_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 9.3x64 mm",
+      "displayName": "Cyrus 9.3 mm (Black)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_05_blk_F",
+        "DMR_05_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_05_hex_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 9.3x64 mm",
+      "displayName": "Cyrus 9.3 mm (Hex)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_05_hex_F",
+        "srifle_DMR_05_blk_F",
+        "DMR_05_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_05_tan_f",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 9.3x64 mm",
+      "displayName": "Cyrus 9.3 mm (Tan)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_05_tan_f",
+        "srifle_DMR_05_blk_F",
+        "DMR_05_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_05_ACO_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 9.3x64 mm",
+      "displayName": "Cyrus 9.3 mm (Black)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_05_ACO_F",
+        "srifle_DMR_05_blk_F",
+        "DMR_05_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_05_MRCO_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 9.3x64 mm",
+      "displayName": "Cyrus 9.3 mm (Black)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_05_MRCO_F",
+        "srifle_DMR_05_blk_F",
+        "DMR_05_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_05_SOS_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 9.3x64 mm",
+      "displayName": "Cyrus 9.3 mm (Black)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_05_SOS_F",
+        "srifle_DMR_05_blk_F",
+        "DMR_05_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_05_DMS_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 9.3x64 mm",
+      "displayName": "Cyrus 9.3 mm (Black)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_05_DMS_F",
+        "srifle_DMR_05_blk_F",
+        "DMR_05_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_05_KHS_LP_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 9.3x64 mm",
+      "displayName": "Cyrus 9.3 mm (Black)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_05_KHS_LP_F",
+        "srifle_DMR_05_blk_F",
+        "DMR_05_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_05_DMS_snds_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 9.3x64 mm",
+      "displayName": "Cyrus 9.3 mm (Black)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_05_DMS_snds_F",
+        "srifle_DMR_05_blk_F",
+        "DMR_05_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_05_ARCO_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 9.3x64 mm",
+      "displayName": "Cyrus 9.3 mm (Black)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_05_ARCO_F",
+        "srifle_DMR_05_blk_F",
+        "DMR_05_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_06_camo_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 7.62x51 mm",
+      "displayName": "Mk14 7.62 mm (Camo)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_06_camo_F",
+        "DMR_06_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_06_olive_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 7.62x51 mm",
+      "displayName": "Mk14 7.62 mm (Olive)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_06_olive_F",
+        "srifle_DMR_06_camo_F",
+        "DMR_06_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_06_camo_khs_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 7.62x51 mm",
+      "displayName": "Mk14 7.62 mm (Camo)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_06_camo_khs_F",
+        "srifle_DMR_06_camo_F",
+        "DMR_06_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_EBR_MRCO_LP_BI_F",
+      "descriptionShort": "Assault rifle <br/>Caliber: 7.62x51 mm NATO",
+      "displayName": "Mk18 ABR 7.62 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_EBR_MRCO_LP_BI_F",
+        "srifle_EBR_F",
+        "EBR_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "LMG_Mk200_LP_BI_F",
+      "descriptionShort": "Light Machine Gun<br />Caliber: 6.5x39 mm",
+      "displayName": "Mk200 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "LMG_Mk200_LP_BI_F",
+        "LMG_Mk200_pointer_F",
+        "LMG_Mk200_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "LMG_Mk200_BI_F",
+      "descriptionShort": "Light Machine Gun<br />Caliber: 6.5x39 mm",
+      "displayName": "Mk200 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "LMG_Mk200_BI_F",
+        "LMG_Mk200_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "MMG_01_hex_F",
+      "descriptionShort": "Medium Machine Gun<br />Caliber: 9.3x64 mm",
+      "displayName": "Navid 9.3 mm (Hex)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "MMG_01_hex_F",
+        "MMG_01_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "MMG_01_tan_F",
+      "descriptionShort": "Medium Machine Gun<br />Caliber: 9.3x64 mm",
+      "displayName": "Navid 9.3 mm (Tan)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "MMG_01_tan_F",
+        "MMG_01_hex_F",
+        "MMG_01_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "MMG_01_hex_ARCO_LP_F",
+      "descriptionShort": "Medium Machine Gun<br />Caliber: 9.3x64 mm",
+      "displayName": "Navid 9.3 mm (Hex)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "MMG_01_hex_ARCO_LP_F",
+        "MMG_01_hex_F",
+        "MMG_01_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "MMG_02_camo_F",
+      "descriptionShort": "Medium Machine Gun<br />Caliber: .338 Norma Magnum",
+      "displayName": "SPMG .338 (MTP)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "MMG_02_camo_F",
+        "MMG_02_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "MMG_02_black_F",
+      "descriptionShort": "Medium Machine Gun<br />Caliber: .338 Norma Magnum",
+      "displayName": "SPMG .338 (Black)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "MMG_02_black_F",
+        "MMG_02_camo_F",
+        "MMG_02_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "MMG_02_sand_F",
+      "descriptionShort": "Medium Machine Gun<br />Caliber: .338 Norma Magnum",
+      "displayName": "SPMG .338 (Sand)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "MMG_02_sand_F",
+        "MMG_02_camo_F",
+        "MMG_02_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "MMG_02_sand_RCO_LP_F",
+      "descriptionShort": "Medium Machine Gun<br />Caliber: .338 Norma Magnum",
+      "displayName": "SPMG .338 (Sand)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "MMG_02_sand_RCO_LP_F",
+        "MMG_02_sand_F",
+        "MMG_02_camo_F",
+        "MMG_02_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "MMG_02_black_RCO_BI_F",
+      "descriptionShort": "Medium Machine Gun<br />Caliber: .338 Norma Magnum",
+      "displayName": "SPMG .338 (Black)",
+      "dlc": "Mark",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "MMG_02_black_RCO_BI_F",
+        "MMG_02_black_F",
+        "MMG_02_camo_F",
+        "MMG_02_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MXM_DMS_LP_BI_snds_F",
+      "descriptionShort": "Marksman rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MXM 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MXM_DMS_LP_BI_snds_F",
+        "arifle_MXM_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MXM_Hamr_LP_BI_F",
+      "descriptionShort": "Marksman rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MXM 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MXM_Hamr_LP_BI_F",
+        "arifle_MXM_Hamr_pointer_F",
+        "arifle_MXM_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "SMG_03_TR_black",
+      "descriptionShort": "Submachine Gun",
+      "displayName": "ADR-97 TR 5.7 mm (Black)",
+      "dlc": "OfficialMod",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "SMG_03_TR_black",
+        "SMG_03_TR_BASE",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "SMG_03_TR_camo",
+      "descriptionShort": "Submachine Gun",
+      "displayName": "ADR-97 TR 5.7 mm (Camo)",
+      "dlc": "OfficialMod",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "SMG_03_TR_camo",
+        "SMG_03_TR_black",
+        "SMG_03_TR_BASE",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "SMG_03_TR_khaki",
+      "descriptionShort": "Submachine Gun",
+      "displayName": "ADR-97 TR 5.7 mm (Khaki)",
+      "dlc": "OfficialMod",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "SMG_03_TR_khaki",
+        "SMG_03_TR_black",
+        "SMG_03_TR_BASE",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "SMG_03_TR_hex",
+      "descriptionShort": "Submachine Gun",
+      "displayName": "ADR-97 TR 5.7 mm (Hex)",
+      "dlc": "OfficialMod",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "SMG_03_TR_hex",
+        "SMG_03_TR_BASE",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "SMG_03C_TR_black",
+      "descriptionShort": "Submachine Gun",
+      "displayName": "ADR-97C TR 5.7 mm (Black)",
+      "dlc": "OfficialMod",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "SMG_03C_TR_black",
+        "SMG_03C_BASE",
+        "SMG_03_TR_BASE",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "SMG_03C_TR_camo",
+      "descriptionShort": "Submachine Gun",
+      "displayName": "ADR-97C TR 5.7 mm (Camo)",
+      "dlc": "OfficialMod",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "SMG_03C_TR_camo",
+        "SMG_03C_TR_black",
+        "SMG_03C_BASE",
+        "SMG_03_TR_BASE",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "SMG_03C_TR_khaki",
+      "descriptionShort": "Submachine Gun",
+      "displayName": "ADR-97C TR 5.7 mm (Khaki)",
+      "dlc": "OfficialMod",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "SMG_03C_TR_khaki",
+        "SMG_03C_TR_black",
+        "SMG_03C_BASE",
+        "SMG_03_TR_BASE",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "SMG_03C_TR_hex",
+      "descriptionShort": "Submachine Gun",
+      "displayName": "ADR-97C TR 5.7 mm (Hex)",
+      "dlc": "OfficialMod",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "SMG_03C_TR_hex",
+        "SMG_03C_TR_black",
+        "SMG_03C_BASE",
+        "SMG_03_TR_BASE",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "SMG_03_black",
+      "descriptionShort": "Submachine Gun",
+      "displayName": "ADR-97 5.7 mm (Black)",
+      "dlc": "OfficialMod",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "SMG_03_black",
+        "SMG_03_TR_BASE",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "SMG_03_camo",
+      "descriptionShort": "Submachine Gun",
+      "displayName": "ADR-97 5.7 mm (Camo)",
+      "dlc": "OfficialMod",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "SMG_03_camo",
+        "SMG_03_black",
+        "SMG_03_TR_BASE",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "SMG_03_khaki",
+      "descriptionShort": "Submachine Gun",
+      "displayName": "ADR-97 5.7 mm (Khaki)",
+      "dlc": "OfficialMod",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "SMG_03_khaki",
+        "SMG_03_black",
+        "SMG_03_TR_BASE",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "SMG_03_hex",
+      "descriptionShort": "Submachine Gun",
+      "displayName": "ADR-97 5.7 mm (Hex)",
+      "dlc": "OfficialMod",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "SMG_03_hex",
+        "SMG_03_black",
+        "SMG_03_TR_BASE",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "SMG_03C_black",
+      "descriptionShort": "Submachine Gun",
+      "displayName": "ADR-97C 5.7 mm (Black)",
+      "dlc": "OfficialMod",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "SMG_03C_black",
+        "SMG_03C_BASE",
+        "SMG_03_TR_BASE",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "SMG_03C_camo",
+      "descriptionShort": "Submachine Gun",
+      "displayName": "ADR-97C 5.7 mm (Camo)",
+      "dlc": "OfficialMod",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "SMG_03C_camo",
+        "SMG_03C_black",
+        "SMG_03C_BASE",
+        "SMG_03_TR_BASE",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "SMG_03C_khaki",
+      "descriptionShort": "Submachine Gun",
+      "displayName": "ADR-97C 5.7 mm (Khaki)",
+      "dlc": "OfficialMod",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "SMG_03C_khaki",
+        "SMG_03C_black",
+        "SMG_03C_BASE",
+        "SMG_03_TR_BASE",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "SMG_03C_hex",
+      "descriptionShort": "Submachine Gun",
+      "displayName": "ADR-97C 5.7 mm (Hex)",
+      "dlc": "OfficialMod",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "SMG_03C_hex",
+        "SMG_03C_black",
+        "SMG_03C_BASE",
+        "SMG_03_TR_BASE",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_khk_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MX 6.5 mm (Khaki)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_khk_F",
+        "arifle_MX_Black_F",
+        "arifle_MX_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_khk_ACO_Pointer_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MX 6.5 mm (Khaki)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_khk_ACO_Pointer_F",
+        "arifle_MX_khk_F",
+        "arifle_MX_Black_F",
+        "arifle_MX_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_khk_Holo_Pointer_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MX 6.5 mm (Khaki)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_khk_Holo_Pointer_F",
+        "arifle_MX_khk_F",
+        "arifle_MX_Black_F",
+        "arifle_MX_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_khk_Hamr_Pointer_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MX 6.5 mm (Khaki)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_khk_Hamr_Pointer_F",
+        "arifle_MX_khk_F",
+        "arifle_MX_Black_F",
+        "arifle_MX_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_khk_Hamr_Pointer_Snds_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MX 6.5 mm (Khaki)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_khk_Hamr_Pointer_Snds_F",
+        "arifle_MX_khk_F",
+        "arifle_MX_Black_F",
+        "arifle_MX_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_khk_Pointer_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MX 6.5 mm (Khaki)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_khk_Pointer_F",
+        "arifle_MX_khk_F",
+        "arifle_MX_Black_F",
+        "arifle_MX_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_khk_ACO_Pointer_Snds_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MX 6.5 mm (Khaki)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_khk_ACO_Pointer_Snds_F",
+        "arifle_MX_khk_F",
+        "arifle_MX_Black_F",
+        "arifle_MX_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_GL_khk_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm<br />Grenade Launcher<br />Caliber: 40 mm",
+      "displayName": "MX 3GL 6.5 mm (Khaki)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_GL_khk_F",
+        "arifle_MX_GL_Black_F",
+        "arifle_MX_GL_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_GL_khk_ACO_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm<br />Grenade Launcher<br />Caliber: 40 mm",
+      "displayName": "MX 3GL 6.5 mm (Khaki)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_GL_khk_ACO_F",
+        "arifle_MX_GL_khk_F",
+        "arifle_MX_GL_Black_F",
+        "arifle_MX_GL_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_GL_khk_Hamr_Pointer_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm<br />Grenade Launcher<br />Caliber: 40 mm",
+      "displayName": "MX 3GL 6.5 mm (Khaki)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_GL_khk_Hamr_Pointer_F",
+        "arifle_MX_GL_khk_F",
+        "arifle_MX_GL_Black_F",
+        "arifle_MX_GL_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_GL_khk_Holo_Pointer_Snds_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm<br />Grenade Launcher<br />Caliber: 40 mm",
+      "displayName": "MX 3GL 6.5 mm (Khaki)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_GL_khk_Holo_Pointer_Snds_F",
+        "arifle_MX_GL_khk_F",
+        "arifle_MX_GL_Black_F",
+        "arifle_MX_GL_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_SW_khk_F",
+      "descriptionShort": "Light Machine Gun<br />Caliber: 6.5x39 mm",
+      "displayName": "MX SW 6.5 mm (Khaki)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_SW_khk_F",
+        "arifle_MX_SW_Black_F",
+        "arifle_MX_SW_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MX_SW_khk_Pointer_F",
+      "descriptionShort": "Light Machine Gun<br />Caliber: 6.5x39 mm",
+      "displayName": "MX SW 6.5 mm (Khaki)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MX_SW_khk_Pointer_F",
+        "arifle_MX_SW_khk_F",
+        "arifle_MX_SW_Black_F",
+        "arifle_MX_SW_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MXC_khk_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MXC 6.5 mm (Khaki)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MXC_khk_F",
+        "arifle_MXC_Black_F",
+        "arifle_MXC_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MXC_khk_Holo_Pointer_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MXC 6.5 mm (Khaki)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MXC_khk_Holo_Pointer_F",
+        "arifle_MXC_khk_F",
+        "arifle_MXC_Black_F",
+        "arifle_MXC_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MXC_khk_ACO_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MXC 6.5 mm (Khaki)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MXC_khk_ACO_F",
+        "arifle_MXC_khk_F",
+        "arifle_MXC_Black_F",
+        "arifle_MXC_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MXC_khk_ACO_Pointer_Snds_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MXC 6.5 mm (Khaki)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MXC_khk_ACO_Pointer_Snds_F",
+        "arifle_MXC_khk_F",
+        "arifle_MXC_Black_F",
+        "arifle_MXC_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MXM_khk_F",
+      "descriptionShort": "Marksman rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MXM 6.5 mm (Khaki)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MXM_khk_F",
+        "arifle_MXM_Black_F",
+        "arifle_MXM_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MXM_khk_MOS_Pointer_Bipod_F",
+      "descriptionShort": "Marksman rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MXM 6.5 mm (Khaki)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MXM_khk_MOS_Pointer_Bipod_F",
+        "arifle_MXM_khk_F",
+        "arifle_MXM_Black_F",
+        "arifle_MXM_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_MXM_khk_MOS_Pointer_Bipod_Snds_F",
+      "descriptionShort": "Marksman rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MXM 6.5 mm (Khaki)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_MXM_khk_MOS_Pointer_Bipod_Snds_F",
+        "arifle_MXM_khk_F",
+        "arifle_MXM_Black_F",
+        "arifle_MXM_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_LRR_tna_F",
+      "descriptionShort": "Sniper Rifle<br />Caliber: .408",
+      "displayName": "M320 LRR .408 (Tropic)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_LRR_tna_F",
+        "srifle_LRR_camo_F",
+        "srifle_LRR_F",
+        "LRR_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_LRR_tna_LRPS_F",
+      "descriptionShort": "Sniper Rifle<br />Caliber: .408",
+      "displayName": "M320 LRR .408 (Tropic)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_LRR_tna_LRPS_F",
+        "srifle_LRR_tna_F",
+        "srifle_LRR_camo_F",
+        "srifle_LRR_F",
+        "LRR_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_GM6_ghex_F",
+      "descriptionShort": "Sniper Rifle<br />Caliber: 12.7x108 mm Russian",
+      "displayName": "GM6 Lynx 12.7 mm (Green Hex)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_GM6_ghex_F",
+        "srifle_GM6_F",
+        "GM6_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_GM6_ghex_LRPS_F",
+      "descriptionShort": "Sniper Rifle<br />Caliber: 12.7x108 mm Russian",
+      "displayName": "GM6 Lynx 12.7 mm (Green Hex)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_GM6_ghex_LRPS_F",
+        "srifle_GM6_ghex_F",
+        "srifle_GM6_F",
+        "GM6_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "hgun_P07_khk_F",
+      "descriptionShort": "Handgun<br />Caliber: 9x21 mm",
+      "displayName": "P07 9 mm (Khaki)",
+      "dlc": "",
+      "side": 0,
+      "type": 2,
+      "PARENTS": [
+        "hgun_P07_khk_F",
+        "hgun_P07_F",
+        "Pistol_Base_F",
+        "Pistol",
+        "PistolCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "launch_RPG32_ghex_F",
+      "descriptionShort": "Rocket Launcher",
+      "displayName": "RPG-42 Alamut (Green Hex)",
+      "dlc": "",
+      "side": 0,
+      "type": 4,
+      "PARENTS": [
+        "launch_RPG32_ghex_F",
+        "launch_RPG32_F",
+        "Launcher_Base_F",
+        "Launcher",
+        "LauncherCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "launch_RPG7_F",
+      "descriptionShort": "Rocket Launcher",
+      "displayName": "RPG-7",
+      "dlc": "",
+      "side": 0,
+      "type": 4,
+      "PARENTS": [
+        "launch_RPG7_F",
+        "Launcher_Base_F",
+        "Launcher",
+        "LauncherCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "launch_B_Titan_tna_F",
+      "descriptionShort": "Rocket Launcher<br />Ammo: 127 mm Titan Rocket",
+      "displayName": "Titan MPRL (Tropic)",
+      "dlc": "",
+      "side": 0,
+      "type": 4,
+      "PARENTS": [
+        "launch_B_Titan_tna_F",
+        "launch_B_Titan_F",
+        "launch_Titan_base",
+        "Launcher_Base_F",
+        "Launcher",
+        "LauncherCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "launch_B_Titan_short_tna_F",
+      "descriptionShort": "Rocket Launcher<br />Ammo: 127 mm Titan Rocket",
+      "displayName": "Titan MPRL Compact (Tropic)",
+      "dlc": "",
+      "side": 0,
+      "type": 4,
+      "PARENTS": [
+        "launch_B_Titan_short_tna_F",
+        "launch_B_Titan_short_F",
+        "launch_Titan_short_base",
+        "launch_Titan_base",
+        "Launcher_Base_F",
+        "Launcher",
+        "LauncherCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "launch_O_Titan_ghex_F",
+      "descriptionShort": "Rocket Launcher<br />Ammo: 127 mm Titan Rocket",
+      "displayName": "Titan MPRL (Green Hex)",
+      "dlc": "",
+      "side": 0,
+      "type": 4,
+      "PARENTS": [
+        "launch_O_Titan_ghex_F",
+        "launch_O_Titan_F",
+        "launch_Titan_base",
+        "Launcher_Base_F",
+        "Launcher",
+        "LauncherCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "launch_O_Titan_short_ghex_F",
+      "descriptionShort": "Rocket Launcher<br />Ammo: 127 mm Titan Rocket",
+      "displayName": "Titan MPRL Compact (Green Hex)",
+      "dlc": "",
+      "side": 0,
+      "type": 4,
+      "PARENTS": [
+        "launch_O_Titan_short_ghex_F",
+        "launch_O_Titan_short_F",
+        "launch_Titan_short_base",
+        "launch_Titan_base",
+        "Launcher_Base_F",
+        "Launcher",
+        "LauncherCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_07_blk_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "CMR-76 6.5 mm (Black)",
+      "dlc": "Expansion",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_07_blk_F",
+        "DMR_07_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_07_hex_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "CMR-76 6.5 mm (Hex)",
+      "dlc": "Expansion",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_07_hex_F",
+        "DMR_07_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_07_ghex_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "CMR-76 6.5 mm (Green Hex)",
+      "dlc": "Expansion",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_07_ghex_F",
+        "DMR_07_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_07_blk_DMS_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "CMR-76 6.5 mm (Black)",
+      "dlc": "Expansion",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_07_blk_DMS_F",
+        "srifle_DMR_07_blk_F",
+        "DMR_07_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_07_blk_DMS_Snds_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "CMR-76 6.5 mm (Black)",
+      "dlc": "Expansion",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_07_blk_DMS_Snds_F",
+        "srifle_DMR_07_blk_F",
+        "DMR_07_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "LMG_03_F",
+      "descriptionShort": "Light Machine Gun<br />Caliber: 5.56x45 mm",
+      "displayName": "LIM-85 5.56 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "LMG_03_F",
+        "LMG_03_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "LMG_03_Vehicle_F",
+      "descriptionShort": "Light Machine Gun<br />Caliber: 5.56x45 mm",
+      "displayName": "LIM-85 5.56 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "LMG_03_Vehicle_F",
+        "LMG_03_F",
+        "LMG_03_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "hgun_Pistol_01_F",
+      "descriptionShort": "Handgun<br />Caliber: 9x21 mm",
+      "displayName": "PM 9 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 2,
+      "PARENTS": [
+        "hgun_Pistol_01_F",
+        "Pistol_Base_F",
+        "Pistol",
+        "PistolCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_AK12_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 7.62x39 mm",
+      "displayName": "AK-12 7.62 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_AK12_F",
+        "arifle_AK12_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_AK12_GL_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 7.62x39 mm",
+      "displayName": "AK-12 GL 7.62 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_AK12_GL_F",
+        "arifle_AK12_GL_base_F",
+        "arifle_AK12_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_AKM_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 7.62x39 mm",
+      "displayName": "AKM 7.62 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_AKM_F",
+        "arifle_AKM_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_AKS_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.45x39 mm",
+      "displayName": "AKS-74U 5.45 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_AKS_F",
+        "arifle_AKS_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_ARX_blk_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm / .50 BW",
+      "displayName": "Type 115 6.5 mm (Black)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_ARX_blk_F",
+        "arifle_ARX_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_ARX_ghex_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm / .50 BW",
+      "displayName": "Type 115 6.5 mm (Green Hex)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_ARX_ghex_F",
+        "arifle_ARX_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_ARX_hex_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm / .50 BW",
+      "displayName": "Type 115 6.5 mm (Hex)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_ARX_hex_F",
+        "arifle_ARX_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_CTAR_blk_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.8x42 mm",
+      "displayName": "CAR-95 5.8 mm (Black)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_CTAR_blk_F",
+        "arifle_CTAR_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_CTAR_hex_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.8x42 mm",
+      "displayName": "CAR-95 5.8 mm (Hex)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_CTAR_hex_F",
+        "arifle_CTAR_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_CTAR_ghex_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.8x42 mm",
+      "displayName": "CAR-95 5.8 mm (Green Hex)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_CTAR_ghex_F",
+        "arifle_CTAR_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_CTAR_GL_blk_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.8x42 mm",
+      "displayName": "CAR-95 GL 5.8 mm (Black)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_CTAR_GL_blk_F",
+        "arifle_CTAR_GL_base_F",
+        "arifle_CTAR_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_CTAR_GL_hex_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.8x42 mm",
+      "displayName": "CAR-95 GL 5.8 mm (Hex)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_CTAR_GL_hex_F",
+        "arifle_CTAR_GL_base_F",
+        "arifle_CTAR_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_CTAR_GL_ghex_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.8x42 mm",
+      "displayName": "CAR-95 GL 5.8 mm (Green Hex)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_CTAR_GL_ghex_F",
+        "arifle_CTAR_GL_base_F",
+        "arifle_CTAR_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_CTAR_blk_ACO_Pointer_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.8x42 mm",
+      "displayName": "CAR-95 5.8 mm (Black)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_CTAR_blk_ACO_Pointer_F",
+        "arifle_CTAR_blk_F",
+        "arifle_CTAR_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_CTAR_blk_Pointer_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.8x42 mm",
+      "displayName": "CAR-95 5.8 mm (Black)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_CTAR_blk_Pointer_F",
+        "arifle_CTAR_blk_F",
+        "arifle_CTAR_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_CTAR_blk_ACO_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.8x42 mm",
+      "displayName": "CAR-95 5.8 mm (Black)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_CTAR_blk_ACO_F",
+        "arifle_CTAR_blk_F",
+        "arifle_CTAR_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_CTAR_GL_blk_ACO_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.8x42 mm",
+      "displayName": "CAR-95 GL 5.8 mm (Black)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_CTAR_GL_blk_ACO_F",
+        "arifle_CTAR_GL_blk_F",
+        "arifle_CTAR_GL_base_F",
+        "arifle_CTAR_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_CTAR_GL_blk_ARCO_Pointer_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.8x42 mm",
+      "displayName": "CAR-95 GL 5.8 mm (Black)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_CTAR_GL_blk_ARCO_Pointer_F",
+        "arifle_CTAR_GL_blk_F",
+        "arifle_CTAR_GL_base_F",
+        "arifle_CTAR_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_CTAR_blk_ARCO_Pointer_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.8x42 mm",
+      "displayName": "CAR-95 5.8 mm (Black)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_CTAR_blk_ARCO_Pointer_F",
+        "arifle_CTAR_blk_F",
+        "arifle_CTAR_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_CTAR_blk_ACO_Pointer_Snds_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.8x42 mm",
+      "displayName": "CAR-95 5.8 mm (Black)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_CTAR_blk_ACO_Pointer_Snds_F",
+        "arifle_CTAR_blk_F",
+        "arifle_CTAR_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_CTAR_GL_blk_ACO_Pointer_Snds_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.8x42 mm",
+      "displayName": "CAR-95 GL 5.8 mm (Black)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_CTAR_GL_blk_ACO_Pointer_Snds_F",
+        "arifle_CTAR_GL_blk_F",
+        "arifle_CTAR_GL_base_F",
+        "arifle_CTAR_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_CTAR_blk_ARCO_Pointer_Snds_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.8x42 mm",
+      "displayName": "CAR-95 5.8 mm (Black)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_CTAR_blk_ARCO_Pointer_Snds_F",
+        "arifle_CTAR_blk_F",
+        "arifle_CTAR_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_CTAR_blk_ARCO_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.8x42 mm",
+      "displayName": "CAR-95 5.8 mm (Black)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_CTAR_blk_ARCO_F",
+        "arifle_CTAR_blk_F",
+        "arifle_CTAR_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_CTARS_blk_F",
+      "descriptionShort": "Light Machine Gun<br />Caliber: 5.8x42 mm",
+      "displayName": "CAR-95-1 5.8mm (Black)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_CTARS_blk_F",
+        "arifle_CTARS_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_CTARS_hex_F",
+      "descriptionShort": "Light Machine Gun<br />Caliber: 5.8x42 mm",
+      "displayName": "CAR-95-1 5.8mm (Hex)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_CTARS_hex_F",
+        "arifle_CTARS_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_CTARS_ghex_F",
+      "descriptionShort": "Light Machine Gun<br />Caliber: 5.8x42 mm",
+      "displayName": "CAR-95-1 5.8mm (Green Hex)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_CTARS_ghex_F",
+        "arifle_CTARS_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_CTARS_blk_Pointer_F",
+      "descriptionShort": "Light Machine Gun<br />Caliber: 5.8x42 mm",
+      "displayName": "CAR-95-1 5.8mm (Black)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_CTARS_blk_Pointer_F",
+        "arifle_CTARS_blk_F",
+        "arifle_CTARS_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_SPAR_01_blk_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.56x45 mm",
+      "displayName": "SPAR-16 5.56 mm (Black)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_SPAR_01_blk_F",
+        "arifle_SPAR_01_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_SPAR_01_khk_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.56x45 mm",
+      "displayName": "SPAR-16 5.56 mm (Khaki)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_SPAR_01_khk_F",
+        "arifle_SPAR_01_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_SPAR_01_snd_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.56x45 mm",
+      "displayName": "SPAR-16 5.56 mm (Sand)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_SPAR_01_snd_F",
+        "arifle_SPAR_01_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_SPAR_01_GL_blk_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.56x45 mm",
+      "displayName": "SPAR-16 GL 5.56 mm (Black)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_SPAR_01_GL_blk_F",
+        "arifle_SPAR_01_GL_base_F",
+        "arifle_SPAR_01_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_SPAR_01_GL_khk_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.56x45 mm",
+      "displayName": "SPAR-16 GL 5.56 mm (Khaki)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_SPAR_01_GL_khk_F",
+        "arifle_SPAR_01_GL_base_F",
+        "arifle_SPAR_01_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_SPAR_01_GL_snd_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.56x45 mm",
+      "displayName": "SPAR-16 GL 5.56 mm (Sand)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_SPAR_01_GL_snd_F",
+        "arifle_SPAR_01_GL_base_F",
+        "arifle_SPAR_01_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_SPAR_02_blk_F",
+      "descriptionShort": "Light Machine Gun<br />Caliber: 5.56x45 mm",
+      "displayName": "SPAR-16S 5.56 mm (Black)",
+      "dlc": "Expansion",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_SPAR_02_blk_F",
+        "arifle_SPAR_02_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_SPAR_02_khk_F",
+      "descriptionShort": "Light Machine Gun<br />Caliber: 5.56x45 mm",
+      "displayName": "SPAR-16S 5.56 mm (Khaki)",
+      "dlc": "Expansion",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_SPAR_02_khk_F",
+        "arifle_SPAR_02_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_SPAR_02_snd_F",
+      "descriptionShort": "Light Machine Gun<br />Caliber: 5.56x45 mm",
+      "displayName": "SPAR-16S 5.56 mm (Sand)",
+      "dlc": "Expansion",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_SPAR_02_snd_F",
+        "arifle_SPAR_02_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_SPAR_03_blk_F",
+      "descriptionShort": "Marksman rifle<br />Caliber: 7.62x51 mm",
+      "displayName": "SPAR-17 7.62 mm (Black)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_SPAR_03_blk_F",
+        "arifle_SPAR_03_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_SPAR_03_khk_F",
+      "descriptionShort": "Marksman rifle<br />Caliber: 7.62x51 mm",
+      "displayName": "SPAR-17 7.62 mm (Khaki)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_SPAR_03_khk_F",
+        "arifle_SPAR_03_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_SPAR_03_snd_F",
+      "descriptionShort": "Marksman rifle<br />Caliber: 7.62x51 mm",
+      "displayName": "SPAR-17 7.62 mm (Sand)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_SPAR_03_snd_F",
+        "arifle_SPAR_03_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "SMG_05_F",
+      "descriptionShort": "Submachine Gun<br />Caliber: 9x21 mm",
+      "displayName": "Protector 9 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "SMG_05_F",
+        "SMG_05_base_F",
+        "Rifle_Short_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "B_Patrol_Soldier_Leader_weapon_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm<br />Grenade Launcher<br />Caliber: 40 mm",
+      "displayName": "MX 3GL 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "B_Patrol_Soldier_Leader_weapon_F",
+        "arifle_MX_GL_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "B_Patrol_Soldier_Operator_weapon_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MXC 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "B_Patrol_Soldier_Operator_weapon_F",
+        "arifle_MXC_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "B_Patrol_Soldier_Marksman_weapon_F",
+      "descriptionShort": "Assault rifle <br/>Caliber: 7.62x51 mm NATO",
+      "displayName": "Mk18 ABR 7.62 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "B_Patrol_Soldier_Marksman_weapon_F",
+        "srifle_EBR_F",
+        "EBR_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "B_Patrol_Soldier_Medic_weapon_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MX 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "B_Patrol_Soldier_Medic_weapon_F",
+        "arifle_MX_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "B_Patrol_Soldier_Autorifleman_weapon_F",
+      "descriptionShort": "Light Machine Gun<br />Caliber: 6.5x39 mm",
+      "displayName": "MX SW 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "B_Patrol_Soldier_Autorifleman_weapon_F",
+        "arifle_MX_SW_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "B_Patrol_Soldier_MachineGunner_weapon_F",
+      "descriptionShort": "Light Machine Gun<br />Caliber: 6.5x39 mm",
+      "displayName": "Mk200 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "B_Patrol_Soldier_MachineGunner_weapon_F",
+        "LMG_Mk200_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "B_Patrol_Soldier_HeavyGunner_weapon_F",
+      "descriptionShort": "Light Machine Gun<br />Caliber: 7.62x54 mm",
+      "displayName": "Zafir 7.62 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "B_Patrol_Soldier_HeavyGunner_weapon_F",
+        "LMG_Zafir_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "B_Patrol_Soldier_Carrier_weapon_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MX 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "B_Patrol_Soldier_Carrier_weapon_F",
+        "arifle_MX_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "B_Patrol_Soldier_Specialist_weapon_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "MX 6.5 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "B_Patrol_Soldier_Specialist_weapon_F",
+        "arifle_MX_F",
+        "arifle_MX_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "B_Patrol_Soldier_Pistol_F",
+      "descriptionShort": "Handgun<br />Caliber: .45 ACP",
+      "displayName": "4-five .45 ACP",
+      "dlc": "",
+      "side": 0,
+      "type": 2,
+      "PARENTS": [
+        "B_Patrol_Soldier_Pistol_F",
+        "hgun_Pistol_heavy_01_F",
+        "Pistol_Base_F",
+        "Pistol",
+        "PistolCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_CTAR_blk_flash_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.8x42 mm",
+      "displayName": "CAR-95 5.8 mm (Black)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_CTAR_blk_flash_F",
+        "arifle_CTAR_blk_F",
+        "arifle_CTAR_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_CTAR_blk_aco_flash_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.8x42 mm",
+      "displayName": "CAR-95 5.8 mm (Black)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_CTAR_blk_aco_flash_F",
+        "arifle_CTAR_blk_F",
+        "arifle_CTAR_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_CTAR_blk_arco_flash_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.8x42 mm",
+      "displayName": "CAR-95 5.8 mm (Black)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_CTAR_blk_arco_flash_F",
+        "arifle_CTAR_blk_F",
+        "arifle_CTAR_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_CTARS_blk_flash_F",
+      "descriptionShort": "Light Machine Gun<br />Caliber: 5.8x42 mm",
+      "displayName": "CAR-95-1 5.8mm (Black)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_CTARS_blk_flash_F",
+        "arifle_CTARS_blk_F",
+        "arifle_CTARS_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_CTAR_GL_blk_aco_flash_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.8x42 mm",
+      "displayName": "CAR-95 GL 5.8 mm (Black)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_CTAR_GL_blk_aco_flash_F",
+        "arifle_CTAR_GL_blk_F",
+        "arifle_CTAR_GL_base_F",
+        "arifle_CTAR_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "arifle_CTAR_GL_blk_arco_flash_F",
+      "descriptionShort": "Assault Rifle<br />Caliber: 5.8x42 mm",
+      "displayName": "CAR-95 GL 5.8 mm (Black)",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "arifle_CTAR_GL_blk_arco_flash_F",
+        "arifle_CTAR_GL_blk_F",
+        "arifle_CTAR_GL_base_F",
+        "arifle_CTAR_base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "srifle_DMR_07_blk_F_arco_flash_F",
+      "descriptionShort": "Marksman Rifle<br />Caliber: 6.5x39 mm",
+      "displayName": "CMR-76 6.5 mm (Black)",
+      "dlc": "Expansion",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "srifle_DMR_07_blk_F_arco_flash_F",
+        "srifle_DMR_07_blk_F",
+        "DMR_07_base_F",
+        "Rifle_Long_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "SMG_02_flash_F",
+      "descriptionShort": "Submachine Gun<br />Caliber: 9x21 mm",
+      "displayName": "Sting 9 mm",
+      "dlc": "",
+      "side": 0,
+      "type": 1,
+      "PARENTS": [
+        "SMG_02_flash_F",
+        "SMG_02_F",
+        "SMG_02_base_F",
+        "Rifle_Short_Base_F",
+        "Rifle_Base_F",
+        "Rifle",
+        "RifleCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "launch_MRAWS_olive_F",
+      "descriptionShort": "Rocket Launcher<br />Ammo: 84 mm MAAWS Rockets",
+      "displayName": "MAAWS Mk4 Mod 1 (Olive)",
+      "dlc": "",
+      "side": 0,
+      "type": 4,
+      "PARENTS": [
+        "launch_MRAWS_olive_F",
+        "launch_MRAWS_base_F",
+        "Launcher_Base_F",
+        "Launcher",
+        "LauncherCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "launch_MRAWS_olive_rail_F",
+      "descriptionShort": "Rocket Launcher<br />Ammo: 84 mm MAAWS Rockets",
+      "displayName": "MAAWS Mk4 Mod 0 (Olive)",
+      "dlc": "",
+      "side": 0,
+      "type": 4,
+      "PARENTS": [
+        "launch_MRAWS_olive_rail_F",
+        "launch_MRAWS_olive_F",
+        "launch_MRAWS_base_F",
+        "Launcher_Base_F",
+        "Launcher",
+        "LauncherCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "launch_MRAWS_green_F",
+      "descriptionShort": "Rocket Launcher<br />Ammo: 84 mm MAAWS Rockets",
+      "displayName": "MAAWS Mk4 Mod 1 (Green)",
+      "dlc": "",
+      "side": 0,
+      "type": 4,
+      "PARENTS": [
+        "launch_MRAWS_green_F",
+        "launch_MRAWS_base_F",
+        "Launcher_Base_F",
+        "Launcher",
+        "LauncherCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "launch_MRAWS_green_rail_F",
+      "descriptionShort": "Rocket Launcher<br />Ammo: 84 mm MAAWS Rockets",
+      "displayName": "MAAWS Mk4 Mod 0 (Green)",
+      "dlc": "",
+      "side": 0,
+      "type": 4,
+      "PARENTS": [
+        "launch_MRAWS_green_rail_F",
+        "launch_MRAWS_olive_rail_F",
+        "launch_MRAWS_olive_F",
+        "launch_MRAWS_base_F",
+        "Launcher_Base_F",
+        "Launcher",
+        "LauncherCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "launch_MRAWS_sand_F",
+      "descriptionShort": "Rocket Launcher<br />Ammo: 84 mm MAAWS Rockets",
+      "displayName": "MAAWS Mk4 Mod 1 (Sand)",
+      "dlc": "",
+      "side": 0,
+      "type": 4,
+      "PARENTS": [
+        "launch_MRAWS_sand_F",
+        "launch_MRAWS_base_F",
+        "Launcher_Base_F",
+        "Launcher",
+        "LauncherCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "launch_MRAWS_sand_rail_F",
+      "descriptionShort": "Rocket Launcher<br />Ammo: 84 mm MAAWS Rockets",
+      "displayName": "MAAWS Mk4 Mod 0 (Sand)",
+      "dlc": "",
+      "side": 0,
+      "type": 4,
+      "PARENTS": [
+        "launch_MRAWS_sand_rail_F",
+        "launch_MRAWS_olive_rail_F",
+        "launch_MRAWS_olive_F",
+        "launch_MRAWS_base_F",
+        "Launcher_Base_F",
+        "Launcher",
+        "LauncherCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "launch_O_Vorona_brown_F",
+      "descriptionShort": "Missile Launcher<br />Ammo: 130 mm Vorona Missiles",
+      "displayName": "9M135 Vorona (Brown)",
+      "dlc": "",
+      "side": 0,
+      "type": 4,
+      "PARENTS": [
+        "launch_O_Vorona_brown_F",
+        "launch_Vorona_base_F",
+        "Launcher_Base_F",
+        "Launcher",
+        "LauncherCore",
+        "Default"
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "launch_O_Vorona_green_F",
+      "descriptionShort": "Missile Launcher<br />Ammo: 130 mm Vorona Missiles",
+      "displayName": "9M135 Vorona (Green)",
+      "dlc": "",
+      "side": 0,
+      "type": 4,
+      "PARENTS": [
+        "launch_O_Vorona_green_F",
+        "launch_Vorona_base_F",
+        "Launcher_Base_F",
+        "Launcher",
+        "LauncherCore",
+        "Default"
+      ]
+    }
+  ]
+}

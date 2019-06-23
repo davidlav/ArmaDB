@@ -1,0 +1,1868 @@
+{
+  "factions": [
+    {
+      "className": "Default",
+      "displayName": "Other",
+      "flag": "",
+      "icon": "",
+      "priority": 10000,
+      "side": -1
+    },
+    {
+      "className": "IND_G_F",
+      "displayName": "2035 FIA",
+      "flag": "\"\\a3\\Data_f\\Flags\\flag_FIA_co.paa\"",
+      "icon": "\"\\a3\\Data_f\\cfgFactionClasses_IND_G_ca.paa\"",
+      "priority": 2,
+      "side": 2
+    },
+    {
+      "className": "CIV_F",
+      "displayName": "Civilians",
+      "flag": "\"\\a3\\Data_f\\Flags\\flag_Altis_co.paa\"",
+      "icon": "\"\\a3\\Data_f\\cfgFactionClasses_CIV_ca.paa\"",
+      "priority": 1,
+      "side": 3
+    },
+    {
+      "className": "CIV_F_EUROPE",
+      "displayName": "Civilians (European)",
+      "flag": "\"\\a3\\Data_f\\Flags\\flag_Altis_co.paa\"",
+      "icon": "\"\\a3\\Data_f\\cfgFactionClasses_CIV_ca.paa\"",
+      "priority": 2,
+      "side": 3
+    },
+    {
+      "className": "CIV_F_AFRICA",
+      "displayName": "Civilians (African)",
+      "flag": "\"\\a3\\Data_f\\Flags\\flag_Altis_co.paa\"",
+      "icon": "\"\\a3\\Data_f\\cfgFactionClasses_CIV_ca.paa\"",
+      "priority": 2,
+      "side": 3
+    },
+    {
+      "className": "CIV_F_ASIA",
+      "displayName": "Civilians (Asian)",
+      "flag": "\"\\a3\\Data_f\\Flags\\flag_Altis_co.paa\"",
+      "icon": "\"\\a3\\Data_f\\cfgFactionClasses_CIV_ca.paa\"",
+      "priority": 2,
+      "side": 3
+    },
+    {
+      "className": "CIV_F_TANOA",
+      "displayName": "Civilians (Tanoan)",
+      "flag": "\"\\a3\\Data_f\\Flags\\flag_Altis_co.paa\"",
+      "icon": "\"\\a3\\Data_f\\cfgFactionClasses_CIV_ca.paa\"",
+      "priority": 4,
+      "side": 3
+    },
+    {
+      "className": "BLU_F",
+      "displayName": "2035 NATO",
+      "flag": "\"\\a3\\Data_f\\Flags\\flag_nato_co.paa\"",
+      "icon": "\"\\a3\\Data_f\\cfgFactionClasses_BLU_ca.paa\"",
+      "priority": 1,
+      "side": 1
+    },
+    {
+      "className": "OPF_F",
+      "displayName": "2035 CSAT",
+      "flag": "\"\\a3\\Data_f\\Flags\\flag_CSAT_co.paa\"",
+      "icon": "\"\\a3\\Data_f\\cfgFactionClasses_OPF_ca.paa\"",
+      "priority": 1,
+      "side": 0
+    },
+    {
+      "className": "IND_F",
+      "displayName": "2035 AAF",
+      "flag": "\"\\a3\\Data_f\\Flags\\flag_AAF_co.paa\"",
+      "icon": "\"\\a3\\Data_f\\cfgFactionClasses_IND_ca.paa\"",
+      "priority": 1,
+      "side": 2
+    },
+    {
+      "className": "BLU_G_F",
+      "displayName": "2035 FIA",
+      "flag": "\"\\a3\\Data_f\\Flags\\flag_FIA_co.paa\"",
+      "icon": "\"\\a3\\Data_f\\cfgFactionClasses_IND_G_ca.paa\"",
+      "priority": 2,
+      "side": 1
+    },
+    {
+      "className": "OPF_G_F",
+      "displayName": "2035 FIA",
+      "flag": "\"\\a3\\Data_f\\Flags\\flag_FIA_co.paa\"",
+      "icon": "\"\\a3\\Data_f\\cfgFactionClasses_IND_G_ca.paa\"",
+      "priority": 2,
+      "side": 0
+    },
+    {
+      "className": "Ambient",
+      "displayName": "Ambient",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "NO_CATEGORY",
+      "displayName": "Misc",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "Events",
+      "displayName": "Events",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "Intel",
+      "displayName": "Intel",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "ObjectModifiers",
+      "displayName": "Object Modifiers",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "GroupModifiers",
+      "displayName": "Group Modifiers",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "StrategicMap",
+      "displayName": "Strategic",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "Sites",
+      "displayName": "Sites",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "Supports",
+      "displayName": "Supports",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "Effects",
+      "displayName": "Effects",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "Modes",
+      "displayName": "Gameplay Modes",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "Multiplayer",
+      "displayName": "Multiplayer",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "None",
+      "displayName": "",
+      "flag": "",
+      "icon": "",
+      "priority": 10001,
+      "side": -1
+    },
+    {
+      "className": "KeyframeAnimation",
+      "displayName": "Keyframe Animation",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "FiringDrills",
+      "displayName": "Firing Drills",
+      "flag": "",
+      "icon": "",
+      "priority": 9,
+      "side": 7
+    },
+    {
+      "className": "CUP_B_USMC",
+      "displayName": "US Marine Corps (Jungle / Woodland)",
+      "flag": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_usmc_co.paa\"",
+      "icon": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_usmc_co.paa\"",
+      "priority": 1,
+      "side": 1
+    },
+    {
+      "className": "CUP_B_US_Army",
+      "displayName": "US Army (Arid / Desert)",
+      "flag": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_usarmy_co.paa\"",
+      "icon": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_usarmy_co.paa\"",
+      "priority": 8,
+      "side": 1
+    },
+    {
+      "className": "CUP_B_CDF",
+      "displayName": "Chernarus Defense Forces",
+      "flag": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_chernarus_co.paa\"",
+      "icon": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_chernarus_co.paa\"",
+      "priority": 2,
+      "side": 1
+    },
+    {
+      "className": "CUP_O_RU",
+      "displayName": "Russian Ground Forces (Jungle / Woodland)",
+      "flag": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_rus_co.paa\"",
+      "icon": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_rus_co.paa\"",
+      "priority": 3,
+      "side": 0
+    },
+    {
+      "className": "CUP_O_ChDKZ",
+      "displayName": "Chernarussian Movement of the Red Star",
+      "flag": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_chdkz_co.paa\"",
+      "icon": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_chdkz_co.paa\"",
+      "priority": 4,
+      "side": 0
+    },
+    {
+      "className": "CUP_I_NAPA",
+      "displayName": "National Party of Chernarus",
+      "flag": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_napa_co.paa\"",
+      "icon": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_napa_co.paa\"",
+      "priority": 5,
+      "side": 2
+    },
+    {
+      "className": "CUP_B_RNZN",
+      "displayName": "Royal New Zealand Navy",
+      "flag": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_usarmy_co.paa\"",
+      "icon": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_usarmy_co.paa\"",
+      "priority": 8,
+      "side": 1
+    },
+    {
+      "className": "CUP_C_CHERNARUS",
+      "displayName": "Civilians (Chernarus)",
+      "flag": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_chernarus_co.paa\"",
+      "icon": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_chernarus_co.paa\"",
+      "priority": 6,
+      "side": 3
+    },
+    {
+      "className": "CUP_C_RU",
+      "displayName": "Civilians (Russian)",
+      "flag": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_rus_co.paa\"",
+      "icon": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_rus_co.paa\"",
+      "priority": 7,
+      "side": 3
+    },
+    {
+      "className": "CUP_C_SAHRANI",
+      "displayName": "Civilians (Sahrani)",
+      "flag": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_rus_co.paa\"",
+      "icon": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_rus_co.paa\"",
+      "priority": 7,
+      "side": 3
+    },
+    {
+      "className": "CUP_O_TK",
+      "displayName": "Takistani Army",
+      "flag": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_tka_co.paa\"",
+      "icon": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_tka_co.paa\"",
+      "priority": 14,
+      "side": 0
+    },
+    {
+      "className": "CUP_O_TK_MILITIA",
+      "displayName": "Takistani Militia",
+      "flag": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_tkm_co.paa\"",
+      "icon": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_tkm_co.paa\"",
+      "priority": 15,
+      "side": 0
+    },
+    {
+      "className": "CUP_C_TK",
+      "displayName": "Civilians (Takistan)",
+      "flag": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_tka_co.paa\"",
+      "icon": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_tka_co.paa\"",
+      "priority": 12,
+      "side": 3
+    },
+    {
+      "className": "CUP_C_Special",
+      "displayName": "Civilian (Special)",
+      "flag": "\"a3\\data_f\\Flags\\flag_white_co.paa\"",
+      "icon": "\"a3\\data_f\\Flags\\flag_white_co.paa\"",
+      "priority": 13,
+      "side": 3
+    },
+    {
+      "className": "CUP_B_US",
+      "displayName": "United States of America",
+      "flag": "\"a3\\data_f\\Flags\\flag_us_co.paa\"",
+      "icon": "\"a3\\data_f\\Flags\\flag_us_co.paa\"",
+      "priority": 8,
+      "side": 1
+    },
+    {
+      "className": "CUP_B_CZ",
+      "displayName": "Army of the Czech Rep. (Arid / Desert)",
+      "flag": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_cz_co.paa\"",
+      "icon": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_cz_co.paa\"",
+      "priority": 9,
+      "side": 1
+    },
+    {
+      "className": "CUP_B_GER",
+      "displayName": "Bundeswehr (Arid / Desert)",
+      "flag": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_ger_co.paa\"",
+      "icon": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_ger_co.paa\"",
+      "priority": 10,
+      "side": 1
+    },
+    {
+      "className": "CUP_I_TK_GUE",
+      "displayName": "Takistani Locals",
+      "flag": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_tkg_co.paa\"",
+      "icon": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_tkg_co.paa\"",
+      "priority": 10,
+      "side": 2
+    },
+    {
+      "className": "CUP_I_UN",
+      "displayName": "United Nations",
+      "flag": "\"a3\\data_f\\Flags\\flag_uno_co.paa\"",
+      "icon": "\"a3\\data_f\\Flags\\flag_uno_co.paa\"",
+      "priority": 11,
+      "side": 2
+    },
+    {
+      "className": "CUP_O_SLA",
+      "displayName": "Sahrani Liberation Army",
+      "flag": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_sla_co.paa\"",
+      "icon": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_sla_co.paa\"",
+      "priority": 11,
+      "side": 0
+    },
+    {
+      "className": "CUP_I_RACS",
+      "displayName": "Royal Army Corps of Sahrani",
+      "flag": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_racs_co.paa\"",
+      "icon": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_racs_co.paa\"",
+      "priority": 11,
+      "side": 2
+    },
+    {
+      "className": "CUP_B_GB",
+      "displayName": "British Army (Arid / Desert)",
+      "flag": "\"a3\\data_f\\Flags\\flag_uk_co.paa\"",
+      "icon": "\"a3\\data_f\\Flags\\flag_uk_co.paa\"",
+      "priority": 9,
+      "side": 1
+    },
+    {
+      "className": "CUP_I_PMC_ION",
+      "displayName": "ION PMC",
+      "flag": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_ion_black_co.paa\"",
+      "icon": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_ion_black_co.paa\"",
+      "priority": 9,
+      "side": 2
+    },
+    {
+      "className": "FFAA_RAPEL",
+      "displayName": "FFAA_RAPEL",
+      "flag": "",
+      "icon": "",
+      "priority": 2,
+      "side": 7
+    },
+    {
+      "className": "FFAA",
+      "displayName": "Spanish Armed Forces",
+      "flag": "\ffaa_data\bandera\flag_espana_co.paa",
+      "icon": "\"\\ffaa_data\\bandera\\cfgfactionclasses_es_ca.paa\"",
+      "priority": 1,
+      "side": 1
+    },
+    {
+      "className": "rds_rus_civ",
+      "displayName": "Russians",
+      "flag": "",
+      "icon": "\"\\rds_a2port_cman\\data\\ui\\faction_rus.paa\"",
+      "priority": 2,
+      "side": 3
+    },
+    {
+      "className": "usaf_afsoc",
+      "displayName": "[USAF] AFSOC",
+      "flag": "",
+      "icon": "\"\\usaf_afsoc\\data\\icon\\afsoc.paa\"",
+      "priority": 101,
+      "side": 1
+    },
+    {
+      "className": "USAF",
+      "displayName": "USAF",
+      "flag": "",
+      "icon": "\"\\USAF_SFS\\Icon\\Icon.paa\"",
+      "priority": 100,
+      "side": 1
+    },
+    {
+      "className": "USAF_SFS_Pilots",
+      "displayName": "USAF SFS",
+      "flag": "",
+      "icon": "\"\\usaf_sfs\\icon\\icon.paa\"",
+      "priority": 102,
+      "side": 1
+    },
+    {
+      "className": "Virtual_F",
+      "displayName": "Virtual",
+      "flag": "#(argb,8,8,3)color(1,1,1,1)",
+      "icon": "#(argb,8,8,3)color(1,1,1,1)",
+      "priority": 2,
+      "side": 3
+    },
+    {
+      "className": "Interactive_F",
+      "displayName": "Other (Interactive)",
+      "flag": "#(argb,8,8,3)color(1,1,1,1)",
+      "icon": "#(argb,8,8,3)color(1,1,1,1)",
+      "priority": 2,
+      "side": 3
+    },
+    {
+      "className": "Objectives",
+      "displayName": "Objectives",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "Curator",
+      "displayName": "Zeus",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "Ordnance",
+      "displayName": "Fire Support",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "SmokeShells",
+      "displayName": "Smoke shells",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "Chemlights",
+      "displayName": "Chem lights",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "Flares",
+      "displayName": "Flares",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "Respawn",
+      "displayName": "Respawn",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "Animals",
+      "displayName": "Animals",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "Audio",
+      "displayName": "Audio",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "Environment",
+      "displayName": "Environment",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "MissionFlow",
+      "displayName": "Scenario Flow",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "Training",
+      "displayName": "Training",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "IND_C_F",
+      "displayName": "2035 Syndikat",
+      "flag": "\"\\a3\\Data_F_Exp\\Flags\\flag_SYND_CO.paa\"",
+      "icon": "\"\\a3\\Data_F_Exp\\FactionIcons\\icon_SYND_CA.paa\"",
+      "priority": 3,
+      "side": 2
+    },
+    {
+      "className": "BLU_T_F",
+      "displayName": "2035 NATO (Pacific)",
+      "flag": "\"\\a3\\Data_f\\Flags\\flag_nato_co.paa\"",
+      "icon": "\"\\a3\\Data_f\\cfgFactionClasses_BLU_ca.paa\"",
+      "priority": 3,
+      "side": 1
+    },
+    {
+      "className": "BLU_CTRG_F",
+      "displayName": "2035 CTRG",
+      "flag": "\"\\a3\\Data_F_Exp\\Flags\\flag_CTRG_CO.paa\"",
+      "icon": "\"\\a3\\Data_F_Exp\\FactionIcons\\icon_CTRG_CA.paa\"",
+      "priority": 4,
+      "side": 1
+    },
+    {
+      "className": "BLU_GEN_F",
+      "displayName": "2035 Gendarmerie",
+      "flag": "\"\\a3\\Data_F_Exp\\Flags\\flag_GEN_CO.paa\"",
+      "icon": "\"\\a3\\Data_F_Exp\\FactionIcons\\icon_GEN_CA.paa\"",
+      "priority": 5,
+      "side": 1
+    },
+    {
+      "className": "OPF_T_F",
+      "displayName": "2035 CSAT (Pacific)",
+      "flag": "\"\\a3\\Data_f\\Flags\\flag_CSAT_co.paa\"",
+      "icon": "\"\\a3\\Data_f\\cfgFactionClasses_OPF_ca.paa\"",
+      "priority": 3,
+      "side": 0
+    },
+    {
+      "className": "OPF_V_F",
+      "displayName": "2035 Viper",
+      "flag": "\"\\a3\\Data_F_Exp\\Flags\\flag_VIPER_CO.paa\"",
+      "icon": "\"\\a3\\Data_F_Exp\\FactionIcons\\icon_VIPER_CA.paa\"",
+      "priority": 4,
+      "side": 0
+    },
+    {
+      "className": "CombatPatrol",
+      "displayName": "Combat Patrol",
+      "flag": "",
+      "icon": "",
+      "priority": 10,
+      "side": 7
+    },
+    {
+      "className": "CIV_IDAP_F",
+      "displayName": "IDAP",
+      "flag": "\"\\a3\\Data_F_Orange\\Flags\\flag_IDAP_co.paa\"",
+      "icon": "\"\\a3\\Data_F_Orange\\FactionIcons\\icon_IDAP_CA.paa\"",
+      "priority": 3,
+      "side": 3
+    },
+    {
+      "className": "Warlords",
+      "displayName": "Warlords",
+      "flag": "",
+      "icon": "",
+      "priority": 15,
+      "side": 7
+    },
+    {
+      "className": "rhs_faction_msv",
+      "displayName": "Russia (MSV)",
+      "flag": "\"\\rhsafrf\\addons\\rhs_main\\data\\flag_rus_co.paa\"",
+      "icon": "\"\\rhsafrf\\addons\\rhs_main\\data\\icons\\msv.paa\"",
+      "priority": -9,
+      "side": 0
+    },
+    {
+      "className": "rhs_faction_vdv",
+      "displayName": "Russia (VDV)",
+      "flag": "\"\\rhsafrf\\addons\\rhs_main\\data\\flag_rus_co.paa\"",
+      "icon": "\"\\rhsafrf\\addons\\rhs_main\\data\\icons\\vdv.paa\"",
+      "priority": -8,
+      "side": 0
+    },
+    {
+      "className": "rhs_faction_vdv_45",
+      "displayName": "",
+      "flag": "\"\\rhsafrf\\addons\\rhs_main\\data\\flag_rus_co.paa\"",
+      "icon": "\"\\rhsafrf\\addons\\rhs_main\\data\\icons\\vdv.paa\"",
+      "priority": -8,
+      "side": 0
+    },
+    {
+      "className": "rhs_faction_vmf",
+      "displayName": "Russia (VMF)",
+      "flag": "\"\\rhsafrf\\addons\\rhs_main\\data\\flag_rus_co.paa\"",
+      "icon": "\"\\rhsafrf\\addons\\rhs_main\\data\\icons\\vmf.paa\"",
+      "priority": -7,
+      "side": 0
+    },
+    {
+      "className": "rhs_faction_vv",
+      "displayName": "Russia (VV)",
+      "flag": "\"\\rhsafrf\\addons\\rhs_main\\data\\flag_rus_co.paa\"",
+      "icon": "\"\\rhsafrf\\addons\\rhs_main\\data\\icons\\vv.paa\"",
+      "priority": -6,
+      "side": 0
+    },
+    {
+      "className": "rhs_faction_tv",
+      "displayName": "Russia (TV)",
+      "flag": "\"\\rhsafrf\\addons\\rhs_main\\data\\flag_rus_co.paa\"",
+      "icon": "\"\\rhsafrf\\addons\\rhs_main\\data\\icons\\tv.paa\"",
+      "priority": -5,
+      "side": 0
+    },
+    {
+      "className": "rhs_faction_vpvo",
+      "displayName": "Russia (VPVO)",
+      "flag": "\"\\rhsafrf\\addons\\rhs_main\\data\\flag_rus_co.paa\"",
+      "icon": "\"\\rhsafrf\\addons\\rhs_main\\data\\icons\\vpvo.paa\"",
+      "priority": -4,
+      "side": 0
+    },
+    {
+      "className": "rhs_faction_vvs",
+      "displayName": "Russia (VVS - Grey)",
+      "flag": "\"\\rhsafrf\\addons\\rhs_main\\data\\flag_rus_co.paa\"",
+      "icon": "\"\\rhsafrf\\addons\\rhs_main\\data\\icons\\vvs_g.paa\"",
+      "priority": -3,
+      "side": 0
+    },
+    {
+      "className": "rhs_faction_vvs_c",
+      "displayName": "Russia (VVS - Camo)",
+      "flag": "\"\\rhsafrf\\addons\\rhs_main\\data\\flag_rus_co.paa\"",
+      "icon": "\"\\rhsafrf\\addons\\rhs_main\\data\\icons\\vvs_c.paa\"",
+      "priority": -2,
+      "side": 0
+    },
+    {
+      "className": "rhs_faction_rva",
+      "displayName": "Russia (RVA)",
+      "flag": "\"\\rhsafrf\\addons\\rhs_main\\data\\flag_rus_co.paa\"",
+      "icon": "\"\\rhsafrf\\addons\\rhs_main\\data\\icons\\rva.paa\"",
+      "priority": -1,
+      "side": 0
+    },
+    {
+      "className": "rhs_faction_usarmy",
+      "displayName": "USA (Army)",
+      "flag": "\"\\rhsusf\\addons\\rhsusf_main\\data\\flag_us_co.paa\"",
+      "icon": "\"\\rhsusf\\addons\\rhsusf_main\\data\\armylogo.paa\"",
+      "priority": -5,
+      "side": 1
+    },
+    {
+      "className": "rhs_faction_usmc",
+      "displayName": "USA (USMC)",
+      "flag": "\"\\rhsusf\\addons\\rhsusf_main\\data\\flag_us_co.paa\"",
+      "icon": "\"\\rhsusf\\addons\\rhsusf_main\\data\\usmclogo.paa\"",
+      "priority": -3,
+      "side": 1
+    },
+    {
+      "className": "rhs_faction_usarmy_wd",
+      "displayName": "USA (Army - W)",
+      "flag": "\"\\rhsusf\\addons\\rhsusf_main\\data\\flag_us_co.paa\"",
+      "icon": "\"\\rhsusf\\addons\\rhsusf_main\\data\\armylogo.paa\"",
+      "priority": -5,
+      "side": 1
+    },
+    {
+      "className": "rhs_faction_usarmy_d",
+      "displayName": "USA (Army - D)",
+      "flag": "\"\\rhsusf\\addons\\rhsusf_main\\data\\flag_us_co.paa\"",
+      "icon": "\"\\rhsusf\\addons\\rhsusf_main\\data\\armylogo.paa\"",
+      "priority": -4,
+      "side": 1
+    },
+    {
+      "className": "rhs_faction_usmc_wd",
+      "displayName": "USA (USMC - W)",
+      "flag": "\"\\rhsusf\\addons\\rhsusf_main\\data\\flag_us_co.paa\"",
+      "icon": "\"\\rhsusf\\addons\\rhsusf_main\\data\\usmclogo.paa\"",
+      "priority": -3,
+      "side": 1
+    },
+    {
+      "className": "rhs_faction_usmc_d",
+      "displayName": "USA (USMC - D)",
+      "flag": "\"\\rhsusf\\addons\\rhsusf_main\\data\\flag_us_co.paa\"",
+      "icon": "\"\\rhsusf\\addons\\rhsusf_main\\data\\usmclogo.paa\"",
+      "priority": -2,
+      "side": 1
+    },
+    {
+      "className": "rhs_faction_usaf",
+      "displayName": "USA (USAF)",
+      "flag": "\"\\rhsusf\\addons\\rhsusf_main\\data\\flag_us_co.paa\"",
+      "icon": "\"\\rhsusf\\addons\\rhsusf_main\\data\\usaflogo.paa\"",
+      "priority": -1,
+      "side": 1
+    },
+    {
+      "className": "rhs_faction_usn",
+      "displayName": "USA (Navy)",
+      "flag": "\"\\rhsusf\\addons\\rhsusf_main\\data\\flag_us_co.paa\"",
+      "icon": "\"\\rhsusf\\addons\\rhsusf_main\\data\\navylogo.paa\"",
+      "priority": 1,
+      "side": 1
+    },
+    {
+      "className": "rhs_faction_socom",
+      "displayName": "USA (SOCOM)",
+      "flag": "\"\\rhsusf\\addons\\rhsusf_main\\data\\flag_us_co.paa\"",
+      "icon": "\"\\rhsusf\\addons\\rhsusf_main\\data\\socomlogo.paa\"",
+      "priority": 2,
+      "side": 1
+    },
+    {
+      "className": "ISC_PESH_B",
+      "displayName": "[ISC] Peshmerga",
+      "flag": "",
+      "icon": "\"\\IraqiSyrianConflict\\isc_logo_small.paa\"",
+      "priority": 1,
+      "side": 1
+    },
+    {
+      "className": "ISC_IA_B",
+      "displayName": "[ISC] Iraqi Army",
+      "flag": "",
+      "icon": "\"\\IraqiSyrianConflict\\isc_logo_small.paa\"",
+      "priority": 1,
+      "side": 1
+    },
+    {
+      "className": "ISC_IP_B",
+      "displayName": "[ISC] Iraqi Police",
+      "flag": "",
+      "icon": "\"\\IraqiSyrianConflict\\isc_logo_small.paa\"",
+      "priority": 1,
+      "side": 1
+    },
+    {
+      "className": "ISC_YPG_B",
+      "displayName": "[ISC] YPG",
+      "flag": "",
+      "icon": "\"\\IraqiSyrianConflict\\isc_logo_small.paa\"",
+      "priority": 1,
+      "side": 1
+    },
+    {
+      "className": "ISC_IS_O",
+      "displayName": "[ISC] Islamic State",
+      "flag": "",
+      "icon": "\"\\IraqiSyrianConflict\\isc_logo_small.paa\"",
+      "priority": 1,
+      "side": 0
+    },
+    {
+      "className": "ISC_SAA_O",
+      "displayName": "[ISC] Syrian Arab Army",
+      "flag": "",
+      "icon": "\"\\IraqiSyrianConflict\\isc_logo_small.paa\"",
+      "priority": 1,
+      "side": 0
+    },
+    {
+      "className": "ISC_IS_I",
+      "displayName": "[ISC] Islamic State",
+      "flag": "",
+      "icon": "\"\\IraqiSyrianConflict\\isc_logo_small.paa\"",
+      "priority": 1,
+      "side": 2
+    },
+    {
+      "className": "ISC_alNusra_I",
+      "displayName": "[ISC] al-Nusra Front",
+      "flag": "",
+      "icon": "\"\\IraqiSyrianConflict\\isc_logo_small.paa\"",
+      "priority": 1,
+      "side": 2
+    },
+    {
+      "className": "rhsgref_faction_cdf_ground",
+      "displayName": "Chernarus (Ground Forces)",
+      "flag": "\"\\rhsgref\\addons\\rhsgref_main\\data\\Flags\\flag_cdf_co.paa\"",
+      "icon": "\"\\rhsgref\\addons\\rhsgref_main\\data\\Icons\\cdf_groundforces_co.paa\"",
+      "priority": -9,
+      "side": 2
+    },
+    {
+      "className": "rhsgref_faction_cdf_ground_b",
+      "displayName": "Chernarus (Ground Forces)",
+      "flag": "\"\\rhsgref\\addons\\rhsgref_main\\data\\Flags\\flag_cdf_co.paa\"",
+      "icon": "\"\\rhsgref\\addons\\rhsgref_main\\data\\Icons\\cdf_groundforces_co.paa\"",
+      "priority": -19,
+      "side": 1
+    },
+    {
+      "className": "rhsgref_faction_cdf_air",
+      "displayName": "Chernarus (Air Force)",
+      "flag": "\"\\rhsgref\\addons\\rhsgref_main\\data\\Flags\\flag_cdf_co.paa\"",
+      "icon": "\"\\rhsgref\\addons\\rhsgref_main\\data\\Icons\\cdf_airforces_co.paa\"",
+      "priority": -9,
+      "side": 2
+    },
+    {
+      "className": "rhsgref_faction_cdf_air_b",
+      "displayName": "Chernarus (Air Force)",
+      "flag": "\"\\rhsgref\\addons\\rhsgref_main\\data\\Flags\\flag_cdf_co.paa\"",
+      "icon": "\"\\rhsgref\\addons\\rhsgref_main\\data\\Icons\\cdf_airforces_co.paa\"",
+      "priority": -19,
+      "side": 1
+    },
+    {
+      "className": "rhsgref_faction_cdf_ng",
+      "displayName": "Chernarus (National Guard)",
+      "flag": "\"\\rhsgref\\addons\\rhsgref_main\\data\\Flags\\flag_cdf_co.paa\"",
+      "icon": "\"\\rhsgref\\addons\\rhsgref_main\\data\\Icons\\cdf_paramilitary_co.paa\"",
+      "priority": -9,
+      "side": 2
+    },
+    {
+      "className": "rhsgref_faction_cdf_ng_b",
+      "displayName": "Chernarus (National Guard)",
+      "flag": "\"\\rhsgref\\addons\\rhsgref_main\\data\\Flags\\flag_cdf_co.paa\"",
+      "icon": "\"\\rhsgref\\addons\\rhsgref_main\\data\\Icons\\cdf_paramilitary_co.paa\"",
+      "priority": -19,
+      "side": 1
+    },
+    {
+      "className": "rhsgref_faction_un",
+      "displayName": "Chernarus (U.N. Peacekeepers)",
+      "flag": "\"\\rhsgref\\addons\\rhsgref_main\\data\\Flags\\flag_cdf_co.paa\"",
+      "icon": "\"\\rhsgref\\addons\\rhsgref_main\\data\\Icons\\cdf_paramilitary_co.paa\"",
+      "priority": -9,
+      "side": 2
+    },
+    {
+      "className": "rhsgref_faction_nationalist",
+      "displayName": "Nationalist Troops",
+      "flag": "\"\\rhsgref\\addons\\rhsgref_main\\data\\Flags\\flag_NAPA_co.paa\"",
+      "icon": "\"\\rhsgref\\addons\\rhsgref_main\\data\\Icons\\cdf_napa_co.paa\"",
+      "priority": -9,
+      "side": 2
+    },
+    {
+      "className": "rhsgref_faction_chdkz",
+      "displayName": "ChDKZ Insurgents",
+      "flag": "\"\\rhsgref\\addons\\rhsgref_main\\data\\flag_chdkz_co.paa\"",
+      "icon": "\"\\rhsgref\\addons\\rhsgref_main\\data\\Icons\\cdf_napa_co.paa\"",
+      "priority": -9,
+      "side": 0
+    },
+    {
+      "className": "rhsgref_faction_chdkz_g",
+      "displayName": "ChDKZ Insurgents",
+      "flag": "\"\\rhsgref\\addons\\rhsgref_main\\data\\flag_chdkz_co.paa\"",
+      "icon": "\"\\rhsgref\\addons\\rhsgref_main\\data\\Icons\\cdf_napa_co.paa\"",
+      "priority": -9,
+      "side": 2
+    },
+    {
+      "className": "rhsgref_faction_hidf",
+      "displayName": "Horizon Islands Defence Force",
+      "flag": "\"\\a3\\data_f_exp\\flags\\flag_tanoa_co.paa\"",
+      "icon": "\"\\a3\\data_f_exp\\factionicons\\icon_gen_ca.paa\"",
+      "priority": -9,
+      "side": 1
+    },
+    {
+      "className": "rhsgref_faction_tla",
+      "displayName": "Tanoan Liberation Army",
+      "flag": "",
+      "icon": "",
+      "priority": -9,
+      "side": 0
+    },
+    {
+      "className": "rhssaf_faction_army",
+      "displayName": "SAF (KOV)",
+      "flag": "\"\\rhssaf\\addons\\rhssaf_main\\data\\flags\\flag_serbia_co.paa\"",
+      "icon": "\"\\rhssaf\\addons\\rhssaf_main\\data\\icons\\factions\\rhssaf_faction_army_co.paa\"",
+      "priority": 80,
+      "side": 2
+    },
+    {
+      "className": "rhssaf_faction_airforce",
+      "displayName": "SAF (RVIPVO)",
+      "flag": "\"\\rhssaf\\addons\\rhssaf_main\\data\\flags\\flag_serbia_co.paa\"",
+      "icon": "\"\\rhssaf\\addons\\rhssaf_main\\data\\icons\\factions\\rhssaf_faction_airforce_co.paa\"",
+      "priority": 81,
+      "side": 2
+    },
+    {
+      "className": "rhssaf_faction_un",
+      "displayName": "SAF (UN Peacekeepers)",
+      "flag": "\"\\rhssaf\\addons\\rhssaf_main\\data\\flags\\flag_serbia_co.paa\"",
+      "icon": "\"\\rhssaf\\addons\\rhssaf_main\\data\\icons\\factions\\rhssaf_faction_un_co.paa\"",
+      "priority": 83,
+      "side": 2
+    },
+    {
+      "className": "CBA_Modules",
+      "displayName": "CBA Modules",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "SpyderAddons",
+      "displayName": "Spyder Addons",
+      "flag": "",
+      "icon": "",
+      "priority": 1,
+      "side": 7
+    },
+    {
+      "className": "Alive",
+      "displayName": "ALiVE Modules",
+      "flag": "",
+      "icon": "",
+      "priority": 0,
+      "side": 7
+    },
+    {
+      "className": "ACE",
+      "displayName": "ACE",
+      "flag": "",
+      "icon": "",
+      "priority": 2,
+      "side": 7
+    },
+    {
+      "className": "ACE_Logistics",
+      "displayName": "ACE Logistics",
+      "flag": "",
+      "icon": "",
+      "priority": 2,
+      "side": 7
+    },
+    {
+      "className": "ace_medical",
+      "displayName": "ACE Medical",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "ACE_missionModules",
+      "displayName": "ACE Mission Modules",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "Achilles_fac_Arsenal",
+      "displayName": "Arsenal",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "Achilles_fac_Behaviours",
+      "displayName": "AI Behaviour",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "Achilles_fac_DevTools",
+      "displayName": "Development Tools",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "Achilles_fac_Equipment",
+      "displayName": "Equipment",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "Achilles_fac_Player",
+      "displayName": "Players",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "Achilles_fac_Reinforcements",
+      "displayName": "Reinforcements",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "Achilles_fac_Spawn",
+      "displayName": "Spawn",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "rhs_faction_insurgents",
+      "displayName": "Eastern Militia",
+      "flag": "\"\\rhsafrf\\addons\\rhs_c_cti_indep\\data\\map_flag_insurgents_co.paa\"",
+      "icon": "\"\\rhsafrf\\addons\\rhs_c_cti_indep\\data\\insurgents_faction_icon.paa\"",
+      "priority": -9,
+      "side": 2
+    },
+    {
+      "className": "ace_zeus_AI",
+      "displayName": "ACE AI",
+      "flag": "",
+      "icon": "",
+      "priority": 2,
+      "side": 7
+    },
+    {
+      "className": "ace_zeus_Captive",
+      "displayName": "ACE Captive",
+      "flag": "",
+      "icon": "",
+      "priority": 2,
+      "side": 7
+    },
+    {
+      "className": "ace_zeus_Medical",
+      "displayName": "ACE Medical",
+      "flag": "",
+      "icon": "",
+      "priority": 2,
+      "side": 7
+    },
+    {
+      "className": "ace_zeus_Repair",
+      "displayName": "ACE Repair",
+      "flag": "",
+      "icon": "",
+      "priority": 2,
+      "side": 7
+    },
+    {
+      "className": "ace_zeus_Utility",
+      "displayName": "ACE Utility",
+      "flag": "",
+      "icon": "",
+      "priority": 2,
+      "side": 7
+    },
+    {
+      "className": "ace_zeus_Arsenal",
+      "displayName": "ACE Arsenal",
+      "flag": "",
+      "icon": "",
+      "priority": 2,
+      "side": 7
+    },
+    {
+      "className": "Achilles_fac_Buildings",
+      "displayName": "Buildings",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "Achilles_fac_Objects",
+      "displayName": "Objects",
+      "flag": "",
+      "icon": "",
+      "priority": 8,
+      "side": 7
+    },
+    {
+      "className": "CFP_B_AFGPOLICE",
+      "displayName": "Afghan Police",
+      "flag": "\"x\\cfp\\addons\\flags\\Afghanistan\\NationalPolice.paa\"",
+      "icon": "\"x\\cfp\\addons\\flags\\Afghanistan\\NationalPolice.paa\"",
+      "priority": 0,
+      "side": 1
+    },
+    {
+      "className": "LOP_CHR_Civ",
+      "displayName": "Civilians (Eastern European)",
+      "flag": "\"\\rhsafrf\\addons\\rhs_main\\data\\flag_rus_co.paa\"",
+      "icon": "\"\\po_main\\data\\fac\\cfgfactionclasses_cdf_ca.paa\"",
+      "priority": -10,
+      "side": 3
+    },
+    {
+      "className": "LOP_UN",
+      "displayName": "United Nations",
+      "flag": "\"\\po_main\\data\\UI\\flags\\flag_un_co.paa\"",
+      "icon": "\"\\po_main\\data\\fac\\cfgfactionclasses_un_ca.paa\"",
+      "priority": -10,
+      "side": 2
+    },
+    {
+      "className": "LOP_CDF",
+      "displayName": "Chernarussian Defence Forces",
+      "flag": "\"po_main\\data\\UI\\flags\\flag_cdf_co.paa\"",
+      "icon": "\"\\po_main\\data\\fac\\cfgfactionclasses_cdf_ca.paa\"",
+      "priority": -10,
+      "side": 1
+    },
+    {
+      "className": "LOP_TAK_Civ",
+      "displayName": "Civilians (Middle Eastern)",
+      "flag": "\"a3\\data_f\\flags\\flag_white_co.paa\"",
+      "icon": "\"\\po_main\\data\\fac\\cfgfactionclasses_aa_ca.paa\"",
+      "priority": -10,
+      "side": 3
+    },
+    {
+      "className": "LOP_AFR_Civ",
+      "displayName": "Civilians (African)",
+      "flag": "\"a3\\data_f\\flags\\flag_white_co.paa\"",
+      "icon": "\"\\po_main\\data\\fac\\cfgfactionclasses_afrciv_ca.paa\"",
+      "priority": -10,
+      "side": 3
+    },
+    {
+      "className": "LOP_AA",
+      "displayName": "Afghan National Army and Police",
+      "flag": "\"po_main\\data\\UI\\flags\\flag_afg_co.paa\"",
+      "icon": "\"\\po_main\\data\\fac\\cfgfactionclasses_aa_ca.paa\"",
+      "priority": -10,
+      "side": 1
+    },
+    {
+      "className": "LOP_IA",
+      "displayName": "Iraqi Armed Forces",
+      "flag": "\"po_main\\data\\UI\\flags\\flag_ia_co.paa\"",
+      "icon": "\"\\po_main\\data\\fac\\cfgfactionclasses_ia_ca.paa\"",
+      "priority": -10,
+      "side": 1
+    },
+    {
+      "className": "LOP_US",
+      "displayName": "United Armed Forces of Novorossiya",
+      "flag": "\"\\rhsafrf\\addons\\rhs_main\\data\\flag_dnr_co.paa\"",
+      "icon": "\"\\po_main\\data\\fac\\cfgfactionclasses_us_ca.paa\"",
+      "priority": -10,
+      "side": 0
+    },
+    {
+      "className": "LOP_ChDKZ",
+      "displayName": "ChDKZ",
+      "flag": "\"po_main\\data\\UI\\flags\\flag_chdkz_co.paa\"",
+      "icon": "\"\\po_main\\data\\fac\\cfgfactionclasses_chdkz_ca.paa\"",
+      "priority": -10,
+      "side": 0
+    },
+    {
+      "className": "LOP_TKA",
+      "displayName": "Takistani Armed Forces",
+      "flag": "\"po_main\\data\\UI\\flags\\flag_tak_co.paa\"",
+      "icon": "\"\\po_main\\data\\fac\\cfgfactionclasses_tka_ca.paa\"",
+      "priority": -10,
+      "side": 0
+    },
+    {
+      "className": "LOP_SLA",
+      "displayName": "Sahrani Liberation Army",
+      "flag": "\"po_main\\data\\UI\\flags\\flag_sla_co.paa\"",
+      "icon": "\"\\po_main\\data\\fac\\cfgfactionclasses_sla_ca.paa\"",
+      "priority": -10,
+      "side": 0
+    },
+    {
+      "className": "LOP_RACS",
+      "displayName": "Royal Army Corps of Sahrani",
+      "flag": "\"po_main\\data\\UI\\flags\\flag_racs_co.paa\"",
+      "icon": "\"\\po_main\\data\\fac\\cfgfactionclasses_racs_ca.paa\"",
+      "priority": -10,
+      "side": 2
+    },
+    {
+      "className": "LOP_PMC",
+      "displayName": "Private Military Company",
+      "flag": "\"po_main\\data\\UI\\flags\\flag_pmc_co.paa\"",
+      "icon": "\"\\po_main\\data\\fac\\cfgfactionclasses_pmc_ca.paa\"",
+      "priority": -10,
+      "side": 2
+    },
+    {
+      "className": "LOP_ISTS",
+      "displayName": "Islamic State",
+      "flag": "\"po_main\\data\\UI\\flags\\flag_isis_co.paa\"",
+      "icon": "\"\\po_main\\data\\fac\\cfgfactionclasses_ists_ca.paa\"",
+      "priority": -10,
+      "side": 2
+    },
+    {
+      "className": "LOP_ISTS_OPF",
+      "displayName": "Islamic State",
+      "flag": "\"po_main\\data\\UI\\flags\\flag_isis_co.paa\"",
+      "icon": "\"\\po_main\\data\\fac\\cfgfactionclasses_ists_ca.paa\"",
+      "priority": -10,
+      "side": 0
+    },
+    {
+      "className": "LOP_NAPA",
+      "displayName": "Chernarussian National Insurgents",
+      "flag": "\"po_main\\data\\UI\\flags\\flag_napa_co.paa\"",
+      "icon": "\"\\po_main\\data\\fac\\cfgfactionclasses_napa_ca.paa\"",
+      "priority": -10,
+      "side": 2
+    },
+    {
+      "className": "LOP_AM",
+      "displayName": "Middle Eastern Militia",
+      "flag": "\"po_main\\data\\UI\\flags\\flag_am_co.paa\"",
+      "icon": "\"\\po_main\\data\\fac\\cfgfactionclasses_am_ca.paa\"",
+      "priority": -10,
+      "side": 2
+    },
+    {
+      "className": "LOP_AM_OPF",
+      "displayName": "Middle Eastern Militia",
+      "flag": "\"po_main\\data\\UI\\flags\\flag_am_opf_co.paa\"",
+      "icon": "\"\\po_main\\data\\fac\\cfgfactionclasses_am_ca.paa\"",
+      "priority": -10,
+      "side": 0
+    },
+    {
+      "className": "LOP_AFR",
+      "displayName": "African Militia",
+      "flag": "\"po_main\\data\\UI\\flags\\flag_afr_co.paa\"",
+      "icon": "\"\\po_main\\data\\fac\\cfgfactionclasses_afr_ca.paa\"",
+      "priority": -10,
+      "side": 2
+    },
+    {
+      "className": "LOP_AFR_OPF",
+      "displayName": "African Militia",
+      "flag": "\"po_main\\data\\UI\\flags\\flag_afr_co.paa\"",
+      "icon": "\"\\po_main\\data\\fac\\cfgfactionclasses_afr_ca.paa\"",
+      "priority": -10,
+      "side": 0
+    },
+    {
+      "className": "LOP_UA",
+      "displayName": "Ultranationalists",
+      "flag": "\"po_main\\data\\UI\\flags\\flag_ua_co.paa\"",
+      "icon": "\"\\po_main\\data\\fac\\cfgfactionclasses_uln_ca.paa\"",
+      "priority": -10,
+      "side": 2
+    },
+    {
+      "className": "LOP_PESH",
+      "displayName": "Kurdish Peshmerga Forces",
+      "flag": "\"po_main\\data\\UI\\flags\\flag_pesh_co.paa\"",
+      "icon": "\"\\po_main\\data\\fac\\cfgfactionclasses_pesh_ca.paa\"",
+      "priority": -10,
+      "side": 1
+    },
+    {
+      "className": "LOP_PESH_IND",
+      "displayName": "Kurdish Peshmerga Forces",
+      "flag": "\"po_main\\data\\UI\\flags\\flag_pesh_co.paa\"",
+      "icon": "\"\\po_main\\data\\fac\\cfgfactionclasses_pesh_ca.paa\"",
+      "priority": -10,
+      "side": 2
+    },
+    {
+      "className": "LOP_UKR",
+      "displayName": "Ukrainian Armed Forces",
+      "flag": "\"po_main\\data\\UI\\flags\\flag_ukr_co.paa\"",
+      "icon": "\"\\po_main\\data\\fac\\cfgfactionclasses_ukr_ca.paa\"",
+      "priority": -10,
+      "side": 2
+    },
+    {
+      "className": "LOP_BH",
+      "displayName": "Boko Haram",
+      "flag": "\"po_main\\data\\UI\\flags\\flag_isis_co.paa\"",
+      "icon": "\"\\po_main\\data\\fac\\cfgfactionclasses_ists_ca.paa\"",
+      "priority": -10,
+      "side": 0
+    },
+    {
+      "className": "LOP_IRA",
+      "displayName": "Irish Republican Army",
+      "flag": "\"po_main\\data\\UI\\flags\\flag_ira_co.paa\"",
+      "icon": "\"\\po_main\\data\\fac\\cfgfactionclasses_placeholder_ca.paa\"",
+      "priority": -10,
+      "side": 0
+    },
+    {
+      "className": "LOP_UVF",
+      "displayName": "Ulster Volunteer Force",
+      "flag": "\"po_main\\data\\UI\\flags\\flag_uvf_co.paa\"",
+      "icon": "\"\\po_main\\data\\fac\\cfgfactionclasses_placeholder_ca.paa\"",
+      "priority": -10,
+      "side": 2
+    },
+    {
+      "className": "LOP_IRAN",
+      "displayName": "Iranian Armed Forces",
+      "flag": "\"po_main\\data\\UI\\flags\\flag_iran_co.paa\"",
+      "icon": "\"\\po_main\\data\\fac\\cfgfactionclasses_placeholder_ca.paa\"",
+      "priority": -10,
+      "side": 2
+    },
+    {
+      "className": "CUP_AFR_CIV",
+      "displayName": "African Civilians",
+      "flag": "\"\\A3\\ui_f\\data\\map\\markers\\flags\\nato_ca.paa\"",
+      "icon": "\"\\A3\\ui_f\\data\\map\\markers\\flags\\nato_ca.paa\"",
+      "priority": 0,
+      "side": 3
+    },
+    {
+      "className": "CUP_AFR_M_CIV",
+      "displayName": "African Muslim Civilians",
+      "flag": "\"\\A3\\ui_f\\data\\map\\markers\\flags\\Tanoa_ca.paa\"",
+      "icon": "\"\\A3\\ui_f\\data\\map\\markers\\flags\\Tanoa_ca.paa\"",
+      "priority": 0,
+      "side": 3
+    },
+    {
+      "className": "CUP_AFR_M_Reb",
+      "displayName": "African Muslim Insurgents",
+      "flag": "\"\\A3\\ui_f\\data\\map\\markers\\flags\\Syndicat_ca.paa\"",
+      "icon": "\"\\A3\\ui_f\\data\\map\\markers\\flags\\Syndicat_ca.paa\"",
+      "priority": 0,
+      "side": 0
+    },
+    {
+      "className": "CUP_TAK_CIVS",
+      "displayName": "Takistani Civilians",
+      "flag": "\"\\A3\\ui_f\\data\\map\\markers\\flags\\nato_ca.paa\"",
+      "icon": "\"\\A3\\ui_f\\data\\map\\markers\\flags\\nato_ca.paa\"",
+      "priority": 0,
+      "side": 3
+    },
+    {
+      "className": "CFP_B_DEARMY_WDL",
+      "displayName": "Bundeswehr (Jungle / Woodland)",
+      "flag": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_ger_co.paa\"",
+      "icon": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_ger_co.paa\"",
+      "priority": 10,
+      "side": 1
+    },
+    {
+      "className": "CFP_B_GBARMY_WDL",
+      "displayName": "British Army (Jungle / Woodland)",
+      "flag": "\"a3\\data_f\\Flags\\flag_uk_co.paa\"",
+      "icon": "\"a3\\data_f\\Flags\\flag_uk_co.paa\"",
+      "priority": 9,
+      "side": 1
+    },
+    {
+      "className": "CFP_B_ILIDF",
+      "displayName": "Israeli Defense Force",
+      "flag": "\"\\x\\cfp\\addons\\markers\\data\\mideast\\marker_israel_ca.paa\"",
+      "icon": "\"\\x\\cfp\\addons\\markers\\data\\mideast\\marker_israel_ca.paa\"",
+      "priority": 0,
+      "side": 1
+    },
+    {
+      "className": "CFP_B_IQPOLICE",
+      "displayName": "Iraqi Police",
+      "flag": "",
+      "icon": "\"\\x\\cfp\\addons\\b_iqpolice\\data\\cfp_logo_small.paa\"",
+      "priority": 1,
+      "side": 1
+    },
+    {
+      "className": "CFP_B_KEARMY",
+      "displayName": "Kenyan Defense Force",
+      "flag": "\"x\\cfp\\addons\\flags\\Kenya\\Kenya.paa\"",
+      "icon": "\"x\\cfp\\addons\\flags\\Kenya\\Kenya.paa\"",
+      "priority": 0,
+      "side": 1
+    },
+    {
+      "className": "CFP_B_PESH",
+      "displayName": "Peshmerga",
+      "flag": "",
+      "icon": "\"\\x\\cfp\\addons\\b_pesh\\data\\cfp_logo_small.paa\"",
+      "priority": 1,
+      "side": 1
+    },
+    {
+      "className": "CFP_B_YPG",
+      "displayName": "YPG",
+      "flag": "",
+      "icon": "\"\\x\\cfp\\addons\\b_ypg\\data\\cfp_logo_small.paa\"",
+      "priority": 1,
+      "side": 1
+    },
+    {
+      "className": "CFP_C_AFG",
+      "displayName": "Civilians (Afghanistan)",
+      "flag": "\"x\\cfp\\addons\\flags\\Afghanistan\\Afghanistan.paa\"",
+      "icon": "\"x\\cfp\\addons\\flags\\Afghanistan\\Afghanistan.paa\"",
+      "priority": 0,
+      "side": 3
+    },
+    {
+      "className": "CFP_C_AFRCHRISTIAN",
+      "displayName": "Civilians (African Christian)",
+      "flag": "\"\\A3\\ui_f\\data\\map\\markers\\flags\\nato_ca.paa\"",
+      "icon": "\"\\A3\\ui_f\\data\\map\\markers\\flags\\nato_ca.paa\"",
+      "priority": 0,
+      "side": 3
+    },
+    {
+      "className": "CFP_C_AFRISLAMIC",
+      "displayName": "Civilians (African Islamic)",
+      "flag": "\"\\A3\\ui_f\\data\\map\\markers\\flags\\Tanoa_ca.paa\"",
+      "icon": "\"\\A3\\ui_f\\data\\map\\markers\\flags\\Tanoa_ca.paa\"",
+      "priority": 0,
+      "side": 3
+    },
+    {
+      "className": "CFP_C_ASIA",
+      "displayName": "Civilians (Asian)",
+      "flag": "\"\\A3\\ui_f\\data\\map\\markers\\flags\\nato_ca.paa\"",
+      "icon": "\"\\A3\\ui_f\\data\\map\\markers\\flags\\nato_ca.paa\"",
+      "priority": 0,
+      "side": 3
+    },
+    {
+      "className": "CFP_C_ME",
+      "displayName": "Civilians (Middle Eastern)",
+      "flag": "\"\\A3\\ui_f\\data\\map\\markers\\flags\\nato_ca.paa\"",
+      "icon": "\"\\A3\\ui_f\\data\\map\\markers\\flags\\nato_ca.paa\"",
+      "priority": 0,
+      "side": 3
+    },
+    {
+      "className": "CFP_I_TUAREG",
+      "displayName": "Tuareg Rebels",
+      "flag": "\"\\A3\\ui_f\\data\\map\\markers\\flags\\nato_ca.paa\"",
+      "icon": "\"\\A3\\ui_f\\data\\map\\markers\\flags\\nato_ca.paa\"",
+      "priority": 0,
+      "side": 2
+    },
+    {
+      "className": "CFP_I_WestUltra",
+      "displayName": "Western Ultranationalists",
+      "flag": "\"x\\cfp\\addons\\flags\\Others\\3percenters.paa\"",
+      "icon": "\"x\\cfp\\addons\\flags\\Others\\3percenters.paa\"",
+      "priority": 0,
+      "side": 2
+    },
+    {
+      "className": "CFP_O_ALQAEDA",
+      "displayName": "Al Qaeda",
+      "flag": "\"\\x\\cfp\\addons\\i_alnusra\\data\\ISC_flag_alNusra.paa\"",
+      "icon": "\"\\x\\cfp\\addons\\i_alnusra\\data\\ISC_flag_alNusra.paa\"",
+      "priority": 0,
+      "side": 0
+    },
+    {
+      "className": "CFP_O_ALSHABAAB",
+      "displayName": "Al-Shabaab",
+      "flag": "\"x\\cfp\\addons\\flags\\IslamicState\\ISC_flag_IS.paa\"",
+      "icon": "\"x\\cfp\\addons\\flags\\IslamicState\\ISC_flag_IS.paa\"",
+      "priority": 0,
+      "side": 0
+    },
+    {
+      "className": "CFP_O_ANSARALLAH",
+      "displayName": "Ansar Allah (Houthis)",
+      "flag": "\"\\x\\cfp\\addons\\flags\\Others\\houthis.paa\"",
+      "icon": "\"\\x\\cfp\\addons\\flags\\Others\\houthis.paa\"",
+      "priority": 0,
+      "side": 0
+    },
+    {
+      "className": "CFP_O_BOKOHARAM",
+      "displayName": "Boko Haram",
+      "flag": "\"x\\cfp\\addons\\flags\\IslamicState\\ISC_flag_IS.paa\"",
+      "icon": "\"x\\cfp\\addons\\flags\\IslamicState\\ISC_flag_IS.paa\"",
+      "priority": 0,
+      "side": 0
+    },
+    {
+      "className": "CFP_O_HAMAS",
+      "displayName": "Hamas Al Qassam Brigades",
+      "flag": "\"\\A3\\Ui_f\\data\\Map\\Markers\\Flags\\viper_ca.paa\"",
+      "icon": "\"\\A3\\Ui_f\\data\\Map\\Markers\\Flags\\viper_ca.paa\"",
+      "priority": 0,
+      "side": 0
+    },
+    {
+      "className": "CFP_O_SDRebels",
+      "displayName": "Sudan Revolutionary Front",
+      "flag": "\"x\\cfp\\addons\\o_sdrebels\\Data\\UI\\SRF.paa\"",
+      "icon": "\"x\\cfp\\addons\\o_sdrebels\\Data\\UI\\SRF.paa\"",
+      "priority": 0,
+      "side": 0
+    },
+    {
+      "className": "CFP_O_SOREBEL",
+      "displayName": "Somali Rebels",
+      "flag": "\"\\x\\cfp\\addons\\flags\\Somalia\\Somali_Pirates.paa\"",
+      "icon": "\"\\x\\cfp\\addons\\flags\\Somalia\\Somali_Pirates.paa\"",
+      "priority": 1,
+      "side": 0
+    },
+    {
+      "className": "CFP_O_TBAN",
+      "displayName": "Taliban Insurgents",
+      "flag": "\"x\\cfp\\addons\\flags\\Afghanistan\\Taliban.paa\"",
+      "icon": "\"x\\cfp\\addons\\flags\\Afghanistan\\Taliban.paa\"",
+      "priority": 0,
+      "side": 0
+    },
+    {
+      "className": "CUP_AFR_Reb",
+      "displayName": "African Rebels",
+      "flag": "\"\\a3\\Data_f\\Flags\\flag_CSAT_co.paa\"",
+      "icon": "\"\\a3\\Data_f\\cfgFactionClasses_OPF_ca.paa\"",
+      "priority": 1,
+      "side": 0
+    },
+    {
+      "className": "CUP_AFR_Army",
+      "displayName": "African Army",
+      "flag": "\"\\A3\\ui_f\\data\\map\\markers\\flags\\Tanoa_ca.paa\"",
+      "icon": "\"\\A3\\ui_f\\data\\map\\markers\\flags\\Tanoa_ca.paa\"",
+      "priority": 0,
+      "side": 2
+    },
+    {
+      "className": "CUP_AFR_UN",
+      "displayName": "African UN Peacekeepers",
+      "flag": "\"\\a3\\Data_f\\Flags\\flag_uno_co\"",
+      "icon": "\"\\a3\\Data_f\\Flags\\flag_uno_co\"",
+      "priority": 0,
+      "side": 1
+    },
+    {
+      "className": "CFP_B_AFARMY",
+      "displayName": "Afghan Army",
+      "flag": "\"x\\cfp\\addons\\flags\\Afghanistan\\Afghanistan.paa\"",
+      "icon": "\"x\\cfp\\addons\\flags\\Afghanistan\\Afghanistan.paa\"",
+      "priority": 0,
+      "side": 1
+    },
+    {
+      "className": "CFP_B_CAF",
+      "displayName": "Chadian Armed Forces",
+      "flag": "\"\\x\\cfp\\addons\\flags\\Chad\\Chad.paa\"",
+      "icon": "\"\\x\\cfp\\addons\\flags\\Chad\\Chad.paa\"",
+      "priority": 0,
+      "side": 1
+    },
+    {
+      "className": "CFP_B_CDF_SNW",
+      "displayName": "Chernarus Defense Forces [Winter]",
+      "flag": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_chernarus_co.paa\"",
+      "icon": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_chernarus_co.paa\"",
+      "priority": 2,
+      "side": 1
+    },
+    {
+      "className": "CFP_B_CZARMY_WDL",
+      "displayName": "Army of the Czech Rep. (Jungle / Woodland)",
+      "flag": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_cz_co.paa\"",
+      "icon": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_cz_co.paa\"",
+      "priority": 9,
+      "side": 1
+    },
+    {
+      "className": "CFP_B_IQARMY",
+      "displayName": "Iraqi Army",
+      "flag": "",
+      "icon": "\"\\x\\cfp\\addons\\b_iqarmy\\data\\cfp_logo_small.paa\"",
+      "priority": 1,
+      "side": 1
+    },
+    {
+      "className": "CFP_B_MLARMY",
+      "displayName": "Malian Government Forces",
+      "flag": "\"\\x\\cfp\\addons\\flags\\Mali\\Mali.paa\"",
+      "icon": "\"\\x\\cfp\\addons\\flags\\Mali\\Mali.paa\"",
+      "priority": 0,
+      "side": 1
+    },
+    {
+      "className": "CFP_B_NAARMY",
+      "displayName": "Nigerian Army",
+      "flag": "\"x\\cfp\\addons\\flags\\Nigeria\\Nigeria.paa\"",
+      "icon": "\"x\\cfp\\addons\\flags\\Nigeria\\Nigeria.paa\"",
+      "priority": 0,
+      "side": 1
+    },
+    {
+      "className": "CFP_B_SDARMY",
+      "displayName": "Sudanese Armed Forces",
+      "flag": "\"x\\cfp\\addons\\b_sdarmy\\Data\\UI\\Sudan.paa\"",
+      "icon": "\"x\\cfp\\addons\\b_sdarmy\\Data\\UI\\Sudan.paa\"",
+      "priority": 0,
+      "side": 1
+    },
+    {
+      "className": "CFP_B_SDMilitia",
+      "displayName": "Sudan Rapid Support Forces / Janjaweed",
+      "flag": "\"x\\cfp\\addons\\b_sdmilitia\\Data\\UI\\Sudan.paa\"",
+      "icon": "\"x\\cfp\\addons\\b_sdmilitia\\Data\\UI\\Sudan.paa\"",
+      "priority": 0,
+      "side": 1
+    },
+    {
+      "className": "CFP_B_UGARMY",
+      "displayName": "Uganda People's Defense Force",
+      "flag": "\"x\\cfp\\addons\\flags\\Uganda\\Uganda.paa\"",
+      "icon": "\"x\\cfp\\addons\\flags\\Uganda\\Uganda.paa\"",
+      "priority": 0,
+      "side": 1
+    },
+    {
+      "className": "CFP_B_USARMY_WDL",
+      "displayName": "US Army (Jungle / Woodland)",
+      "flag": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_usarmy_co.paa\"",
+      "icon": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_usarmy_co.paa\"",
+      "priority": 8,
+      "side": 1
+    },
+    {
+      "className": "CFP_B_USCIA",
+      "displayName": "US CIA (Middle East)",
+      "flag": "\"a3\\data_f\\Flags\\flag_blue_co\"",
+      "icon": "\"a3\\data_f\\Flags\\flag_blue_co\"",
+      "priority": 0,
+      "side": 1
+    },
+    {
+      "className": "CFP_B_USRANGERS_WDL",
+      "displayName": "US 75th Rangers (Jungle/Woodland)",
+      "flag": "\"\\ca\\data\\flag_usa_co.paa\"",
+      "icon": "\"\\ca\\data\\flag_usa_co.paa\"",
+      "priority": 0,
+      "side": 1
+    },
+    {
+      "className": "CFP_I_ALNUSRA",
+      "displayName": "al-Nusra Front",
+      "flag": "",
+      "icon": "\"\\x\\cfp\\addons\\i_alnusra\\data\\cfp_logo_small.paa\"",
+      "priority": 1,
+      "side": 2
+    },
+    {
+      "className": "CFP_I_IS",
+      "displayName": "Islamic State",
+      "flag": "",
+      "icon": "\"\\x\\cfp\\addons\\i_is\\data\\cfp_logo_small.paa\"",
+      "priority": 1,
+      "side": 2
+    },
+    {
+      "className": "CFP_I_SDRebels",
+      "displayName": "Sudan People's Liberation Movement North",
+      "flag": "\"x\\cfp\\addons\\i_sdrebels\\Data\\UI\\SPLMN.paa\"",
+      "icon": "\"x\\cfp\\addons\\i_sdrebels\\Data\\UI\\SPLMN.paa\"",
+      "priority": 0,
+      "side": 2
+    },
+    {
+      "className": "CFP_I_SSArmy",
+      "displayName": "South Sudan People's Defense Force",
+      "flag": "\"x\\cfp\\addons\\i_ssarmy\\Data\\UI\\SSudan.paa\"",
+      "icon": "\"x\\cfp\\addons\\i_ssarmy\\Data\\UI\\SSudan.paa\"",
+      "priority": 0,
+      "side": 2
+    },
+    {
+      "className": "CFP_O_CHDKZ_SNW",
+      "displayName": "Chernarussian Movement of the Red Star [Winter]",
+      "flag": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_chdkz_co.paa\"",
+      "icon": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_chdkz_co.paa\"",
+      "priority": 4,
+      "side": 0
+    },
+    {
+      "className": "CFP_O_HEZBOLLAH",
+      "displayName": "Hezbollah",
+      "flag": "\"x\\cfp\\addons\\flags\\Hezbollah\\cfp_flag_hezbollah.paa\"",
+      "icon": "\"x\\cfp\\addons\\flags\\Hezbollah\\cfp_flag_hezbollah.paa\"",
+      "priority": 0,
+      "side": 0
+    },
+    {
+      "className": "CFP_O_IRARMY",
+      "displayName": "Islamic Republic of Iran Army",
+      "flag": "\"x\\cfp\\addons\\flags\\Iran\\Iran.paa\"",
+      "icon": "\"x\\cfp\\addons\\flags\\Iran\\Iran.paa\"",
+      "priority": 0,
+      "side": 0
+    },
+    {
+      "className": "CFP_O_IS",
+      "displayName": "Islamic State",
+      "flag": "",
+      "icon": "\"\\x\\cfp\\addons\\o_is\\data\\cfp_logo_small.paa\"",
+      "priority": 1,
+      "side": 0
+    },
+    {
+      "className": "CFP_O_NKARMY",
+      "displayName": "Korean People's Army",
+      "flag": "\"\\x\\cfp\\addons\\flags\\NorthKorea\\NorthKorea.paa\"",
+      "icon": "\"\\x\\cfp\\addons\\flags\\NorthKorea\\NorthKorea.paa\"",
+      "priority": 0,
+      "side": 0
+    },
+    {
+      "className": "CFP_O_RUARMY_DES",
+      "displayName": "Russian Ground Forces (Arid / Desert)",
+      "flag": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_rus_co.paa\"",
+      "icon": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_rus_co.paa\"",
+      "priority": 3,
+      "side": 0
+    },
+    {
+      "className": "CFP_O_RUMVD",
+      "displayName": "Russian National Guard",
+      "flag": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_rus_co.paa\"",
+      "icon": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_rus_co.paa\"",
+      "priority": 3,
+      "side": 0
+    },
+    {
+      "className": "CFP_O_SSREBELS",
+      "displayName": "Sudan People's Liberation Movement In Opposition",
+      "flag": "\"x\\cfp\\addons\\o_ssrebels\\Data\\UI\\SSudan.paa\"",
+      "icon": "\"x\\cfp\\addons\\o_ssrebels\\Data\\UI\\SSudan.paa\"",
+      "priority": 0,
+      "side": 0
+    },
+    {
+      "className": "CFP_O_SYARMY",
+      "displayName": "Syrian Arab Army",
+      "flag": "",
+      "icon": "\"\\x\\cfp\\addons\\o_syarmy\\data\\cfp_logo_small.paa\"",
+      "priority": 1,
+      "side": 0
+    },
+    {
+      "className": "CFP_B_USMC_DES",
+      "displayName": "US Marine Corps (Arid / Desert)",
+      "flag": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_usmc_co.paa\"",
+      "icon": "\"CUP\\BaseConfigs\\CUP_BaseConfigs\\Data\\Flags\\flag_usmc_co.paa\"",
+      "priority": 1,
+      "side": 1
+    },
+    {
+      "className": "CFP_B_USSEALS_DES",
+      "displayName": "US Navy Seals (Arid / Desert)",
+      "flag": "\"\\A3\\ui_f\\data\\map\\markers\\flags\\USA_ca.paa\"",
+      "icon": "\"\\A3\\ui_f\\data\\map\\markers\\flags\\USA_ca.paa\"",
+      "priority": 0,
+      "side": 1
+    },
+    {
+      "className": "CFP_B_USSEALS_WDL",
+      "displayName": "US Navy Seals (Jungle / Woodland)",
+      "flag": "\"\\A3\\ui_f\\data\\map\\markers\\flags\\USA_ca.paa\"",
+      "icon": "\"\\A3\\ui_f\\data\\map\\markers\\flags\\USA_ca.paa\"",
+      "priority": 0,
+      "side": 1
+    },
+    {
+      "className": "CFP_O_ABUSAYYAF",
+      "displayName": "Abu Sayyaf Group",
+      "flag": "",
+      "icon": "",
+      "priority": 0,
+      "side": 0
+    },
+    {
+      "className": "CFP_O_CFRebels",
+      "displayName": "Central African Rebels",
+      "flag": "\"x\\cfp\\addons\\flags\\CentralAfricanRepublic\\CentralAfricanRepublic.paa\"",
+      "icon": "\"x\\cfp\\addons\\flags\\CentralAfricanRepublic\\CentralAfricanRepublic.paa\"",
+      "priority": 0,
+      "side": 0
+    }
+  ]
+}

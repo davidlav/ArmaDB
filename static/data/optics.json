@@ -1,0 +1,6165 @@
+{
+  "optics": [
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_Arco",
+      "descriptionShort": "Advanced Rifle Combat Optics<br />Magnification: 2x",
+      "displayName": "ELCAN SpecterOS (Tan)",
+      "dlc": "",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "optic_Arco",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "2",
+          "magMax": "2",
+          "magMin": "2",
+          "discreteDistance": [],
+          "thermalMode": [],
+          "visionMode": []
+        }
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_Hamr",
+      "descriptionShort": "Rifle Combat Optics<br />Magnification: 2x",
+      "displayName": "Leupold Mark 4 HAMR",
+      "dlc": "",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "optic_Hamr",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "2",
+          "magMax": "2",
+          "magMin": "2",
+          "discreteDistance": [],
+          "thermalMode": [],
+          "visionMode": []
+        }
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_Aco",
+      "descriptionShort": "Advanced Collimator Optics<br />Color: Red",
+      "displayName": "C-More Railway (Red)",
+      "dlc": "",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "optic_Aco",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_ACO_grn",
+      "descriptionShort": "Advanced Collimator Optics<br />Color: Green",
+      "displayName": "C-More Railway (Green)",
+      "dlc": "",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "optic_ACO_grn",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_Aco_smg",
+      "descriptionShort": "Advanced Collimator Optics<br />Color: Red",
+      "displayName": "C-More Railway SMG (Red)",
+      "dlc": "",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "optic_Aco_smg",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_ACO_grn_smg",
+      "descriptionShort": "Advanced Collimator Optics<br />Color: Green",
+      "displayName": "C-More Railway SMG (Green)",
+      "dlc": "",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "optic_ACO_grn_smg",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_Holosight",
+      "descriptionShort": "",
+      "displayName": "EOTech XPS3 (Tan)",
+      "dlc": "",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "optic_Holosight",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_Holosight_smg",
+      "descriptionShort": "",
+      "displayName": "EOTech XPS3 SMG (Tan)",
+      "dlc": "",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "optic_Holosight_smg",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_SOS",
+      "descriptionShort": "Marksman Optical Sights<br />Magnification: 2,5x–5x",
+      "displayName": "MOS",
+      "dlc": "",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "optic_SOS",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "2",
+          "magMax": "5",
+          "magMin": "2",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_MRCO",
+      "descriptionShort": "MRCO<br />Magnification: 2x",
+      "displayName": "IOR-Valdada Pitbull 2",
+      "dlc": "",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "optic_MRCO",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "2",
+          "magMax": "2",
+          "magMin": "2",
+          "discreteDistance": [],
+          "thermalMode": [],
+          "visionMode": []
+        }
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_NVS",
+      "descriptionShort": "Night Vision Scope<br />Magnification: 5x",
+      "displayName": "NVS",
+      "dlc": "",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "true",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "optic_NVS",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "5",
+          "magMax": "5",
+          "magMin": "5",
+          "discreteDistance": [
+            300
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "NVG"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_Nightstalker",
+      "descriptionShort": "Nightstalker Sight<br />Magnification: 4x–10x",
+      "displayName": "Nightstalker",
+      "dlc": "",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "true",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "true",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "optic_Nightstalker",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "4",
+          "magMax": "10",
+          "magMin": "4",
+          "discreteDistance": [
+            200
+          ],
+          "thermalMode": [
+            5,
+            6
+          ],
+          "visionMode": [
+            "Normal",
+            "NVG",
+            "Ti"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_tws",
+      "descriptionShort": "Thermal Weapon Sight<br />Magnification: 4x–10x",
+      "displayName": "TWS",
+      "dlc": "",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "true",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "optic_tws",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "4",
+          "magMax": "10",
+          "magMin": "4",
+          "discreteDistance": [
+            300
+          ],
+          "thermalMode": [
+            0,
+            1
+          ],
+          "visionMode": [
+            "Ti",
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_tws_mg",
+      "descriptionShort": "Thermal Weapon Sight for Machineguns<br />Magnification: 4x–10x",
+      "displayName": "TWS MG",
+      "dlc": "",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "true",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "optic_tws_mg",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "4",
+          "magMax": "10",
+          "magMin": "4",
+          "discreteDistance": [
+            100,
+            200,
+            300,
+            400,
+            500,
+            600,
+            700,
+            800,
+            900,
+            1000,
+            1100,
+            1200,
+            1300,
+            1400,
+            1500,
+            1600
+          ],
+          "thermalMode": [
+            0,
+            1
+          ],
+          "visionMode": [
+            "Ti",
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_DMS",
+      "descriptionShort": "DMS<br />Magnification: 2x–4x",
+      "displayName": "Burris XTR II",
+      "dlc": "",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "optic_DMS",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "2",
+          "magMax": "4",
+          "magMin": "2",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_Yorris",
+      "descriptionShort": "Y-J2<br />Magnification: 1x",
+      "displayName": "Burris FastFire 2",
+      "dlc": "",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "optic_Yorris",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_MRD",
+      "descriptionShort": "MRD<br />Magnification: 1x",
+      "displayName": "MRD",
+      "dlc": "",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "optic_MRD",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_LRPS",
+      "descriptionShort": "Long-Range Precision Scope<br />Magnification: 6x–25x",
+      "displayName": "Nightforce NXS",
+      "dlc": "",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "optic_LRPS",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "6",
+          "magMax": "23",
+          "magMin": "6",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_MAAWS_Scope",
+      "descriptionShort": "Magnifying scope for the M3 MAAWS",
+      "displayName": "MAAWS optical sight",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_MAAWS_Scope",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_SMAW_Scope",
+      "descriptionShort": "Scope specifically used on the SMAW",
+      "displayName": "SMAW Optical Scope",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_SMAW_Scope",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "4",
+          "magMax": "4",
+          "magMin": "4",
+          "discreteDistance": [
+            50,
+            100,
+            150,
+            200,
+            250,
+            300,
+            350,
+            400,
+            450,
+            500
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_AMS",
+      "descriptionShort": "Advanced Marksman Scope<br />Magnification: 3x–10x",
+      "displayName": "US Optics MR-10 (Black)",
+      "dlc": "Mark",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "optic_AMS",
+        "optic_AMS_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "9",
+          "magMin": "3",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_AMS_khk",
+      "descriptionShort": "Advanced Marksman Scope<br />Magnification: 3x–10x",
+      "displayName": "US Optics MR-10 (Khaki)",
+      "dlc": "Mark",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "optic_AMS_khk",
+        "optic_AMS",
+        "optic_AMS_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "9",
+          "magMin": "3",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_AMS_snd",
+      "descriptionShort": "Advanced Marksman Scope<br />Magnification: 3x–10x",
+      "displayName": "US Optics MR-10 (Sand)",
+      "dlc": "Mark",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "optic_AMS_snd",
+        "optic_AMS",
+        "optic_AMS_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "9",
+          "magMin": "3",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_KHS_blk",
+      "descriptionShort": "Kahlia<br />Magnification: 5x–11x",
+      "displayName": "KAHLES Helia (Black)",
+      "dlc": "Mark",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "optic_KHS_blk",
+        "optic_KHS_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "4",
+          "magMax": "10",
+          "magMin": "4",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_KHS_hex",
+      "descriptionShort": "Kahlia<br />Magnification: 5x–11x",
+      "displayName": "KAHLES Helia (Hex)",
+      "dlc": "Mark",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "optic_KHS_hex",
+        "optic_KHS_blk",
+        "optic_KHS_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "4",
+          "magMax": "10",
+          "magMin": "4",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_KHS_old",
+      "descriptionShort": "Kahlia<br />Magnification: 5x–11x",
+      "displayName": "KAHLES Helia (Old)",
+      "dlc": "Mark",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "optic_KHS_old",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "4",
+          "magMax": "10",
+          "magMin": "4",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_KHS_tan",
+      "descriptionShort": "Kahlia<br />Magnification: 5x–11x",
+      "displayName": "KAHLES Helia (Tan)",
+      "dlc": "Mark",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "optic_KHS_tan",
+        "optic_KHS_blk",
+        "optic_KHS_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "4",
+          "magMax": "10",
+          "magMin": "4",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "FFAA Mod Team",
+      "className": "ffaa_optic_Elcan",
+      "descriptionShort": "Advanced Rifle Combat Optics<br />Magnification: 2x",
+      "displayName": "Elcan x4",
+      "dlc": "FFAAMOD",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "ffaa_optic_Elcan",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "2",
+          "magMax": "2",
+          "magMin": "2",
+          "discreteDistance": [],
+          "thermalMode": [],
+          "visionMode": []
+        }
+      ]
+    },
+    {
+      "author": "FFAA Mod Team",
+      "className": "ffaa_optic_Elcan_ARD",
+      "descriptionShort": "Advanced Rifle Combat Optics<br />Magnification: 2x",
+      "displayName": "Elcan x4 (ARD)",
+      "dlc": "FFAAMOD",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "ffaa_optic_Elcan_ARD",
+        "ffaa_optic_Elcan",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "2",
+          "magMax": "2",
+          "magMin": "2",
+          "discreteDistance": [],
+          "thermalMode": [],
+          "visionMode": []
+        }
+      ]
+    },
+    {
+      "author": "FFAA Mod Team",
+      "className": "ffaa_optic_holografico",
+      "descriptionShort": "",
+      "displayName": "EOTech 552",
+      "dlc": "FFAAMOD",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "ffaa_optic_holografico",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "FFAA Mod Team",
+      "className": "ffaa_optic_acog",
+      "descriptionShort": "",
+      "displayName": "ACOG sight",
+      "dlc": "FFAAMOD",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "ffaa_optic_acog",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "3",
+          "magMin": "3",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "FFAA Mod Team",
+      "className": "ffaa_optic_susat",
+      "descriptionShort": "",
+      "displayName": "SUSAT sight",
+      "dlc": "FFAAMOD",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "ffaa_optic_susat",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "3",
+          "magMin": "3",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "FFAA Mod Team",
+      "className": "ffaa_optic_g36_holo",
+      "descriptionShort": "",
+      "displayName": "EOTech 552 (for G36)",
+      "dlc": "FFAAMOD",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "ffaa_optic_g36_holo",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "2",
+          "magMax": "2",
+          "magMin": "2",
+          "discreteDistance": [
+            200,
+            400,
+            600,
+            800
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "FFAA Mod Team",
+      "className": "ffaa_optic_mg4_g36",
+      "descriptionShort": "",
+      "displayName": "Optic-mounted for MG4",
+      "dlc": "FFAAMOD",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "ffaa_optic_mg4_g36",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "2",
+          "magMax": "2",
+          "magMin": "2",
+          "discreteDistance": [
+            200,
+            400,
+            600,
+            800
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "FFAA Mod Team",
+      "className": "ffaa_optic_enasa",
+      "descriptionShort": "",
+      "displayName": "ENOSA sight",
+      "dlc": "FFAAMOD",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "ffaa_optic_enasa",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "10",
+          "magMax": "10",
+          "magMin": "10",
+          "discreteDistance": [
+            200,
+            400,
+            600,
+            800
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "FFAA Mod Team",
+      "className": "ffaa_optic_lv",
+      "descriptionShort": "",
+      "displayName": "LV sight",
+      "dlc": "FFAAMOD",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "ffaa_optic_lv",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "10",
+          "magMax": "10",
+          "magMin": "10",
+          "discreteDistance": [
+            200,
+            400,
+            600,
+            800
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "FFAA Mod Team",
+      "className": "ffaa_optic_Mk4_v1",
+      "descriptionShort": "Long-Range Precision Scope<br />Magnification: 2.5x–8x",
+      "displayName": "Leupold Mk4 MR/T 2.5-8x36mm M1",
+      "dlc": "FFAAMOD",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "ffaa_optic_Mk4_v1",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "2",
+          "magMax": "6",
+          "magMin": "2",
+          "discreteDistance": [
+            100,
+            200,
+            300,
+            400,
+            500,
+            600,
+            700
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "FFAA Mod Team",
+      "className": "ffaa_optic_Mk4_v2",
+      "descriptionShort": "Long-Range Precision Scope<br />Magnification: 4.5x–14x",
+      "displayName": "Leupold Mk4 LR/T 4.5-14x50mm M1",
+      "dlc": "FFAAMOD",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "ffaa_optic_Mk4_v2",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "10",
+          "magMin": "3",
+          "discreteDistance": [
+            100,
+            200,
+            300,
+            400,
+            500,
+            600,
+            700,
+            800,
+            900,
+            1000
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "FFAA Mod Team",
+      "className": "ffaa_optic_5x25x56",
+      "descriptionShort": "Long-Range Precision Scope<br />Magnification: 5x–25x",
+      "displayName": "Schmidt and Bender 5-25x56 PM II LP",
+      "dlc": "FFAAMOD",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "ffaa_optic_5x25x56",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "6",
+          "magMax": "25",
+          "magMin": "6",
+          "discreteDistance": [
+            300,
+            400,
+            500,
+            600,
+            700,
+            800,
+            900,
+            1000,
+            1100,
+            1200,
+            1300,
+            1400,
+            1500
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "FFAA Mod Team",
+      "className": "ffaa_optic_3x12x50",
+      "descriptionShort": "Long-Range Precision Scope<br />Magnification: 3x – 12x",
+      "displayName": "Schmidt and Bender 3-12x50 PM II",
+      "dlc": "FFAAMOD",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "ffaa_optic_3x12x50",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "10",
+          "magMin": "3",
+          "discreteDistance": [
+            300,
+            400,
+            500,
+            600,
+            700,
+            800,
+            900,
+            1000,
+            1100,
+            1200,
+            1300,
+            1400,
+            1500
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "FFAA Mod Team",
+      "className": "ffaa_optic_vosel",
+      "descriptionShort": "The VOSEL fire system gives the Alcotan-100 a high hit probability",
+      "displayName": "VOSEL Fire System",
+      "dlc": "FFAAMOD",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "ffaa_optic_vosel",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_compm4",
+      "descriptionShort": "Collimator Sight<br />Magnification: 1x",
+      "displayName": "M68 CCO",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_compm4",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_T1_high",
+      "descriptionShort": "Collimator Sight<br />Magnification: 1x",
+      "displayName": "AimPoint T1 LT660",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_T1_high",
+        "rhsusf_acc_compm4",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_T1_low",
+      "descriptionShort": "Collimator Sight<br />Magnification: 1x",
+      "displayName": "AimPoint T1 LT661",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_T1_low",
+        "rhsusf_acc_T1_high",
+        "rhsusf_acc_compm4",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_T1_low_fwd",
+      "descriptionShort": "Collimator Sight<br />Magnification: 1x",
+      "displayName": "AimPoint T1 LT661 (Forward)",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_T1_low_fwd",
+        "rhsusf_acc_T1_low",
+        "rhsusf_acc_T1_high",
+        "rhsusf_acc_compm4",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_RX01",
+      "descriptionShort": "Collimator Sight<br />Magnification: 1x",
+      "displayName": "RX01 Reflex",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_RX01",
+        "rhsusf_acc_compm4",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_RX01_tan",
+      "descriptionShort": "Collimator Sight<br />Magnification: 1x",
+      "displayName": "RX01 Tan Reflex",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_RX01_tan",
+        "rhsusf_acc_RX01",
+        "rhsusf_acc_compm4",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_RX01_NoFilter",
+      "descriptionShort": "Collimator Sight<br />Magnification: 1x",
+      "displayName": "RX01 (w/o Filter)",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_RX01_NoFilter",
+        "rhsusf_acc_RX01",
+        "rhsusf_acc_compm4",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_RX01_NoFilter_tan",
+      "descriptionShort": "Collimator Sight<br />Magnification: 1x",
+      "displayName": "RX01 Tan (w/o Filter)",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_RX01_NoFilter_tan",
+        "rhsusf_acc_RX01_NoFilter",
+        "rhsusf_acc_RX01",
+        "rhsusf_acc_compm4",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_RM05",
+      "descriptionShort": "Collimator Sight<br />Magnification: 1x",
+      "displayName": "RM05 RMR LT726",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_RM05",
+        "rhsusf_acc_T1_high",
+        "rhsusf_acc_compm4",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_RM05_fwd",
+      "descriptionShort": "Collimator Sight<br />Magnification: 1x",
+      "displayName": "RM05 RMR LT726 (Forward)",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_RM05_fwd",
+        "rhsusf_acc_RM05",
+        "rhsusf_acc_T1_high",
+        "rhsusf_acc_compm4",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_mrds",
+      "descriptionShort": "Collimator Sight<br />Magnification: 1x",
+      "displayName": "MRDS",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_mrds",
+        "rhsusf_acc_T1_high",
+        "rhsusf_acc_compm4",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_mrds_fwd",
+      "descriptionShort": "Collimator Sight<br />Magnification: 1x",
+      "displayName": "MRDS (Forward)",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_mrds_fwd",
+        "rhsusf_acc_mrds",
+        "rhsusf_acc_T1_high",
+        "rhsusf_acc_compm4",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_mrds_c",
+      "descriptionShort": "Collimator Sight<br />Magnification: 1x",
+      "displayName": "MRDS Coyote",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_mrds_c",
+        "rhsusf_acc_mrds",
+        "rhsusf_acc_T1_high",
+        "rhsusf_acc_compm4",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_mrds_fwd_c",
+      "descriptionShort": "Collimator Sight<br />Magnification: 1x",
+      "displayName": "MRDS Coyote (Forward)",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_mrds_fwd_c",
+        "rhsusf_acc_mrds_c",
+        "rhsusf_acc_mrds",
+        "rhsusf_acc_T1_high",
+        "rhsusf_acc_compm4",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_eotech_552",
+      "descriptionShort": "Collimator Sight<br />Magnification: 1x",
+      "displayName": "M552 CCO",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_eotech_552",
+        "rhsusf_acc_compm4",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_eotech_552_d",
+      "descriptionShort": "Collimator Sight<br />Magnification: 1x",
+      "displayName": "M552 CCO (Desert)",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_eotech_552_d",
+        "rhsusf_acc_eotech_552",
+        "rhsusf_acc_compm4",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_eotech_552_wd",
+      "descriptionShort": "Collimator Sight<br />Magnification: 1x",
+      "displayName": "M552 CCO (Woodland)",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_eotech_552_wd",
+        "rhsusf_acc_eotech_552",
+        "rhsusf_acc_compm4",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_anpvs27",
+      "descriptionShort": "",
+      "displayName": "AN/PVS-27",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_anpvs27",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_anpas13gv1",
+      "descriptionShort": "Light Weapon Thermal Sight (LWTS)",
+      "displayName": "AN/PAS-13G(V)1",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "true",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "rhsusf_acc_anpas13gv1",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "1",
+          "magMax": "2",
+          "magMin": "1",
+          "discreteDistance": [
+            300
+          ],
+          "thermalMode": [
+            0,
+            1
+          ],
+          "visionMode": [
+            "Ti"
+          ]
+        },
+        {
+          "magInit": "1",
+          "magMax": "2",
+          "magMin": "1",
+          "discreteDistance": [
+            300
+          ],
+          "thermalMode": [
+            0,
+            1
+          ],
+          "visionMode": [
+            "Ti"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_LEUPOLDMK4",
+      "descriptionShort": "Mk. 4 M3",
+      "displayName": "Mk. 4 ER/T 3.5-10x M3",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_LEUPOLDMK4",
+        "rhsusf_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "7",
+          "magMin": "3",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_LEUPOLDMK4_d",
+      "descriptionShort": "Mk. 4 M3",
+      "displayName": "Mk. 4 M3 (Desert)",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_LEUPOLDMK4_d",
+        "rhsusf_acc_LEUPOLDMK4",
+        "rhsusf_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "7",
+          "magMin": "3",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_LEUPOLDMK4_wd",
+      "descriptionShort": "Mk. 4 M3",
+      "displayName": "Mk. 4 M3 (Woodland)",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_LEUPOLDMK4_wd",
+        "rhsusf_acc_LEUPOLDMK4",
+        "rhsusf_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "7",
+          "magMin": "3",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_ELCAN",
+      "descriptionShort": "M145 MGO",
+      "displayName": "M145 MGO",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "rhsusf_acc_ELCAN",
+        "rhsusf_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "3",
+          "magMin": "3",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": []
+        }
+      ]
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_ELCAN_ard",
+      "descriptionShort": "M145 MGO",
+      "displayName": "M145 MGO (ARD)",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "rhsusf_acc_ELCAN_ard",
+        "rhsusf_acc_ELCAN",
+        "rhsusf_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "3",
+          "magMin": "3",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": []
+        }
+      ]
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_su230",
+      "descriptionShort": "5.56 Dual role Combat Sight (4x/1x)",
+      "displayName": "SU-230/PVS",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "3",
+      "PARENTS": [
+        "rhsusf_acc_su230",
+        "rhsusf_acc_su230_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "4",
+          "magMax": "4",
+          "magMin": "4",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": []
+        }
+      ]
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_su230_mrds",
+      "descriptionShort": "5.56 Dual role Combat Sight (4x/1x)",
+      "displayName": "SU-230/PVS MRDS",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "4",
+      "PARENTS": [
+        "rhsusf_acc_su230_mrds",
+        "rhsusf_acc_su230_mrds_base",
+        "rhsusf_acc_su230_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "4",
+          "magMax": "4",
+          "magMin": "4",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": []
+        }
+      ]
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_su230a",
+      "descriptionShort": "7.62 Dual role Combat Sight (4x/1x)",
+      "displayName": "SU-230A/PVS",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "3",
+      "PARENTS": [
+        "rhsusf_acc_su230a",
+        "rhsusf_acc_su230",
+        "rhsusf_acc_su230_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "4",
+          "magMax": "4",
+          "magMin": "4",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": []
+        }
+      ]
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_su230a_mrds",
+      "descriptionShort": "7.62 Dual role Combat Sight (4x/1x)",
+      "displayName": "SU-230A/PVS MRDS",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "4",
+      "PARENTS": [
+        "rhsusf_acc_su230a_mrds",
+        "rhsusf_acc_su230_mrds",
+        "rhsusf_acc_su230_mrds_base",
+        "rhsusf_acc_su230_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "4",
+          "magMax": "4",
+          "magMin": "4",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": []
+        }
+      ]
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_su230_c",
+      "descriptionShort": "5.56 Dual role Combat Sight (4x/1x)",
+      "displayName": "SU-230/PVS Coyote",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "3",
+      "PARENTS": [
+        "rhsusf_acc_su230_c",
+        "rhsusf_acc_su230_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "4",
+          "magMax": "4",
+          "magMin": "4",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": []
+        }
+      ]
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_su230_mrds_c",
+      "descriptionShort": "5.56 Dual role Combat Sight (4x/1x)",
+      "displayName": "SU-230/PVS MRDS Coyote",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "4",
+      "PARENTS": [
+        "rhsusf_acc_su230_mrds_c",
+        "rhsusf_acc_su230_mrds_base",
+        "rhsusf_acc_su230_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "4",
+          "magMax": "4",
+          "magMin": "4",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": []
+        }
+      ]
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_su230a_c",
+      "descriptionShort": "7.62 Dual role Combat Sight (4x/1x)",
+      "displayName": "SU-230A/PVS Coyote",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "3",
+      "PARENTS": [
+        "rhsusf_acc_su230a_c",
+        "rhsusf_acc_su230a",
+        "rhsusf_acc_su230",
+        "rhsusf_acc_su230_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "4",
+          "magMax": "4",
+          "magMin": "4",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": []
+        }
+      ]
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_su230a_mrds_c",
+      "descriptionShort": "7.62 Dual role Combat Sight (4x/1x)",
+      "displayName": "SU-230A/PVS MRDS Coyote",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "4",
+      "PARENTS": [
+        "rhsusf_acc_su230a_mrds_c",
+        "rhsusf_acc_su230a_mrds",
+        "rhsusf_acc_su230_mrds",
+        "rhsusf_acc_su230_mrds_base",
+        "rhsusf_acc_su230_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "4",
+          "magMax": "4",
+          "magMin": "4",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": []
+        }
+      ]
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_ACOG",
+      "descriptionShort": "M150 RCO",
+      "displayName": "M150 RCO",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "rhsusf_acc_ACOG",
+        "rhsusf_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_ACOG_wd",
+      "descriptionShort": "M150 RCO",
+      "displayName": "TA31RCO (Woodland)",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "rhsusf_acc_ACOG_wd",
+        "rhsusf_acc_ACOG",
+        "rhsusf_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_ACOG_d",
+      "descriptionShort": "M150 RCO",
+      "displayName": "TA31RCO (Desert)",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "rhsusf_acc_ACOG_d",
+        "rhsusf_acc_ACOG",
+        "rhsusf_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_ACOG2",
+      "descriptionShort": "M150 RCO (ARD)",
+      "displayName": "M150 RCO (ARD)",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "rhsusf_acc_ACOG2",
+        "rhsusf_acc_ACOG",
+        "rhsusf_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_ACOG3",
+      "descriptionShort": "M150 RCO (ARD/Lens Cover)",
+      "displayName": "M150 RCO (ARD/Lens Cover)",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "rhsusf_acc_ACOG3",
+        "rhsusf_acc_ACOG",
+        "rhsusf_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_ACOG_USMC",
+      "descriptionShort": "AN/PVQ-31A RCO",
+      "displayName": "AN/PVQ-31A RCO",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "rhsusf_acc_ACOG_USMC",
+        "rhsusf_acc_ACOG",
+        "rhsusf_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_ACOG2_USMC",
+      "descriptionShort": "AN/PVQ-31A (ARD)",
+      "displayName": "AN/PVQ-31A (ARD)",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "rhsusf_acc_ACOG2_USMC",
+        "rhsusf_acc_ACOG2",
+        "rhsusf_acc_ACOG",
+        "rhsusf_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_ACOG3_USMC",
+      "descriptionShort": "AN/PVQ-31A (ARD/Lens Cover)",
+      "displayName": "AN/PVQ-31A (ARD/Lens Cover)",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "rhsusf_acc_ACOG3_USMC",
+        "rhsusf_acc_ACOG3",
+        "rhsusf_acc_ACOG",
+        "rhsusf_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_ACOG_RMR",
+      "descriptionShort": "M150 RCO",
+      "displayName": "TA31RCO-RMR",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "rhsusf_acc_ACOG_RMR",
+        "rhsusf_acc_ACOG",
+        "rhsusf_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_ACOG_anpvs27",
+      "descriptionShort": "M150 RCO",
+      "displayName": "M150 RCO + AN/PVS-27",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "true",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_ACOG_anpvs27",
+        "rhsusf_acc_ACOG",
+        "rhsusf_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "4",
+          "magMax": "4",
+          "magMin": "4",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "NVG"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_LEUPOLDMK4_2",
+      "descriptionShort": "Mk. 4 M3",
+      "displayName": "Mk. 4 ER/T 6.5-20x M5",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_LEUPOLDMK4_2",
+        "rhsusf_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "5",
+          "magMax": "14",
+          "magMin": "5",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_LEUPOLDMK4_2_d",
+      "descriptionShort": "Mk. 4 M3",
+      "displayName": "Mk. 4 M5 (Desert)",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_LEUPOLDMK4_2_d",
+        "rhsusf_acc_LEUPOLDMK4_2",
+        "rhsusf_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "5",
+          "magMax": "14",
+          "magMin": "5",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_premier",
+      "descriptionShort": "Mk. 4 M3",
+      "displayName": "M8541A SSDS",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_premier",
+        "rhsusf_acc_LEUPOLDMK4_2",
+        "rhsusf_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "15",
+          "magMin": "3",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_premier_low",
+      "descriptionShort": "Mk. 4 M3",
+      "displayName": "M8541A (low mount)",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_premier_low",
+        "rhsusf_acc_premier",
+        "rhsusf_acc_LEUPOLDMK4_2",
+        "rhsusf_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "15",
+          "magMin": "3",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_premier_anpvs27",
+      "descriptionShort": "Mk. 4 M3",
+      "displayName": "M8541A + AN/PVS-27",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "true",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_premier_anpvs27",
+        "rhsusf_acc_premier",
+        "rhsusf_acc_LEUPOLDMK4_2",
+        "rhsusf_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "15",
+          "magMin": "3",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "NVG"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_M8541",
+      "descriptionShort": "Magnification: 3-12x",
+      "displayName": "M8541",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_M8541",
+        "rhsusf_acc_premier",
+        "rhsusf_acc_LEUPOLDMK4_2",
+        "rhsusf_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "12",
+          "magMin": "9",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_M8541_low",
+      "descriptionShort": "Magnification: 3-12x",
+      "displayName": "M8541 (low mount)",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_M8541_low",
+        "rhsusf_acc_M8541",
+        "rhsusf_acc_premier",
+        "rhsusf_acc_LEUPOLDMK4_2",
+        "rhsusf_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "12",
+          "magMin": "9",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_M8541_low_d",
+      "descriptionShort": "Magnification: 3-12x",
+      "displayName": "M8541 (low mount/Desert)",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_M8541_low_d",
+        "rhsusf_acc_M8541_low",
+        "rhsusf_acc_M8541",
+        "rhsusf_acc_premier",
+        "rhsusf_acc_LEUPOLDMK4_2",
+        "rhsusf_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "12",
+          "magMin": "9",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_M8541_low_wd",
+      "descriptionShort": "Magnification: 3-12x",
+      "displayName": "M8541 (low mount/Woodland)",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_M8541_low_wd",
+        "rhsusf_acc_M8541_low",
+        "rhsusf_acc_M8541",
+        "rhsusf_acc_premier",
+        "rhsusf_acc_LEUPOLDMK4_2",
+        "rhsusf_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "12",
+          "magMin": "9",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "rhsusf_acc_EOTECH",
+      "descriptionShort": "",
+      "displayName": "EXPS3",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_EOTECH",
+        "optic_Holosight",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_M2A1",
+      "descriptionShort": "Collimator Sight<br />Magnification: 1x",
+      "displayName": "M2A1 GL Sight",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_M2A1",
+        "rhsusf_acc_compm4",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_eotech_xps3",
+      "descriptionShort": "",
+      "displayName": "XPS3",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_eotech_xps3",
+        "optic_Holosight",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_ACOG_MDO",
+      "descriptionShort": "Machine Gun Day Optic<br />ACOG TA648MDO<br />Magnification: 6x<br />RMR<br />Magnification: 1x",
+      "displayName": "SU-260/P (MDO)",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "rhsusf_acc_ACOG_MDO",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "6",
+          "magMax": "6",
+          "magMin": "6",
+          "discreteDistance": [],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_g33_xps3",
+      "descriptionShort": "",
+      "displayName": "G33 + XPS3",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_g33_xps3",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_g33_xps3_tan",
+      "descriptionShort": "",
+      "displayName": "G33 + XPS3 (Tan)",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_g33_xps3_tan",
+        "rhsusf_acc_g33_xps3",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsusf_acc_g33_T1",
+      "descriptionShort": "",
+      "displayName": "G33 + T1",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsusf_acc_g33_T1",
+        "rhsusf_acc_g33_xps3",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhs_weap_optic_smaw",
+      "descriptionShort": "Optical Sight for the SMAW",
+      "displayName": "SMAW sight",
+      "dlc": "RHS_USAF",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhs_weap_optic_smaw",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhs_optic_maaws",
+      "descriptionShort": "Optical Sight for the M3 MAAWS",
+      "displayName": "M3 MAAWS sight",
+      "dlc": "",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhs_optic_maaws",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_Arco_blk_F",
+      "descriptionShort": "Advanced Rifle Combat Optics<br />Magnification: 2x",
+      "displayName": "ELCAN SpecterOS (Black)",
+      "dlc": "",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "optic_Arco_blk_F",
+        "optic_Arco",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "2",
+          "magMax": "2",
+          "magMin": "2",
+          "discreteDistance": [],
+          "thermalMode": [],
+          "visionMode": []
+        }
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_Arco_ghex_F",
+      "descriptionShort": "Advanced Rifle Combat Optics<br />Magnification: 2x",
+      "displayName": "ELCAN SpecterOS (Green Hex)",
+      "dlc": "",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "optic_Arco_ghex_F",
+        "optic_Arco",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "2",
+          "magMax": "2",
+          "magMin": "2",
+          "discreteDistance": [],
+          "thermalMode": [],
+          "visionMode": []
+        }
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_DMS_ghex_F",
+      "descriptionShort": "DMS<br />Magnification: 2x–4x",
+      "displayName": "Burris XTR II (Green Hex)",
+      "dlc": "",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "optic_DMS_ghex_F",
+        "optic_DMS",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "2",
+          "magMax": "4",
+          "magMin": "2",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_Hamr_khk_F",
+      "descriptionShort": "Rifle Combat Optics<br />Magnification: 2x",
+      "displayName": "Leupold Mark 4 HAMR (Khaki)",
+      "dlc": "",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "optic_Hamr_khk_F",
+        "optic_Hamr",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "2",
+          "magMax": "2",
+          "magMin": "2",
+          "discreteDistance": [],
+          "thermalMode": [],
+          "visionMode": []
+        }
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_ERCO_blk_F",
+      "descriptionShort": "Enhanced Rifle Combat Optics<br />Magnification: 2x",
+      "displayName": "SIG BRAVO4 / ROMEO3 (Black)",
+      "dlc": "",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "optic_ERCO_blk_F",
+        "optic_Arco",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "2",
+          "magMax": "2",
+          "magMin": "2",
+          "discreteDistance": [],
+          "thermalMode": [],
+          "visionMode": []
+        }
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_ERCO_khk_F",
+      "descriptionShort": "Enhanced Rifle Combat Optics<br />Magnification: 2x",
+      "displayName": "SIG BRAVO4 / ROMEO3 (Khaki)",
+      "dlc": "",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "optic_ERCO_khk_F",
+        "optic_ERCO_blk_F",
+        "optic_Arco",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "2",
+          "magMax": "2",
+          "magMin": "2",
+          "discreteDistance": [],
+          "thermalMode": [],
+          "visionMode": []
+        }
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_ERCO_snd_F",
+      "descriptionShort": "Enhanced Rifle Combat Optics<br />Magnification: 2x",
+      "displayName": "SIG BRAVO4 / ROMEO3 (Sand)",
+      "dlc": "",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "optic_ERCO_snd_F",
+        "optic_ERCO_blk_F",
+        "optic_Arco",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "2",
+          "magMax": "2",
+          "magMin": "2",
+          "discreteDistance": [],
+          "thermalMode": [],
+          "visionMode": []
+        }
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_SOS_khk_F",
+      "descriptionShort": "Marksman Optical Sights<br />Magnification: 2,5x–5x",
+      "displayName": "MOS (Khaki)",
+      "dlc": "",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "optic_SOS_khk_F",
+        "optic_SOS",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "2",
+          "magMax": "5",
+          "magMin": "2",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_LRPS_tna_F",
+      "descriptionShort": "Long-Range Precision Scope<br />Magnification: 6x–25x",
+      "displayName": "Nightforce NXS (Jungle)",
+      "dlc": "",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "optic_LRPS_tna_F",
+        "optic_LRPS",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "6",
+          "magMax": "23",
+          "magMin": "6",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_LRPS_ghex_F",
+      "descriptionShort": "Long-Range Precision Scope<br />Magnification: 6x–25x",
+      "displayName": "Nightforce NXS (Green Hex)",
+      "dlc": "",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "optic_LRPS_ghex_F",
+        "optic_LRPS",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "6",
+          "magMax": "23",
+          "magMin": "6",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_Holosight_blk_F",
+      "descriptionShort": "",
+      "displayName": "EOTech XPS3 (Black)",
+      "dlc": "",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "optic_Holosight_blk_F",
+        "optic_Holosight",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_Holosight_khk_F",
+      "descriptionShort": "",
+      "displayName": "EOTech XPS3 (Khaki)",
+      "dlc": "",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "optic_Holosight_khk_F",
+        "optic_Holosight",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_Holosight_smg_blk_F",
+      "descriptionShort": "",
+      "displayName": "EOTech XPS3 SMG (Black)",
+      "dlc": "",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "optic_Holosight_smg_blk_F",
+        "optic_Holosight_smg",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Bohemia Interactive",
+      "className": "optic_Holosight_smg_khk_F",
+      "descriptionShort": "",
+      "displayName": "EOTech XPS3 SMG (Khaki)",
+      "dlc": "",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "optic_Holosight_smg_khk_F",
+        "optic_Holosight_smg",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhs_acc_1p29",
+      "descriptionShort": "Optical Sight<br />Magnification: 4x",
+      "displayName": "1P29",
+      "dlc": "RHS_AFRF",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "rhs_acc_1p29",
+        "rhs_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "3",
+          "magMin": "3",
+          "discreteDistance": [
+            400,
+            500,
+            600,
+            700,
+            800,
+            900,
+            1000
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhs_acc_1p78",
+      "descriptionShort": "Optical Sight<br />Magnification: 2.8x",
+      "displayName": "1P78",
+      "dlc": "RHS_AFRF",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "rhs_acc_1p78",
+        "rhs_acc_1p29",
+        "rhs_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "2",
+          "magMax": "2",
+          "magMin": "2",
+          "discreteDistance": [
+            400
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhs_acc_pkas",
+      "descriptionShort": "Collimator Sight<br />Magnification: 1x",
+      "displayName": "PK-AS",
+      "dlc": "RHS_AFRF",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "rhs_acc_pkas",
+        "rhs_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhs_acc_1p63",
+      "descriptionShort": "Collimator Sight<br />Magnification: 1x",
+      "displayName": "1P63",
+      "dlc": "RHS_AFRF",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhs_acc_1p63",
+        "rhs_acc_pkas",
+        "rhs_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhs_acc_ekp1",
+      "descriptionShort": "Collimator Sight<br />Magnification: 1x",
+      "displayName": "EKP-1S-03",
+      "dlc": "RHS_AFRF",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhs_acc_ekp1",
+        "rhs_acc_1p63",
+        "rhs_acc_pkas",
+        "rhs_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhs_acc_ekp8_02",
+      "descriptionShort": "Collimator Sight<br />Magnification: 1x",
+      "displayName": "EKP-8-02",
+      "dlc": "RHS_AFRF",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhs_acc_ekp8_02",
+        "rhs_acc_ekp1",
+        "rhs_acc_1p63",
+        "rhs_acc_pkas",
+        "rhs_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhs_acc_ekp8_18",
+      "descriptionShort": "Collimator Sight<br />Magnification: 1x",
+      "displayName": "EKP-8-18",
+      "dlc": "RHS_AFRF",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhs_acc_ekp8_18",
+        "rhs_acc_ekp8_02",
+        "rhs_acc_ekp1",
+        "rhs_acc_1p63",
+        "rhs_acc_pkas",
+        "rhs_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhs_acc_1p87",
+      "descriptionShort": "Collimator Sight<br />Magnification: 1x",
+      "displayName": "1P87",
+      "dlc": "RHS_AFRF",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhs_acc_1p87",
+        "rhs_acc_1p63",
+        "rhs_acc_pkas",
+        "rhs_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhs_acc_pso1m2",
+      "descriptionShort": "Optical Sniper Sight<br />Magnification: 4x",
+      "displayName": "PSO-1M2",
+      "dlc": "RHS_AFRF",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "rhs_acc_pso1m2",
+        "rhs_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "3",
+          "magMin": "3",
+          "discreteDistance": [
+            100,
+            200,
+            300,
+            350,
+            400,
+            450,
+            500,
+            550,
+            600,
+            650,
+            700,
+            750,
+            800,
+            850,
+            900,
+            950,
+            1000
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhs_acc_pso1m21",
+      "descriptionShort": "Optical Sniper Sight<br />Magnification: 4x",
+      "displayName": "PSO-1M2-1",
+      "dlc": "RHS_AFRF",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "rhs_acc_pso1m21",
+        "rhs_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "3",
+          "magMin": "3",
+          "discreteDistance": [
+            50,
+            75,
+            100,
+            125,
+            150,
+            175,
+            200,
+            225,
+            250,
+            275,
+            300,
+            325,
+            350,
+            375,
+            400
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhs_acc_nita",
+      "descriptionShort": "NIT-A",
+      "displayName": "NIT-A",
+      "dlc": "RHS_AFRF",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "rhs_acc_nita",
+        "rhs_acc_pkas",
+        "rhs_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhs_acc_pgo7v",
+      "descriptionShort": "Optical Sight<br />Magnification: 2.7x",
+      "displayName": "PGO-7V",
+      "dlc": "RHS_AFRF",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "rhs_acc_pgo7v",
+        "rhs_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "2",
+          "magMax": "2",
+          "magMin": "2",
+          "discreteDistance": [
+            500
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhs_acc_pgo7v2",
+      "descriptionShort": "Optical Sight<br />Magnification: 2.7x",
+      "displayName": "PGO-7V2",
+      "dlc": "RHS_AFRF",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "rhs_acc_pgo7v2",
+        "rhs_acc_pgo7v",
+        "rhs_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "2",
+          "magMax": "2",
+          "magMin": "2",
+          "discreteDistance": [
+            500
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhs_acc_pgo7v3",
+      "descriptionShort": "Optical Sight<br />Magnification: 2.7x",
+      "displayName": "PGO-7V3",
+      "dlc": "RHS_AFRF",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "rhs_acc_pgo7v3",
+        "rhs_acc_pgo7v",
+        "rhs_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "2",
+          "magMax": "2",
+          "magMin": "2",
+          "discreteDistance": [
+            500
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhs_acc_1pn93_1",
+      "descriptionShort": "Optical Night Sight<br />Magnification: 4x",
+      "displayName": "1PN93-1",
+      "dlc": "RHS_AFRF",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "true",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "rhs_acc_1pn93_1",
+        "rhs_acc_1pn93_base",
+        "rhs_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "3",
+          "magMin": "3",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "NVG"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhs_acc_1pn93_2",
+      "descriptionShort": "Optical Night Sight<br />Magnification: 2.7x",
+      "displayName": "1PN93-2",
+      "dlc": "RHS_AFRF",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "true",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhs_acc_1pn93_2",
+        "rhs_acc_pgo7v",
+        "rhs_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "2",
+          "magMax": "2",
+          "magMin": "2",
+          "discreteDistance": [
+            500
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "NVG"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhs_acc_dh520x56",
+      "descriptionShort": "Russian sniper scope<br />Magnification: 5-20x",
+      "displayName": "DH 5-20x56",
+      "dlc": "RHS_AFRF",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhs_acc_dh520x56",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "14",
+          "magMax": "14",
+          "magMin": "4",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhs_acc_rakursPM",
+      "descriptionShort": "1P76 Rakurs-PM RIS Collimator",
+      "displayName": "1P76 Rakurs-PM",
+      "dlc": "RHS_AFRF",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhs_acc_rakursPM",
+        "rhs_acc_1p63",
+        "rhs_acc_pkas",
+        "rhs_acc_sniper_base",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsgref_acc_RX01_camo",
+      "descriptionShort": "Collimator Sight<br />Magnification: 1x",
+      "displayName": "RX01 Camo Reflex",
+      "dlc": "RHS_GREF",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsgref_acc_RX01_camo",
+        "rhsusf_acc_compm4",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Red Hammer Studios",
+      "className": "rhsgref_acc_RX01_NoFilter_camo",
+      "descriptionShort": "Collimator Sight<br />Magnification: 1x",
+      "displayName": "RX01 Camo (w/o Filter)",
+      "dlc": "RHS_GREF",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsgref_acc_RX01_NoFilter_camo",
+        "rhsusf_acc_compm4",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "",
+      "className": "rhsgref_mg42_acc_AAsight",
+      "descriptionShort": "",
+      "displayName": "MG42 AA Sight",
+      "dlc": "RHS_GREF",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "rhsgref_mg42_acc_AAsight",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_PSO_1",
+      "descriptionShort": "Medium to Long range Russian optic",
+      "displayName": "PSO-1 Scope",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "CUP_optic_PSO_1",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "4",
+          "magMax": "4",
+          "magMin": "4",
+          "discreteDistance": [
+            100,
+            200,
+            250,
+            300,
+            350,
+            400,
+            450,
+            500,
+            550,
+            600,
+            650,
+            700,
+            750,
+            800,
+            850,
+            900,
+            950,
+            1000
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_PSO_1_open",
+      "descriptionShort": "Medium to Long range Russian optic",
+      "displayName": "PSO-1 Scope(w/o eyepiece)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "CUP_optic_PSO_1_open",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "4",
+          "magMax": "4",
+          "magMin": "4",
+          "discreteDistance": [
+            100,
+            200,
+            250,
+            300,
+            350,
+            400,
+            450,
+            500,
+            550,
+            600,
+            650,
+            700,
+            750,
+            800,
+            850,
+            900,
+            950,
+            1000
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_PSO_1_AK",
+      "descriptionShort": "Medium to Long range Russian optic",
+      "displayName": "PSO-1 Scope (AK)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "CUP_optic_PSO_1_AK",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "4",
+          "magMax": "4",
+          "magMin": "4",
+          "discreteDistance": [
+            100,
+            200,
+            250,
+            300,
+            350,
+            400,
+            450,
+            500,
+            550,
+            600,
+            650,
+            700,
+            750,
+            800,
+            850,
+            900,
+            950,
+            1000
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_PSO_1_AK_open",
+      "descriptionShort": "Medium to Long range Russian optic",
+      "displayName": "PSO-1 Scope(AK)(w/o eyepiece)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "CUP_optic_PSO_1_AK_open",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "4",
+          "magMax": "4",
+          "magMin": "4",
+          "discreteDistance": [
+            100,
+            200,
+            250,
+            300,
+            350,
+            400,
+            450,
+            500,
+            550,
+            600,
+            650,
+            700,
+            750,
+            800,
+            850,
+            900,
+            950,
+            1000
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_PSO_3",
+      "descriptionShort": "Long range Russian optic",
+      "displayName": "PSO-3 Scope",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_PSO_3",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "8",
+          "magMax": "4",
+          "magMin": "8",
+          "discreteDistance": [
+            100,
+            200,
+            250,
+            300,
+            350,
+            400,
+            450,
+            500,
+            550,
+            600,
+            650,
+            700,
+            750,
+            800,
+            850,
+            900,
+            950,
+            1000
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_PSO_3_open",
+      "descriptionShort": "Long range Russian optic",
+      "displayName": "PSO-3 Scope(w/o eyepiece)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_PSO_3_open",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "8",
+          "magMax": "4",
+          "magMin": "8",
+          "discreteDistance": [
+            100,
+            200,
+            250,
+            300,
+            350,
+            400,
+            450,
+            500,
+            550,
+            600,
+            650,
+            700,
+            750,
+            800,
+            850,
+            900,
+            950,
+            1000
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_Kobra",
+      "descriptionShort": "Close Combat optic",
+      "displayName": "Kobra Reflex Sight",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_Kobra",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_GOSHAWK",
+      "descriptionShort": "Thermal Weapon Sight",
+      "displayName": "Goshawk TWS",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "true",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_GOSHAWK",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "4",
+          "magMax": "4",
+          "magMin": "4",
+          "discreteDistance": [
+            100,
+            200,
+            300,
+            400,
+            500,
+            600,
+            700,
+            800
+          ],
+          "thermalMode": [
+            0
+          ],
+          "visionMode": [
+            "Ti"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_GOSHAWK_RIS",
+      "descriptionShort": "Thermal Weapon Sight",
+      "displayName": "Goshawk TWS (RIS)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "true",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_GOSHAWK_RIS",
+        "CUP_optic_GOSHAWK",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "4",
+          "magMax": "4",
+          "magMin": "4",
+          "discreteDistance": [
+            100,
+            200,
+            300,
+            400,
+            500,
+            600,
+            700,
+            800
+          ],
+          "thermalMode": [
+            0
+          ],
+          "visionMode": [
+            "Ti"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_NSPU",
+      "descriptionShort": "Night Vision Scope",
+      "displayName": "NSPU Scope / 1PN34",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "true",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "CUP_optic_NSPU",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "4",
+          "magMax": "4",
+          "magMin": "4",
+          "discreteDistance": [],
+          "thermalMode": [],
+          "visionMode": [
+            "NVG"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_PechenegScope",
+      "descriptionShort": "Medium range Russian optic",
+      "displayName": "Pecheneg 1P78 Scope",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "CUP_optic_PechenegScope",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_ekp_8_02",
+      "descriptionShort": "Close Combat optic",
+      "displayName": "EKP-8-02",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_ekp_8_02",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_PSO_1_1",
+      "descriptionShort": "PSO-1-1 Scope",
+      "displayName": "PSO-1-1 Scope",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "CUP_optic_PSO_1_1",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "4",
+          "magMax": "4",
+          "magMin": "4",
+          "discreteDistance": [
+            50,
+            75,
+            100,
+            125,
+            150,
+            175,
+            200,
+            225,
+            250,
+            275,
+            300,
+            325,
+            350,
+            375,
+            400
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_PSO_1_1_open",
+      "descriptionShort": "Medium to Long range Russian optic",
+      "displayName": "PSO-1-1 Scope(w/o eyepiece)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "CUP_optic_PSO_1_1_open",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "4",
+          "magMax": "4",
+          "magMin": "4",
+          "discreteDistance": [
+            50,
+            75,
+            100,
+            125,
+            150,
+            175,
+            200,
+            225,
+            250,
+            275,
+            300,
+            325,
+            350,
+            375,
+            400
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_SB_3_12x50_PMII",
+      "descriptionShort": "Long Range Scope typically mounted on high power sniper rifles like the AS-50",
+      "displayName": "Schmidt and Bender 3-12x60 PM II",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_SB_3_12x50_PMII",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_AN_PAS_13c2",
+      "descriptionShort": "Long Range Thermal Weapon Sight",
+      "displayName": "AN/PAS 13C2 HTWS",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_AN_PAS_13c2",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_LeupoldMk4",
+      "descriptionShort": "Long Range Scope typically mounted on dedicated marksman rifles like the USMC DMR",
+      "displayName": "Leupold Mk4",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_LeupoldMk4",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_HoloBlack",
+      "descriptionShort": "Holographics CQB Weapon Sight",
+      "displayName": "EOTech Holo (Black)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_HoloBlack",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_HoloWdl",
+      "descriptionShort": "Holographics CQB Weapon Sight",
+      "displayName": "EOTech Holo (Woodland)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_HoloWdl",
+        "CUP_optic_HoloBlack",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_HoloDesert",
+      "descriptionShort": "Holographics CQB Weapon Sight",
+      "displayName": "EOTech Holo (Desert)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_HoloDesert",
+        "CUP_optic_HoloBlack",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_Eotech533",
+      "descriptionShort": "Holographics CQB Weapon Sight",
+      "displayName": "EOTech 553 (Tan)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_Eotech533",
+        "CUP_optic_HoloBlack",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_Eotech533Grey",
+      "descriptionShort": "Holographics CQB Weapon Sight",
+      "displayName": "EOTech 553 (Gray)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_Eotech533Grey",
+        "CUP_optic_Eotech533",
+        "CUP_optic_HoloBlack",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_Eotech553_Black",
+      "descriptionShort": "Holographics CQB Weapon Sight",
+      "displayName": "EOTech 553 (Black)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_Eotech553_Black",
+        "CUP_optic_Eotech533",
+        "CUP_optic_HoloBlack",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_Eotech553_Coyote",
+      "descriptionShort": "Holographics CQB Weapon Sight",
+      "displayName": "EOTech 553 (Coyote)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_Eotech553_Coyote",
+        "CUP_optic_Eotech533",
+        "CUP_optic_HoloBlack",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_Eotech553_OD",
+      "descriptionShort": "Holographics CQB Weapon Sight",
+      "displayName": "EOTech 553 (OD)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_Eotech553_OD",
+        "CUP_optic_Eotech533",
+        "CUP_optic_HoloBlack",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_CompM4",
+      "descriptionShort": "Short-Range Collimator Weapon Sight",
+      "displayName": "Aimpoint CompM4 (Black)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_CompM4",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_MicroT1",
+      "descriptionShort": "Short-Range Collimator Weapon Sight",
+      "displayName": "Aimpoint Micro T-1",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_MicroT1",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_MicroT1_OD",
+      "descriptionShort": "Short-Range Collimator Weapon Sight",
+      "displayName": "Aimpoint Micro T-1 (OD)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_MicroT1_OD",
+        "CUP_optic_MicroT1",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_MicroT1_coyote",
+      "descriptionShort": "Short-Range Collimator Weapon Sight",
+      "displayName": "Aimpoint Micro T-1 (Coyote)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_MicroT1_coyote",
+        "CUP_optic_MicroT1",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_MicroT1_low",
+      "descriptionShort": "Short-Range Collimator Weapon Sight",
+      "displayName": "Aimpoint Micro T-1 (Low)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_MicroT1_low",
+        "CUP_optic_MicroT1",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_MicroT1_low_OD",
+      "descriptionShort": "Short-Range Collimator Weapon Sight",
+      "displayName": "Aimpoint Micro T-1 (Low/OD)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_MicroT1_low_OD",
+        "CUP_optic_MicroT1",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_MicroT1_low_coyote",
+      "descriptionShort": "Short-Range Collimator Weapon Sight",
+      "displayName": "Aimpoint Micro T-1 (Low/Coyote)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_MicroT1_low_coyote",
+        "CUP_optic_MicroT1",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_SUSAT",
+      "descriptionShort": "Medium range weapon optic",
+      "displayName": "SUSAT L9A1",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "CUP_optic_SUSAT",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "3",
+          "magMin": "3",
+          "discreteDistance": [
+            100,
+            200,
+            300,
+            400,
+            500,
+            600,
+            700,
+            800
+          ],
+          "thermalMode": [],
+          "visionMode": []
+        }
+      ]
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_ACOG",
+      "descriptionShort": "Advanced Combat Optical Gunsight",
+      "displayName": "Trijicon ACOG TA31F (Reflex)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "CUP_optic_ACOG",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "4",
+          "magMax": "4",
+          "magMin": "4",
+          "discreteDistance": [],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_ACOG_Reflex_Desert",
+      "descriptionShort": "Advanced Combat Optical Gunsight",
+      "displayName": "Trijicon ACOG TA31F (Reflex/Desert)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "CUP_optic_ACOG_Reflex_Desert",
+        "CUP_optic_ACOG",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "4",
+          "magMax": "4",
+          "magMin": "4",
+          "discreteDistance": [],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_ACOG_Reflex_Wood",
+      "descriptionShort": "Advanced Combat Optical Gunsight",
+      "displayName": "Trijicon ACOG TA31F (Reflex/Woodland)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "CUP_optic_ACOG_Reflex_Wood",
+        "CUP_optic_ACOG",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "4",
+          "magMax": "4",
+          "magMin": "4",
+          "discreteDistance": [],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_ACOG2",
+      "descriptionShort": "Advanced Combat Optical Gunsight",
+      "displayName": "Trijicon ACOG TA31F",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "CUP_optic_ACOG2",
+        "CUP_optic_ACOG",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "4",
+          "magMax": "4",
+          "magMin": "4",
+          "discreteDistance": [],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_CWS",
+      "descriptionShort": "Advanced Electronic Weapon Sight",
+      "displayName": "CWS",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_CWS",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_Leupold_VX3",
+      "descriptionShort": "Long Range Optical Scope",
+      "displayName": "Leupold VX-3 4.5-14x50mm",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_Leupold_VX3",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "5",
+          "magMax": "14",
+          "magMin": "5",
+          "discreteDistance": [
+            100,
+            200,
+            300,
+            400,
+            500,
+            600,
+            700,
+            800,
+            900,
+            1000,
+            1100,
+            1200
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_AN_PVS_10",
+      "descriptionShort": "Night Vision Scope",
+      "displayName": "AN/PVS-10 NVS",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_AN_PVS_10",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_CompM2_Black",
+      "descriptionShort": "Short-Range Collimator Weapon Sight",
+      "displayName": "M68 CCO (Black)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_CompM2_Black",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_CompM2_Woodland",
+      "descriptionShort": "Short-Range Collimator Weapon Sight",
+      "displayName": "M68 CCO (Woodland)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_CompM2_Woodland",
+        "CUP_optic_CompM2_Black",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_CompM2_Woodland2",
+      "descriptionShort": "Short-Range Collimator Weapon Sight",
+      "displayName": "M68 CCO (Woodland 2)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_CompM2_Woodland2",
+        "CUP_optic_CompM2_Black",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_CompM2_Desert",
+      "descriptionShort": "Short-Range Collimator Weapon Sight",
+      "displayName": "M68 CCO (Desert)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_CompM2_Desert",
+        "CUP_optic_CompM2_Black",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_CompM2_OD",
+      "descriptionShort": "Short-Range Collimator Weapon Sight",
+      "displayName": "M68 CCO (OD)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_CompM2_OD",
+        "CUP_optic_CompM2_Black",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_CompM2_Coyote",
+      "descriptionShort": "Short-Range Collimator Weapon Sight",
+      "displayName": "M68 CCO (Coyote)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_CompM2_Coyote",
+        "CUP_optic_CompM2_Black",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_CompM2_low",
+      "descriptionShort": "Short-Range Collimator Weapon Sight",
+      "displayName": "M68 CCO (Low/Black)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_CompM2_low",
+        "CUP_optic_CompM2_Black",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_CompM2_low_OD",
+      "descriptionShort": "Short-Range Collimator Weapon Sight",
+      "displayName": "M68 CCO (Low/OD)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_CompM2_low_OD",
+        "CUP_optic_CompM2_Black",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_CompM2_low_coyote",
+      "descriptionShort": "Short-Range Collimator Weapon Sight",
+      "displayName": "M68 CCO (Low/Coyote)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_CompM2_low_coyote",
+        "CUP_optic_CompM2_Black",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_RCO",
+      "descriptionShort": "Advanced Combat Optical Gunsight",
+      "displayName": "Trijicon ACOG",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "CUP_optic_RCO",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "4",
+          "magMax": "4",
+          "magMin": "4",
+          "discreteDistance": [],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_RCO_desert",
+      "descriptionShort": "Advanced Combat Optical Gunsight",
+      "displayName": "Trijicon ACOG (Desert)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "CUP_optic_RCO_desert",
+        "CUP_optic_RCO",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "4",
+          "magMax": "4",
+          "magMin": "4",
+          "discreteDistance": [],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_LeupoldM3LR",
+      "descriptionShort": "Long Range Scope typically mounted on sniper and marksman rifles",
+      "displayName": "Leupold Mark 4 3-9x36mm MR/T",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_LeupoldM3LR",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_LeupoldMk4_10x40_LRT_Desert",
+      "descriptionShort": "Long Range Scope typically mounted on sniper and marksman rifles",
+      "displayName": "Leupold Mark 4 10x40mm LR/T (Desert)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_LeupoldMk4_10x40_LRT_Desert",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "10",
+          "magMax": "10",
+          "magMin": "10",
+          "discreteDistance": [
+            100,
+            200,
+            300,
+            400,
+            500,
+            600,
+            700,
+            800,
+            900,
+            1000,
+            1100,
+            1200
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_LeupoldMk4_10x40_LRT_Woodland",
+      "descriptionShort": "Long Range Scope typically mounted on sniper and marksman rifles",
+      "displayName": "Leupold Mark 4 10x40mm LR/T (Woodland)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_LeupoldMk4_10x40_LRT_Woodland",
+        "CUP_optic_LeupoldMk4_10x40_LRT_Desert",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "10",
+          "magMax": "10",
+          "magMin": "10",
+          "discreteDistance": [
+            100,
+            200,
+            300,
+            400,
+            500,
+            600,
+            700,
+            800,
+            900,
+            1000,
+            1100,
+            1200
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_ElcanM145",
+      "descriptionShort": "Medium-Range scope",
+      "displayName": "Elcan M145",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "CUP_optic_ElcanM145",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "3",
+          "magMin": "3",
+          "discreteDistance": [
+            300
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_ZeissZPoint",
+      "descriptionShort": "Short-Range Collimator Weapon Sight",
+      "displayName": "Zeiss Z-Point",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_ZeissZPoint",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_AN_PAS_13c1",
+      "descriptionShort": "Midrange Thermal Weapon Sight",
+      "displayName": "AN/PAS 13C1 TWS",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_AN_PAS_13c1",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_LeupoldMk4_CQ_T",
+      "descriptionShort": "Close Quarter Rifle Scope",
+      "displayName": "Leupold Mk4 CQ/T 1-3x14mm",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "CUP_optic_LeupoldMk4_CQ_T",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_ELCAN_SpecterDR",
+      "descriptionShort": "Medium-Range scope",
+      "displayName": "Elcan SpecterDR",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "CUP_optic_ELCAN_SpecterDR",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "3",
+          "magMin": "3",
+          "discreteDistance": [],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_LeupoldMk4_MRT_tan",
+      "descriptionShort": "Medium to Long-range scope for sniper and marksman rifles.",
+      "displayName": "Leupold Mk4 MR/T (Tan)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_LeupoldMk4_MRT_tan",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_SB_11_4x20_PM",
+      "descriptionShort": "Medium to Short range scope typically used on Assault rifles.",
+      "displayName": "Schmidt and Bender 1.1-4x20 PM ShortDot",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_SB_11_4x20_PM",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_ZDDot",
+      "descriptionShort": "Short-Range Red Dot Weapon Sight",
+      "displayName": "Meopta ZD-Dot",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_ZDDot",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_MRad",
+      "descriptionShort": "Short-Range Red Dot Weapon Sight for SMG's",
+      "displayName": "Meopta Rapid Acquisition Dot",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_MRad",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_TrijiconRx01_desert",
+      "descriptionShort": "Short-Range Weapon Sight",
+      "displayName": "Trijicon Rx01 Red Dot sight (Desert)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_TrijiconRx01_desert",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_TrijiconRx01_black",
+      "descriptionShort": "Short-Range Weapon Sight",
+      "displayName": "Trijicon Rx01 Red Dot sight (Black)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_TrijiconRx01_black",
+        "CUP_optic_TrijiconRx01_desert",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_AN_PVS_4",
+      "descriptionShort": "Long Range Night Vision Scope",
+      "displayName": "AN/PVS-4 NVS",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_AN_PVS_4",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_Elcan",
+      "descriptionShort": "Medium-Range scope",
+      "displayName": "Elcan SpecterOS4x (Black)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "CUP_optic_Elcan",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "3",
+          "magMin": "3",
+          "discreteDistance": [],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_Elcan_OD",
+      "descriptionShort": "Medium-Range scope",
+      "displayName": "Elcan SpecterOS4x (OD)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "CUP_optic_Elcan_OD",
+        "CUP_optic_Elcan",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "3",
+          "magMin": "3",
+          "discreteDistance": [],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_Elcan_Coyote",
+      "descriptionShort": "Medium-Range scope",
+      "displayName": "Elcan SpecterOS4x (Coyote)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "CUP_optic_Elcan_Coyote",
+        "CUP_optic_Elcan",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "3",
+          "magMin": "3",
+          "discreteDistance": [],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_Elcan_reflex",
+      "descriptionShort": "Medium-Range scope",
+      "displayName": "Elcan SpecterOS4x (RMR Reflex/Black)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "CUP_optic_Elcan_reflex",
+        "CUP_optic_Elcan",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "3",
+          "magMin": "3",
+          "discreteDistance": [],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_Elcan_reflex_OD",
+      "descriptionShort": "Medium-Range scope",
+      "displayName": "Elcan SpecterOS4x (RMR Reflex/OD)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "CUP_optic_Elcan_reflex_OD",
+        "CUP_optic_Elcan_reflex",
+        "CUP_optic_Elcan",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "3",
+          "magMin": "3",
+          "discreteDistance": [],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "Community Upgrade Project",
+      "className": "CUP_optic_Elcan_reflex_Coyote",
+      "descriptionShort": "Medium-Range scope",
+      "displayName": "Elcan SpecterOS4x (RMR Reflex/Coyote)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "CUP_optic_Elcan_reflex_Coyote",
+        "CUP_optic_Elcan_reflex",
+        "CUP_optic_Elcan",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "3",
+          "magMin": "3",
+          "discreteDistance": [],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "ACE-Team",
+      "className": "ACE_optic_Hamr_2D",
+      "descriptionShort": "Rifle Combat Optics<br />Magnification: 2x",
+      "displayName": "RCO (2D)",
+      "dlc": "",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "true",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "ACE_optic_Hamr_2D",
+        "optic_Hamr",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "3",
+          "magMin": "3",
+          "discreteDistance": [],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal",
+            "NVG"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "ACE-Team",
+      "className": "ACE_optic_Hamr_PIP",
+      "descriptionShort": "Rifle Combat Optics<br />Magnification: 2x",
+      "displayName": "RCO (PIP)",
+      "dlc": "",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "true",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "ACE_optic_Hamr_PIP",
+        "ACE_optic_Hamr_2D",
+        "optic_Hamr",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "3",
+          "magMin": "3",
+          "discreteDistance": [],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal",
+            "NVG"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "ACE-Team",
+      "className": "ACE_optic_Arco_2D",
+      "descriptionShort": "Advanced Rifle Combat Optics<br />Magnification: 2x",
+      "displayName": "ARCO (2D)",
+      "dlc": "",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "ACE_optic_Arco_2D",
+        "optic_Arco",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "3",
+          "magMin": "3",
+          "discreteDistance": [],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "ACE-Team",
+      "className": "ACE_optic_Arco_PIP",
+      "descriptionShort": "Advanced Rifle Combat Optics<br />Magnification: 2x",
+      "displayName": "ARCO (PIP)",
+      "dlc": "",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "ACE_optic_Arco_PIP",
+        "ACE_optic_Arco_2D",
+        "optic_Arco",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "3",
+          "magMin": "3",
+          "discreteDistance": [],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "ACE-Team",
+      "className": "ACE_optic_MRCO_2D",
+      "descriptionShort": "MRCO<br />Magnification: 2x",
+      "displayName": "MRCO (2D)",
+      "dlc": "",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "ACE_optic_MRCO_2D",
+        "optic_MRCO",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "3",
+          "magMin": "3",
+          "discreteDistance": [],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "ACE-Team",
+      "className": "ACE_optic_SOS_2D",
+      "descriptionShort": "Marksman Optical Sights<br />Magnification: 2,5x–5x",
+      "displayName": "MOS (2D)",
+      "dlc": "",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "ACE_optic_SOS_2D",
+        "optic_SOS",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "22",
+          "magMax": "22",
+          "magMin": "5",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "ACE-Team",
+      "className": "ACE_optic_SOS_PIP",
+      "descriptionShort": "Marksman Optical Sights<br />Magnification: 2,5x–5x",
+      "displayName": "MOS (PIP)",
+      "dlc": "",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "ACE_optic_SOS_PIP",
+        "ACE_optic_SOS_2D",
+        "optic_SOS",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "22",
+          "magMax": "22",
+          "magMin": "5",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "ACE-Team",
+      "className": "ACE_optic_LRPS_2D",
+      "descriptionShort": "Long-Range Precision Scope<br />Magnification: 6x–25x",
+      "displayName": "LRPS (2D)",
+      "dlc": "",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "ACE_optic_LRPS_2D",
+        "optic_LRPS",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "22",
+          "magMax": "22",
+          "magMin": "5",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "ACE-Team",
+      "className": "ACE_optic_LRPS_PIP",
+      "descriptionShort": "Long-Range Precision Scope<br />Magnification: 6x–25x",
+      "displayName": "LRPS (PIP)",
+      "dlc": "",
+      "hasIronSight": "false",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "ACE_optic_LRPS_PIP",
+        "ACE_optic_LRPS_2D",
+        "optic_LRPS",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "22",
+          "magMax": "22",
+          "magMin": "5",
+          "discreteDistance": [
+            100
+          ],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    },
+    {
+      "author": "",
+      "className": "CUP_optic_PGO7V",
+      "descriptionShort": "Magnification: 2.7x",
+      "displayName": "PGO-7V",
+      "dlc": "",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "CUP_optic_PGO7V",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "",
+      "className": "CUP_optic_PGO7V2",
+      "descriptionShort": "Magnification: 2.7x",
+      "displayName": "PGO-7V2",
+      "dlc": "",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "CUP_optic_PGO7V2",
+        "CUP_optic_PGO7V",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "",
+      "className": "CUP_optic_PGO7V3",
+      "descriptionShort": "Magnification: 2.7x",
+      "displayName": "PGO-7V3",
+      "dlc": "",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "CUP_optic_PGO7V3",
+        "CUP_optic_PGO7V",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "",
+      "className": "CUP_optic_NSPU_RPG",
+      "descriptionShort": "Magnification: 3.5x",
+      "displayName": "NSPU (1PN24)",
+      "dlc": "",
+      "hasIronSight": "false",
+      "hasOptic": "false",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "false",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "1",
+      "PARENTS": [
+        "CUP_optic_NSPU_RPG",
+        "CUP_optic_PGO7V",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": []
+    },
+    {
+      "author": "CFP Team",
+      "className": "CFP_optic_ELCAN_SpecterDR_Black",
+      "descriptionShort": "Medium-Range scope",
+      "displayName": "Elcan SpecterDR (Black)",
+      "dlc": "CUP_Weapons",
+      "hasIronSight": "true",
+      "hasOptic": "true",
+      "opticHasNightVision": "false",
+      "opticHasNormalVision": "true",
+      "opticHasThermalVision": "false",
+      "opticsModesCount": "2",
+      "PARENTS": [
+        "CFP_optic_ELCAN_SpecterDR_Black",
+        "CUP_optic_ELCAN_SpecterDR",
+        "ItemCore",
+        "Default"
+      ],
+      "opticalModes": [
+        {
+          "magInit": "3",
+          "magMax": "3",
+          "magMin": "3",
+          "discreteDistance": [],
+          "thermalMode": [],
+          "visionMode": [
+            "Normal"
+          ]
+        }
+      ]
+    }
+  ]
+}

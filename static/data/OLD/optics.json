@@ -1,0 +1,910 @@
+{
+"optics": [
+{
+"className": "optic_Arco",
+"dispName": "ARCO",
+"author": "Bohemia Interactive",
+"dlc": "",
+"desc": "Advanced Rifle Combat Optics<br />Magnification: 2x",
+"sightModesCount": 2,
+"parents": ["optic_Arco","ItemCore","Default"],
+"opticalModes": [
+{
+"magMin": 2,
+"magMax": 2,
+"magInit": 2,
+"zeroDistMin": 300,
+"zeroDistMax": 300,
+"zeroDistances": [],
+"visionModes": [],
+"thermalModes": []
+}
+],
+"hasIronSight": true,
+"hasOptic": true,
+"opticHasNormalVision": false,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_Hamr",
+"dispName": "RCO",
+"author": "Bohemia Interactive",
+"dlc": "",
+"desc": "Rifle Combat Optics<br />Magnification: 2x",
+"sightModesCount": 2,
+"parents": ["optic_Hamr","ItemCore","Default"],
+"opticalModes": [
+{
+"magMin": 2,
+"magMax": 2,
+"magInit": 2,
+"zeroDistMin": 300,
+"zeroDistMax": 300,
+"zeroDistances": [],
+"visionModes": [],
+"thermalModes": []
+}
+],
+"hasIronSight": true,
+"hasOptic": true,
+"opticHasNormalVision": false,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_Aco",
+"dispName": "ACO (Red)",
+"author": "Bohemia Interactive",
+"dlc": "",
+"desc": "Advanced Collimator Optics<br />Color: Red",
+"sightModesCount": 1,
+"parents": ["optic_Aco","ItemCore","Default"],
+"opticalModes": [
+
+],
+"hasIronSight": true,
+"hasOptic": false,
+"opticHasNormalVision": false,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_ACO_grn",
+"dispName": "ACO (Green)",
+"author": "Bohemia Interactive",
+"dlc": "",
+"desc": "Advanced Collimator Optics<br />Color: Green",
+"sightModesCount": 1,
+"parents": ["optic_ACO_grn","ItemCore","Default"],
+"opticalModes": [
+
+],
+"hasIronSight": true,
+"hasOptic": false,
+"opticHasNormalVision": false,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_Aco_smg",
+"dispName": "ACO SMG (Red)",
+"author": "Bohemia Interactive",
+"dlc": "",
+"desc": "Advanced Collimator Optics<br />Color: Red",
+"sightModesCount": 1,
+"parents": ["optic_Aco_smg","ItemCore","Default"],
+"opticalModes": [
+
+],
+"hasIronSight": true,
+"hasOptic": false,
+"opticHasNormalVision": false,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_ACO_grn_smg",
+"dispName": "ACO SMG (Green)",
+"author": "Bohemia Interactive",
+"dlc": "",
+"desc": "Advanced Collimator Optics<br />Color: Green",
+"sightModesCount": 1,
+"parents": ["optic_ACO_grn_smg","ItemCore","Default"],
+"opticalModes": [
+
+],
+"hasIronSight": true,
+"hasOptic": false,
+"opticHasNormalVision": false,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_Holosight",
+"dispName": "Mk17 Holosight",
+"author": "Bohemia Interactive",
+"dlc": "",
+"desc": "",
+"sightModesCount": 1,
+"parents": ["optic_Holosight","ItemCore","Default"],
+"opticalModes": [
+
+],
+"hasIronSight": true,
+"hasOptic": false,
+"opticHasNormalVision": false,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_Holosight_smg",
+"dispName": "Mk17 Holosight SMG",
+"author": "Bohemia Interactive",
+"dlc": "",
+"desc": "",
+"sightModesCount": 1,
+"parents": ["optic_Holosight_smg","ItemCore","Default"],
+"opticalModes": [
+
+],
+"hasIronSight": true,
+"hasOptic": false,
+"opticHasNormalVision": false,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_SOS",
+"dispName": "MOS",
+"author": "Bohemia Interactive",
+"dlc": "",
+"desc": "Marksman Optical Sights<br />Magnification: 2,5x–5x",
+"sightModesCount": 2,
+"parents": ["optic_SOS","ItemCore","Default"],
+"opticalModes": [
+{
+"magMin": 2,
+"magMax": 5,
+"magInit": 2,
+"zeroDistMin": 300,
+"zeroDistMax": 1600,
+"zeroDistances": [300,400,500,600,700,800,900,1000,1100,1200,1300,1400,1500,1600],
+"visionModes": ["Normal"],
+"thermalModes": []
+}
+],
+"hasIronSight": true,
+"hasOptic": true,
+"opticHasNormalVision": true,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_MRCO",
+"dispName": "MRCO",
+"author": "Bohemia Interactive",
+"dlc": "",
+"desc": "MRCO<br />Magnification: 2x",
+"sightModesCount": 2,
+"parents": ["optic_MRCO","ItemCore","Default"],
+"opticalModes": [
+{
+"magMin": 2,
+"magMax": 2,
+"magInit": 2,
+"zeroDistMin": 300,
+"zeroDistMax": 300,
+"zeroDistances": [],
+"visionModes": [],
+"thermalModes": []
+}
+],
+"hasIronSight": true,
+"hasOptic": true,
+"opticHasNormalVision": false,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_NVS",
+"dispName": "NVS",
+"author": "Bohemia Interactive",
+"dlc": "",
+"desc": "Night Vision Scope<br />Magnification: 5x",
+"sightModesCount": 1,
+"parents": ["optic_NVS","ItemCore","Default"],
+"opticalModes": [
+{
+"magMin": 5,
+"magMax": 5,
+"magInit": 5,
+"zeroDistMin": 300,
+"zeroDistMax": 300,
+"zeroDistances": [],
+"visionModes": ["NVG"],
+"thermalModes": []
+}
+],
+"hasIronSight": false,
+"hasOptic": true,
+"opticHasNormalVision": false,
+"opticHasNightVision": true,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_Nightstalker",
+"dispName": "Nightstalker",
+"author": "Bohemia Interactive",
+"dlc": "",
+"desc": "Nightstalker Sight<br />Magnification: 4x–10x",
+"sightModesCount": 2,
+"parents": ["optic_Nightstalker","ItemCore","Default"],
+"opticalModes": [
+{
+"magMin": 4,
+"magMax": 10,
+"magInit": 4,
+"zeroDistMin": 100,
+"zeroDistMax": 1000,
+"zeroDistances": [100,200,300,400,500,600,700,800,900,1000],
+"visionModes": ["Normal","NVG","Ti"],
+"thermalModes": [5,6]
+}
+],
+"hasIronSight": true,
+"hasOptic": true,
+"opticHasNormalVision": true,
+"opticHasNightVision": true,
+"opticHasThermalVision": true
+},
+{
+"className": "optic_tws",
+"dispName": "TWS",
+"author": "Bohemia Interactive",
+"dlc": "",
+"desc": "Thermal Weapon Sight<br />Magnification: 4x–10x",
+"sightModesCount": 1,
+"parents": ["optic_tws","ItemCore","Default"],
+"opticalModes": [
+{
+"magMin": 4,
+"magMax": 10,
+"magInit": 4,
+"zeroDistMin": 100,
+"zeroDistMax": 1200,
+"zeroDistances": [100,200,300,400,500,600,700,800,900,1000,1100,1200],
+"visionModes": ["Ti","Normal"],
+"thermalModes": [0,1]
+}
+],
+"hasIronSight": false,
+"hasOptic": true,
+"opticHasNormalVision": true,
+"opticHasNightVision": false,
+"opticHasThermalVision": true
+},
+{
+"className": "optic_tws_mg",
+"dispName": "TWS MG",
+"author": "Bohemia Interactive",
+"dlc": "",
+"desc": "Thermal Weapon Sight for Machineguns<br />Magnification: 4x–10x",
+"sightModesCount": 1,
+"parents": ["optic_tws_mg","ItemCore","Default"],
+"opticalModes": [
+{
+"magMin": 4,
+"magMax": 10,
+"magInit": 4,
+"zeroDistMin": 100,
+"zeroDistMax": 1600,
+"zeroDistances": [100,200,300,400,500,600,700,800,900,1000,1100,1200,1300,1400,1500,1600],
+"visionModes": ["Ti","Normal"],
+"thermalModes": [0,1]
+}
+],
+"hasIronSight": false,
+"hasOptic": true,
+"opticHasNormalVision": true,
+"opticHasNightVision": false,
+"opticHasThermalVision": true
+},
+{
+"className": "optic_DMS",
+"dispName": "DMS",
+"author": "Bohemia Interactive",
+"dlc": "",
+"desc": "DMS<br />Magnification: 2x–4x",
+"sightModesCount": 2,
+"parents": ["optic_DMS","ItemCore","Default"],
+"opticalModes": [
+{
+"magMin": 2,
+"magMax": 4,
+"magInit": 2,
+"zeroDistMin": 300,
+"zeroDistMax": 1200,
+"zeroDistances": [100,200,300,400,500,600,700,800,900,1000,1100,1200],
+"visionModes": ["Normal"],
+"thermalModes": []
+}
+],
+"hasIronSight": true,
+"hasOptic": true,
+"opticHasNormalVision": true,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_Yorris",
+"dispName": "Yorris J2",
+"author": "Bohemia Interactive",
+"dlc": "",
+"desc": "Y-J2<br />Magnification: 1x",
+"sightModesCount": 1,
+"parents": ["optic_Yorris","ItemCore","Default"],
+"opticalModes": [
+
+],
+"hasIronSight": true,
+"hasOptic": false,
+"opticHasNormalVision": false,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_MRD",
+"dispName": "MRD",
+"author": "Bohemia Interactive",
+"dlc": "",
+"desc": "MRD<br />Magnification: 1x",
+"sightModesCount": 1,
+"parents": ["optic_MRD","ItemCore","Default"],
+"opticalModes": [
+
+],
+"hasIronSight": true,
+"hasOptic": false,
+"opticHasNormalVision": false,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_LRPS",
+"dispName": "LRPS",
+"author": "Bohemia Interactive",
+"dlc": "",
+"desc": "Long-Range Precision Scope<br />Magnification: 6x–25x",
+"sightModesCount": 1,
+"parents": ["optic_LRPS","ItemCore","Default"],
+"opticalModes": [
+{
+"magMin": 6,
+"magMax": 25,
+"magInit": 6,
+"zeroDistMin": 300,
+"zeroDistMax": 2400,
+"zeroDistances": [300,400,500,600,700,800,900,1000,1100,1200,1300,1400,1500,1600,1700,1800,1900,2000,2100,2200,2300,2400],
+"visionModes": ["Normal"],
+"thermalModes": []
+}
+],
+"hasIronSight": false,
+"hasOptic": true,
+"opticHasNormalVision": true,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_AMS",
+"dispName": "AMS (Black)",
+"author": "Bohemia Interactive",
+"dlc": "Mark",
+"desc": "Advanced Marksman Scope<br />Magnification: 3x–10x",
+"sightModesCount": 2,
+"parents": ["optic_AMS","optic_AMS_base","ItemCore","Default"],
+"opticalModes": [
+{
+"magMin": 3,
+"magMax": 10,
+"magInit": 3,
+"zeroDistMin": 300,
+"zeroDistMax": 2000,
+"zeroDistances": [300,400,500,600,700,800,900,1000,1100,1200,1300,1400,1500,1600,1700,1800,1900,2000],
+"visionModes": ["Normal"],
+"thermalModes": []
+}
+],
+"hasIronSight": true,
+"hasOptic": true,
+"opticHasNormalVision": true,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_AMS_khk",
+"dispName": "AMS (Khaki)",
+"author": "Bohemia Interactive",
+"dlc": "Mark",
+"desc": "Advanced Marksman Scope<br />Magnification: 3x–10x",
+"sightModesCount": 2,
+"parents": ["optic_AMS_khk","optic_AMS","optic_AMS_base","ItemCore","Default"],
+"opticalModes": [
+{
+"magMin": 3,
+"magMax": 10,
+"magInit": 3,
+"zeroDistMin": 300,
+"zeroDistMax": 2000,
+"zeroDistances": [300,400,500,600,700,800,900,1000,1100,1200,1300,1400,1500,1600,1700,1800,1900,2000],
+"visionModes": ["Normal"],
+"thermalModes": []
+}
+],
+"hasIronSight": true,
+"hasOptic": true,
+"opticHasNormalVision": true,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_AMS_snd",
+"dispName": "AMS (Sand)",
+"author": "Bohemia Interactive",
+"dlc": "Mark",
+"desc": "Advanced Marksman Scope<br />Magnification: 3x–10x",
+"sightModesCount": 2,
+"parents": ["optic_AMS_snd","optic_AMS","optic_AMS_base","ItemCore","Default"],
+"opticalModes": [
+{
+"magMin": 3,
+"magMax": 10,
+"magInit": 3,
+"zeroDistMin": 300,
+"zeroDistMax": 2000,
+"zeroDistances": [300,400,500,600,700,800,900,1000,1100,1200,1300,1400,1500,1600,1700,1800,1900,2000],
+"visionModes": ["Normal"],
+"thermalModes": []
+}
+],
+"hasIronSight": true,
+"hasOptic": true,
+"opticHasNormalVision": true,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_KHS_blk",
+"dispName": "Kahlia (Black)",
+"author": "Bohemia Interactive",
+"dlc": "Mark",
+"desc": "Kahlia<br />Magnification: 5x–11x",
+"sightModesCount": 2,
+"parents": ["optic_KHS_blk","optic_KHS_base","ItemCore","Default"],
+"opticalModes": [
+{
+"magMin": 5,
+"magMax": 11,
+"magInit": 5,
+"zeroDistMin": 300,
+"zeroDistMax": 2000,
+"zeroDistances": [300,400,500,600,700,800,900,1000,1100,1200,1300,1400,1500,1600,1700,1800,1900,2000],
+"visionModes": ["Normal"],
+"thermalModes": []
+}
+],
+"hasIronSight": true,
+"hasOptic": true,
+"opticHasNormalVision": true,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_KHS_hex",
+"dispName": "Kahlia (Hex)",
+"author": "Bohemia Interactive",
+"dlc": "Mark",
+"desc": "Kahlia<br />Magnification: 5x–11x",
+"sightModesCount": 2,
+"parents": ["optic_KHS_hex","optic_KHS_blk","optic_KHS_base","ItemCore","Default"],
+"opticalModes": [
+{
+"magMin": 5,
+"magMax": 11,
+"magInit": 5,
+"zeroDistMin": 300,
+"zeroDistMax": 2000,
+"zeroDistances": [300,400,500,600,700,800,900,1000,1100,1200,1300,1400,1500,1600,1700,1800,1900,2000],
+"visionModes": ["Normal"],
+"thermalModes": []
+}
+],
+"hasIronSight": true,
+"hasOptic": true,
+"opticHasNormalVision": true,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_KHS_old",
+"dispName": "Kahlia (Old)",
+"author": "Bohemia Interactive",
+"dlc": "Mark",
+"desc": "Kahlia<br />Magnification: 5x–11x",
+"sightModesCount": 1,
+"parents": ["optic_KHS_old","ItemCore","Default"],
+"opticalModes": [
+{
+"magMin": 5,
+"magMax": 11,
+"magInit": 5,
+"zeroDistMin": 300,
+"zeroDistMax": 2000,
+"zeroDistances": [300,400,500,600,700,800,900,1000,1100,1200,1300,1400,1500,1600,1700,1800,1900,2000],
+"visionModes": ["Normal"],
+"thermalModes": []
+}
+],
+"hasIronSight": false,
+"hasOptic": true,
+"opticHasNormalVision": true,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_KHS_tan",
+"dispName": "Kahlia (Tan)",
+"author": "Bohemia Interactive",
+"dlc": "Mark",
+"desc": "Kahlia<br />Magnification: 5x–11x",
+"sightModesCount": 2,
+"parents": ["optic_KHS_tan","optic_KHS_blk","optic_KHS_base","ItemCore","Default"],
+"opticalModes": [
+{
+"magMin": 5,
+"magMax": 11,
+"magInit": 5,
+"zeroDistMin": 300,
+"zeroDistMax": 2000,
+"zeroDistances": [300,400,500,600,700,800,900,1000,1100,1200,1300,1400,1500,1600,1700,1800,1900,2000],
+"visionModes": ["Normal"],
+"thermalModes": []
+}
+],
+"hasIronSight": true,
+"hasOptic": true,
+"opticHasNormalVision": true,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_Arco_blk_F",
+"dispName": "ARCO (Black)",
+"author": "Bohemia Interactive",
+"dlc": "",
+"desc": "Advanced Rifle Combat Optics<br />Magnification: 2x",
+"sightModesCount": 2,
+"parents": ["optic_Arco_blk_F","optic_Arco","ItemCore","Default"],
+"opticalModes": [
+{
+"magMin": 2,
+"magMax": 2,
+"magInit": 2,
+"zeroDistMin": 300,
+"zeroDistMax": 300,
+"zeroDistances": [],
+"visionModes": [],
+"thermalModes": []
+}
+],
+"hasIronSight": true,
+"hasOptic": true,
+"opticHasNormalVision": false,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_Arco_ghex_F",
+"dispName": "ARCO (Green Hex)",
+"author": "Bohemia Interactive",
+"dlc": "",
+"desc": "Advanced Rifle Combat Optics<br />Magnification: 2x",
+"sightModesCount": 2,
+"parents": ["optic_Arco_ghex_F","optic_Arco","ItemCore","Default"],
+"opticalModes": [
+{
+"magMin": 2,
+"magMax": 2,
+"magInit": 2,
+"zeroDistMin": 300,
+"zeroDistMax": 300,
+"zeroDistances": [],
+"visionModes": [],
+"thermalModes": []
+}
+],
+"hasIronSight": true,
+"hasOptic": true,
+"opticHasNormalVision": false,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_DMS_ghex_F",
+"dispName": "DMS (Green Hex)",
+"author": "Bohemia Interactive",
+"dlc": "",
+"desc": "DMS<br />Magnification: 2x–4x",
+"sightModesCount": 2,
+"parents": ["optic_DMS_ghex_F","optic_DMS","ItemCore","Default"],
+"opticalModes": [
+{
+"magMin": 2,
+"magMax": 4,
+"magInit": 2,
+"zeroDistMin": 300,
+"zeroDistMax": 1200,
+"zeroDistances": [100,200,300,400,500,600,700,800,900,1000,1100,1200],
+"visionModes": ["Normal"],
+"thermalModes": []
+}
+],
+"hasIronSight": true,
+"hasOptic": true,
+"opticHasNormalVision": true,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_Hamr_khk_F",
+"dispName": "RCO (Khaki)",
+"author": "Bohemia Interactive",
+"dlc": "",
+"desc": "Rifle Combat Optics<br />Magnification: 2x",
+"sightModesCount": 2,
+"parents": ["optic_Hamr_khk_F","optic_Hamr","ItemCore","Default"],
+"opticalModes": [
+{
+"magMin": 2,
+"magMax": 2,
+"magInit": 2,
+"zeroDistMin": 300,
+"zeroDistMax": 300,
+"zeroDistances": [],
+"visionModes": [],
+"thermalModes": []
+}
+],
+"hasIronSight": true,
+"hasOptic": true,
+"opticHasNormalVision": false,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_ERCO_blk_F",
+"dispName": "ERCO (Black)",
+"author": "Bohemia Interactive",
+"dlc": "",
+"desc": "Enhanced Rifle Combat Optics<br />Magnification: 2x",
+"sightModesCount": 2,
+"parents": ["optic_ERCO_blk_F","optic_Arco","ItemCore","Default"],
+"opticalModes": [
+{
+"magMin": 2,
+"magMax": 2,
+"magInit": 2,
+"zeroDistMin": 300,
+"zeroDistMax": 300,
+"zeroDistances": [],
+"visionModes": [],
+"thermalModes": []
+}
+],
+"hasIronSight": true,
+"hasOptic": true,
+"opticHasNormalVision": false,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_ERCO_khk_F",
+"dispName": "ERCO (Khaki)",
+"author": "Bohemia Interactive",
+"dlc": "",
+"desc": "Enhanced Rifle Combat Optics<br />Magnification: 2x",
+"sightModesCount": 2,
+"parents": ["optic_ERCO_khk_F","optic_ERCO_blk_F","optic_Arco","ItemCore","Default"],
+"opticalModes": [
+{
+"magMin": 2,
+"magMax": 2,
+"magInit": 2,
+"zeroDistMin": 300,
+"zeroDistMax": 300,
+"zeroDistances": [],
+"visionModes": [],
+"thermalModes": []
+}
+],
+"hasIronSight": true,
+"hasOptic": true,
+"opticHasNormalVision": false,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_ERCO_snd_F",
+"dispName": "ERCO (Sand)",
+"author": "Bohemia Interactive",
+"dlc": "",
+"desc": "Enhanced Rifle Combat Optics<br />Magnification: 2x",
+"sightModesCount": 2,
+"parents": ["optic_ERCO_snd_F","optic_ERCO_blk_F","optic_Arco","ItemCore","Default"],
+"opticalModes": [
+{
+"magMin": 2,
+"magMax": 2,
+"magInit": 2,
+"zeroDistMin": 300,
+"zeroDistMax": 300,
+"zeroDistances": [],
+"visionModes": [],
+"thermalModes": []
+}
+],
+"hasIronSight": true,
+"hasOptic": true,
+"opticHasNormalVision": false,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_SOS_khk_F",
+"dispName": "MOS (Khaki)",
+"author": "Bohemia Interactive",
+"dlc": "",
+"desc": "Marksman Optical Sights<br />Magnification: 2,5x–5x",
+"sightModesCount": 2,
+"parents": ["optic_SOS_khk_F","optic_SOS","ItemCore","Default"],
+"opticalModes": [
+{
+"magMin": 2,
+"magMax": 5,
+"magInit": 2,
+"zeroDistMin": 300,
+"zeroDistMax": 1600,
+"zeroDistances": [300,400,500,600,700,800,900,1000,1100,1200,1300,1400,1500,1600],
+"visionModes": ["Normal"],
+"thermalModes": []
+}
+],
+"hasIronSight": true,
+"hasOptic": true,
+"opticHasNormalVision": true,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_LRPS_tna_F",
+"dispName": "LRPS (Tropic)",
+"author": "Bohemia Interactive",
+"dlc": "",
+"desc": "Long-Range Precision Scope<br />Magnification: 6x–25x",
+"sightModesCount": 1,
+"parents": ["optic_LRPS_tna_F","optic_LRPS","ItemCore","Default"],
+"opticalModes": [
+{
+"magMin": 6,
+"magMax": 25,
+"magInit": 6,
+"zeroDistMin": 300,
+"zeroDistMax": 2400,
+"zeroDistances": [300,400,500,600,700,800,900,1000,1100,1200,1300,1400,1500,1600,1700,1800,1900,2000,2100,2200,2300,2400],
+"visionModes": ["Normal"],
+"thermalModes": []
+}
+],
+"hasIronSight": false,
+"hasOptic": true,
+"opticHasNormalVision": true,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_LRPS_ghex_F",
+"dispName": "LRPS (Green Hex)",
+"author": "Bohemia Interactive",
+"dlc": "",
+"desc": "Long-Range Precision Scope<br />Magnification: 6x–25x",
+"sightModesCount": 1,
+"parents": ["optic_LRPS_ghex_F","optic_LRPS","ItemCore","Default"],
+"opticalModes": [
+{
+"magMin": 6,
+"magMax": 25,
+"magInit": 6,
+"zeroDistMin": 300,
+"zeroDistMax": 2400,
+"zeroDistances": [300,400,500,600,700,800,900,1000,1100,1200,1300,1400,1500,1600,1700,1800,1900,2000,2100,2200,2300,2400],
+"visionModes": ["Normal"],
+"thermalModes": []
+}
+],
+"hasIronSight": false,
+"hasOptic": true,
+"opticHasNormalVision": true,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_Holosight_blk_F",
+"dispName": "Mk17 Holosight (Black)",
+"author": "Bohemia Interactive",
+"dlc": "",
+"desc": "",
+"sightModesCount": 1,
+"parents": ["optic_Holosight_blk_F","optic_Holosight","ItemCore","Default"],
+"opticalModes": [
+
+],
+"hasIronSight": true,
+"hasOptic": false,
+"opticHasNormalVision": false,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_Holosight_khk_F",
+"dispName": "Mk17 Holosight (Khaki)",
+"author": "Bohemia Interactive",
+"dlc": "",
+"desc": "",
+"sightModesCount": 1,
+"parents": ["optic_Holosight_khk_F","optic_Holosight","ItemCore","Default"],
+"opticalModes": [
+
+],
+"hasIronSight": true,
+"hasOptic": false,
+"opticHasNormalVision": false,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_Holosight_smg_blk_F",
+"dispName": "Mk17 Holosight SMG (Black)",
+"author": "Bohemia Interactive",
+"dlc": "",
+"desc": "",
+"sightModesCount": 1,
+"parents": ["optic_Holosight_smg_blk_F","optic_Holosight_smg","ItemCore","Default"],
+"opticalModes": [
+
+],
+"hasIronSight": true,
+"hasOptic": false,
+"opticHasNormalVision": false,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+},
+{
+"className": "optic_Holosight_smg_khk_F",
+"dispName": "Mk17 Holosight SMG (Khaki)",
+"author": "Bohemia Interactive",
+"dlc": "",
+"desc": "",
+"sightModesCount": 1,
+"parents": ["optic_Holosight_smg_khk_F","optic_Holosight_smg","ItemCore","Default"],
+"opticalModes": [
+
+],
+"hasIronSight": true,
+"hasOptic": false,
+"opticHasNormalVision": false,
+"opticHasNightVision": false,
+"opticHasThermalVision": false
+}
+]
+}
