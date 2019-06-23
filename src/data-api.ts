@@ -1,6 +1,9 @@
-import {autoinject} from 'aurelia-framework';
-import {HttpClient} from 'aurelia-fetch-client';
-import {VehicleProxy} from './models/proxies';
+import { autoinject } from 'aurelia-framework';
+import { HttpClient } from 'aurelia-fetch-client';
+import {
+  StaticWeaponEntityOrCarEntityOrTankEntityOrShipFEntityOrPlaneEntityProxy,
+  VehicleProxy
+} from './models/proxies';
 
 @autoinject
 export class DataApi {
@@ -24,6 +27,11 @@ export class DataApi {
 			}
 			return this.vehicles;
 		}
+	}
+
+	async getVehicle(className:string):Promise<StaticWeaponEntityOrCarEntityOrTankEntityOrShipFEntityOrPlaneEntityProxy> {
+		const veh = await this.vehicleData();
+		return veh.vehicles.Car.find(item => item.className === className);
 	}
 
 }

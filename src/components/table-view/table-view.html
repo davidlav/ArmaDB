@@ -1,0 +1,21 @@
+<template>
+
+  <table style="width: auto; margin: 20px" class="highlight">
+    <thead>
+      <tr>
+        <th>Display Name</th>
+        <th>Class</th>
+        <th>Type</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <tr repeat.for="veh of tableData">
+        <td>${veh.dispName}</td>
+        <td>${veh.className}</td>
+        <td>${veh.category}</td>
+      </tr>
+    </tbody>
+  </table>
+
+</template>

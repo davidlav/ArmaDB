@@ -1,31 +1,12 @@
 <template>
 
-  <table style="width: 300px; margin: 20px" class="highlight">
-    <thead>
-    <tr>
-      <th>Name</th>
-      <th>Item Name</th>
-      <th>Item Price</th>
-    </tr>
-    </thead>
+  <require from="components/table-view/table-view"></require>
+  <require from="components/item-view/item-view"></require>
 
-    <tbody>
-    <tr>
-      <td>Alvin</td>
-      <td>Eclair</td>
-      <td>$0.87</td>
-    </tr>
-    <tr>
-      <td>Alan</td>
-      <td>Jellybean</td>
-      <td>$3.76</td>
-    </tr>
-    <tr>
-      <td>Jonathan</td>
-      <td>Lollipop</td>
-      <td>$7.00</td>
-    </tr>
-    </tbody>
-  </table>
+  <!--<table-view></table-view>-->
+  <!--<item-view></item-view>-->
+  <div class="container">
+    <router-view></router-view>
+  </div>
 
 </template>

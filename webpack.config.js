@@ -20,7 +20,10 @@ const nodeModulesDir = path.resolve(__dirname, 'node_modules');
 const baseUrl = '/';
 
 const cssRules = [
-  { loader: 'css-loader' },
+  {
+    loader: 'css-loader',
+		options: { sourceMap: true }
+  },
 ];
 
 module.exports = ({production, server, extractCss, coverage, analyze} = {}) => ({

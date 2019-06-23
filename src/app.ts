@@ -1,16 +1,18 @@
 import '../node_modules/materialize-css/dist/css/materialize.min.css';
-import {DataApi} from './data-api';
-import {autoinject} from 'aurelia-framework';
+import { PLATFORM } from 'aurelia-framework';
+import { Router, RouterConfiguration } from 'aurelia-router';
 
-@autoinject
 export class App {
 
-  constructor(private data:DataApi) {
-    this.showData();
-  }
+	router;
 
-  async showData() {
-    const vehData = await this.data.vehicleData();
-    debugger;
-  }
+	configureRouter(config:RouterConfiguration, router:Router) {
+		config.title = 'PAGE TITLE';
+		config.map([
+			{route: '', moduleId: PLATFORM.moduleName('./components/table-view/table-view')},
+			{route: 'veh/:className', moduleId: PLATFORM.moduleName('./components/item-view/item-view')},
+		]);
+		this.router = router;
+	}
+
 }
