@@ -71,12 +71,33 @@ module.exports = ({production, server, extractCss, coverage, analyze} = {}) => (
       },
       {
         test: /\.styl$/i,
-        use: ['style-loader', 'css-loader', 'stylus-loader'],
+        use: [
+          {
+            loader: 'style-loader',
+            options: { sourceMap: true },
+          },
+          {
+            loader: 'css-loader',
+            options: { sourceMap: true },
+          },
+          {
+            loader: 'stylus-loader',
+            options: { sourceMap: true },
+          }
+        ],
         issuer: /\.[tj]s$/i
       },
       {
         test: /\.styl$/i,
-        use: ['css-loader', 'stylus-loader'],
+        use: [
+          {
+            loader: 'css-loader',
+            options: { sourceMap: true },
+          },
+          {
+            loader: 'stylus-loader',
+            options: { sourceMap: true },
+          }],
         issuer: /\.html?$/i 
       },
       { test: /\.html$/i, loader: 'html-loader' },
