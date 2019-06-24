@@ -19,7 +19,7 @@ export class DataApi {
 			return this.vehicles;
 		else {
 			try {
-				const resp:Response = await this.http.fetch('vehicles.json');
+				const resp:Response = await this.http.fetch('OLD/vehicles.json');
 				const data:JSON = await resp.json();
 				this.vehicles = VehicleProxy.Create(data);
 			} catch (err) {
