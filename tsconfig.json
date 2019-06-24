@@ -14,9 +14,10 @@
       "es2015",
       "dom"
     ],
-    "allowJs": true
-  },
-  "include": [
+    "allowJs": true,
+		"strict": true
+	},
+	"include": [
     "./src/**/*.ts",
     "./test/**/*.ts",
     "./types/**/*.d.ts"

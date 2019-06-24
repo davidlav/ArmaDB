@@ -4,10 +4,10 @@ import { Router, RouterConfiguration } from 'aurelia-router';
 
 export class App {
 
-	router;
+	router!:Router;
 
 	configureRouter(config:RouterConfiguration, router:Router) {
-		config.title = 'PAGE TITLE';
+		config.title = 'ArmaDB';
 		config.map([
 			{route: '', moduleId: PLATFORM.moduleName('./components/table-view/table-view')},
 			{route: 'veh/:className', moduleId: PLATFORM.moduleName('./components/item-view/item-view')}, // localhost:8080/#/veh/...

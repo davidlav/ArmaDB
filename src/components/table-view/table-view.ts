@@ -8,7 +8,7 @@ import {
 @autoinject
 export class TableView {
 
-  tableData:StaticWeaponEntityOrCarEntityOrTankEntityOrShipFEntityOrPlaneEntityProxy[];
+  tableData:StaticWeaponEntityOrCarEntityOrTankEntityOrShipFEntityOrPlaneEntityProxy[] = [];
 
 	constructor(private data:DataApi) {
 		this.showData();
@@ -16,7 +16,8 @@ export class TableView {
 
 	async showData() {
 		const vehData:VehicleProxy = await this.data.vehicleData();
-		this.tableData = vehData.vehicles.Car.sort(() => 0.5 - Math.random()).slice(0, 12);
+    const cars = vehData.vehicles.Car;
+    this.tableData = cars!.sort(() => 0.5 - Math.random()).slice(0, 12);
 	}
 
 	activate() {
