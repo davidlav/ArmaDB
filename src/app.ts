@@ -10,7 +10,7 @@ export class App {
 		config.title = 'ArmaDB';
 		config.map([
 			{route: '', moduleId: PLATFORM.moduleName('./components/table-view/table-view')},
-			{route: 'veh/:className', moduleId: PLATFORM.moduleName('./components/item-view/item-view')}, // localhost:8080/#/veh/...
+			{route: 'veh/:className', name: 'veh', moduleId: PLATFORM.moduleName('./components/item-view/item-view')}, // localhost:8080/#/veh/...
 		]);
 		this.router = router;
 	}

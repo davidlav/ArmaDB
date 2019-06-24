@@ -10,7 +10,8 @@
     </thead>
 
     <tbody>
-      <tr repeat.for="veh of tableData">
+      <tr repeat.for="veh of tableData"
+          click.delegate="rowClicked(veh)">
         <td>${veh.dispName}</td>
         <td>${veh.className}</td>
         <td>${veh.category}</td>
